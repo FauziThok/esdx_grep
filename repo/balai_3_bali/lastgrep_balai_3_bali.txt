@@ -1,0 +1,97 @@
+Event:
+    Public ID              bmg2021ynoc
+    Preferred Origin ID    Origin/20211215224813.541067.137921
+    Preferred Magnitude ID Origin/20211215224813.541067.137921/netMag/M
+    Description
+      region name: Flores Sea
+    Creation time          2021-12-15 22:46:41
+
+Origin:
+    Public ID              Origin/20211215224813.541067.137921
+    Date                   2021-12-15
+    Time                   22:44:51.5  +/-    0.2 s
+    Latitude                -7.26 deg  +/-      2 km
+    Longitude              121.16 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMG
+    Author                 scolv@sc-gui-prod.tews
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-15 22:48:13
+    Residual RMS             0.72 s
+    Azimuthal gap              65 deg
+
+4 Network magnitudes:
+    ML        3.41 +/- 0.25   8            BMG
+    MLv       3.55 +/- 0.18  10            BMG
+    Mjma      3.50 +/- 0.20  10            BMG1
+    M         3.50           10 preferred  BMG1
+
+33 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PSJCM IA    0.6 291  P       22:45:03.1  -0.1 M  1.0  PSJCM
+    PSJCM IA    0.6 291  S       22:45:11.6  -0.0 M  1.0  PSJCM
+    RNFM  IA    1.2 186  P       22:45:13.8   0.7 M  1.0  RNFM 
+    RNFM  IA    1.2 186  S       22:45:29.8   0.6 M  1.0  RNFM 
+    BSSI  IA    1.3 329  P       22:45:14.7  -0.4 M  1.0  BSSI 
+    BSSI  IA    1.3 329  S       22:45:31.7  -1.0 M  1.0  BSSI 
+    WEFM  IA    1.4 157  P       22:45:17.1  -0.2 M  1.0  WEFM 
+    WEFM  IA    1.4 157  S       22:45:36.1  -0.7 M  1.0  WEFM 
+    KMBFM IA    1.5 213  P       22:45:18.8   0.1 M  1.0  KMBFM
+    EDFI  IA    1.6 160  P       22:45:19.2   0.0 M  1.0  EDFI 
+    EDFI  IA    1.6 160  S       22:45:38.8  -1.2 M  1.0  EDFI 
+    MMRI  IA    1.7 142  P       22:45:21.8   0.3 M  1.0  MMRI 
+    LBFI  IA    1.7 226  P       22:45:21.9   0.3 M  1.0  LBFI 
+    LBFI  IA    1.7 226  S       22:45:43.9  -0.6 M  1.0  LBFI 
+    OMBFM IA    1.9 223  P       22:45:24.6   0.2 M  1.0  OMBFM
+    LRTI  IA    2.1 119  P       22:45:27.0   0.5 M  1.0  LRTI 
+    KJCM  IA    2.2 321  P       22:45:27.8   0.3 M  1.0  KJCM 
+    BKSI  IA    2.2 332  P       22:45:26.9  -1.0 M  1.0  BKSI 
+    BBSI  IA    2.3  39  P       22:45:29.3   0.4 M  1.0  BBSI 
+    IBTI  IA    2.4 118  P       22:45:30.9   0.5 M  1.0  IBTI 
+    BBCM  IA    2.5 334  P       22:45:31.5  -0.3 M  1.0  BBCM 
+    LBNFM IA    2.5 238  P       22:45:32.6   0.3 M  1.0  LBNFM
+    WSI   IA    2.5 200  P       22:45:33.0   0.3 M  1.0  WSI  
+    WLFM  IA    2.6 119  P       22:45:33.4  -0.2 M  1.0  WLFM 
+    MKS   IA    2.6 320  P       22:45:34.6   0.5 M  1.0  MKS  
+    KAPI  II    2.6 328  P       22:45:35.3   1.2 M  1.0  KAPI 
+    LMNI  IA    2.7 111  P       22:45:34.5  -0.7 M  1.0  LMNI 
+    DBNFM IA    2.8 245  P       22:45:37.0   0.8 M  1.0  DBNFM
+    BASI  IA    3.0 191  P       22:45:39.2   0.2 M  1.0  BASI 
+    WWCI  IA    3.1  50  P       22:45:40.8   0.7 M  1.0  WWCI 
+    ALKI  IA    3.5 105  P       22:45:45.6  -0.5 M  1.0  ALKI 
+    PLAI  IA    3.7 245  P       22:45:49.9   1.3 M  1.0  PLAI 
+    TWSI  IA    4.5 251  P       22:45:57.2  -2.3 M  1.0  TWSI 
+
+28 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PSJCM IA    0.6 291  ML      3.07 -0.34    1.79467     
+    PSJCM IA    0.6 291  MLv     3.22 -0.33    2.52062     
+    PSJCM IA    0.6 291  Mjma    3.00 -0.50    1.85738     
+    EDFI  IA    1.6 160  ML      3.49  0.07    1.29621     
+    EDFI  IA    1.6 160  MLv     3.39 -0.16    1.02928     
+    EDFI  IA    1.6 160  Mjma    3.26 -0.24   0.595021     
+    LRTI  IA    2.1 119  ML      3.65  0.23   0.969333     
+    LRTI  IA    2.1 119  MLv     3.53 -0.02   0.745068     
+    LRTI  IA    2.1 119  Mjma    3.55  0.05   0.704414     
+    KJCM  IA    2.2 321  ML      3.63  0.21   0.840387     
+    KJCM  IA    2.2 321  MLv     3.79  0.24    1.22405     
+    KJCM  IA    2.2 321  Mjma    3.52  0.02   0.622636     
+    BKSI  IA    2.2 332  ML      3.36 -0.06   0.432295     
+    BKSI  IA    2.2 332  MLv     3.47 -0.08   0.561977     
+    BKSI  IA    2.2 332  Mjma    3.32 -0.18   0.383549     
+    BBSI  IA    2.3  39  ML      2.98 -0.43   0.167595     
+    BBSI  IA    2.3  39  MLv     3.39 -0.16    0.43052     
+    BBSI  IA    2.3  39  Mjma    3.65  0.15   0.779635     
+    BBCM  IA    2.5 334  MLv     3.71  0.16   0.680661     
+    BBCM  IA    2.5 334  Mjma    3.57  0.07   0.547077     
+    MKS   IA    2.6 320  ML      3.51  0.10   0.350017     
+    MKS   IA    2.6 320  MLv     3.70  0.15   0.535569     
+    MKS   IA    2.6 320  Mjma    3.59  0.09    0.51126     
+    BASI  IA    3.0 191  ML      3.58  0.16   0.255313     
+    BASI  IA    3.0 191  MLv     3.80  0.25   0.427635     
+    BASI  IA    3.0 191  Mjma    3.80  0.30   0.676195     
+    WWCI  IA    3.1  50  MLv     3.46 -0.09    0.17915     
+    WWCI  IA    3.1  50  Mjma    3.64  0.14   0.447697     
+
+Balai3Denpasar

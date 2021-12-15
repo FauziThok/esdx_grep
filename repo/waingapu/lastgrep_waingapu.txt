@@ -1,0 +1,71 @@
+Event:
+    Public ID              bmkg2021ynnk
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   22:24:03.2  +/-    1.0 s
+    Latitude                -7.22 deg  +/-      3 km
+    Longitude              121.21 deg  +/-      3 km
+    Depth                      23 km   +/-   10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.45 s
+    Azimuthal gap             154 deg
+
+5 Network magnitudes:
+    mb        5.07 +/- 0.03   2            
+    mB        5.85 +/- 0.00   1            
+    Mw(mB)    5.42 +/- 0.40   1            
+    MLv       4.45 +/- 0.22  12            
+    M         4.66           12 preferred  
+
+26 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.2 189  P       22:24:23.8  -1.0 M  1.0  RNFM 
+    RNFM  IA    1.2 189  S       22:24:40.1  -0.9 M  1.0  RNFM 
+    BSSI  IA    1.3 326  P       22:24:24.7  -0.9 M  1.0  BSSI 
+    BSSI  IA    1.3 326  S       22:24:42.8   0.2 M  1.0  BSSI 
+    LMTI  IA    1.6 208  P       22:24:28.7  -0.7 M  1.0  LMTI 
+    LMTI  IA    1.6 208  S       22:24:49.7   0.2 M  1.0  LMTI 
+    BNTI  IA    1.6 188  P       22:24:30.0   0.3 M  1.0  BNTI 
+    BNTI  IA    1.6 188  S       22:24:52.6   2.5 M  1.0  BNTI 
+    EDFI  IA    1.6 163  P       22:24:29.3  -0.7 M  1.0  EDFI 
+    EDFI  IA    1.6 163  S       22:24:49.1  -1.4 M  1.0  EDFI 
+    MMRI  IA    1.7 144  P       22:24:32.2   0.2 M  1.0  MMRI 
+    MMRI  IA    1.7 144  S       22:24:54.0  -0.1 M  1.0  MMRI 
+    OMBFM IA    2.0 223  P       22:24:35.6  -0.0 M  1.0  OMBFM
+    OMBFM IA    2.0 223  S       22:25:01.2   0.4 M  1.0  OMBFM
+    BBSI  IA    2.2  38  P       22:24:38.8   0.7 M  1.0  BBSI 
+    BBSI  IA    2.2  38  S       22:25:05.4   0.2 M  1.0  BBSI 
+    IBTI  IA    2.3 120  P       22:24:41.3   1.0 M  1.0  IBTI 
+    DBNFM IA    2.9 245  P       22:24:47.1  -0.3 M  1.0  DBNFM
+    DBNFM IA    2.9 245  S       22:25:20.2  -1.6 M  1.0  DBNFM
+    BASI  IA    3.1 192  P       22:24:51.2   1.2 M  1.0  BASI 
+    SBNI  IA    3.3 169  P       22:24:55.5   1.8 M  1.0  SBNI 
+    PDLI  IA    3.4 255  P       22:24:57.6   2.5 M  1.0  PDLI 
+    ALKI  IA    3.5 106  P       22:24:56.2   0.3 M  1.0  ALKI 
+    KTTI  IA    4.3 131  P       22:25:10.7   3.5 M  1.0  KTTI 
+    SRBI  IA    6.0 261  P       22:25:32.1   1.4 M  1.0  SRBI 
+    KMMI  IA    7.2 271  P       22:25:51.2   3.6 M  1.0  KMMI 
+
+15 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    LMTI  IA    1.6 208  MLv     4.59  0.14    16.8188     
+    BNTI  IA    1.6 188  MLv     4.36 -0.09    9.50474     
+    MMRI  IA    1.7 144  MLv     4.17 -0.28    4.97016     
+    OMBFM IA    2.0 223  MLv     4.58  0.13    9.15508     
+    BBSI  IA    2.2  38  MLv     4.36 -0.09    4.39913     
+    DBNFM IA    2.9 245  MLv     4.61  0.16    3.32232     
+    BASI  IA    3.1 192  MLv     4.79  0.34    3.84382     
+    SBNI  IA    3.3 169  MLv     4.21 -0.24   0.720593     
+    PDLI  IA    3.4 255  MLv     4.58  0.13    1.51536     
+    ALKI  IA    3.5 106  MLv     4.23 -0.22   0.632752     
+    KTTI  IA    4.3 131  MLv     4.21 -0.24   0.340079     
+    SRBI  IA    6.0 261  MLv     4.71  0.26   0.401354     
+    SRBI  IA    6.0 261  mB      5.85  0.00    8587.24     
+    SRBI  IA    6.0 261  mb      5.09  0.02    92.3908 0.53
+    KMMI  IA    7.2 271  mb      5.05 -0.02    104.102 0.80
+
+stageofwaingapu

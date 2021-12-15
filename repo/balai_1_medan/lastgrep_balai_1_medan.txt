@@ -1,0 +1,68 @@
+Event:
+    Public ID              BMKG2021ymqs
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   10:55:41.8  +/-    0.8 s
+    Latitude                 3.33 deg  +/-    4 km
+    Longitude               96.19 deg  +/-    5 km
+    Depth                      15 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.81 s
+    Azimuthal gap             255 deg
+
+4 Network magnitudes:
+    MLv       3.73 +/- 0.19   6            
+    M         3.76            6 preferred  
+    Mjma      3.54 +/- 0.15   6            
+    ML        4.03 +/- 0.22   6            
+
+15 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    BESM  IA    0.8  10  P       10:55:58.0  -0.0 M  1.0  BESM 
+    BESM  IA    0.8  10  S       10:56:11.3   1.5 M  1.0  BESM 
+    LISM  IA    1.3  28  P       10:56:04.8  -0.2 M  1.0  LISM 
+    LISM  IA    1.3  28  S       10:56:21.2  -1.1 M  1.0  LISM 
+    SISM  IA    1.4  23  P       10:56:05.6  -0.7 M  1.0  SISM 
+    SISM  IA    1.4  23  S       10:56:24.5  -0.1 M  1.0  SISM 
+    GESM  IA    1.5 358  P       10:56:06.9  -1.2 M  1.0  GESM 
+    GESM  IA    1.5 358  S       10:56:27.5  -0.3 M  1.0  GESM 
+    BESI  IA    1.5  26  P       10:56:10.2   1.6 M  1.0  BESI 
+    KCSI  IA    1.6  83  P       10:56:08.9  -0.5 M  1.0  KCSI 
+    KCSI  IA    1.6  83  S       10:56:30.2  -0.1 M  1.0  KCSI 
+    LDSI  IA    2.0 103  P       10:56:16.0   0.6 M  1.0  LDSI 
+    LDSI  IA    2.0 103  S       10:56:40.4  -0.8 M  1.0  LDSI 
+    TKSM  IA    2.1  95  P       10:56:17.7   0.6 M  1.0  TKSM 
+    TKSM  IA    2.1  95  S       10:56:44.7   0.4 M  1.0  TKSM 
+
+24 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    BESM  IA    0.8  10  ML      4.37  0.34    25.5304      
+    BESM  IA    0.8  10  MLv     3.87  0.14    8.06735      
+    BESM  IA    0.8  10  Mjma    3.62  0.08        N/A  N/A 
+    LISM  IA    1.3  28  ML      4.05  0.03    6.88279      
+    LISM  IA    1.3  28  MLv     3.57 -0.16     2.2336      
+    LISM  IA    1.3  28  Mjma    3.43 -0.11        N/A  N/A 
+    SISM  IA    1.4  23  ML      4.09  0.06     6.6843      
+    SISM  IA    1.4  23  MLv     3.74  0.02    2.97885      
+    SISM  IA    1.4  23  Mjma    3.63  0.08        N/A  N/A 
+    GESM  IA    1.5 358  ML      4.26  0.24    8.53984      
+    GESM  IA    1.5 358  MLv     3.90  0.17    3.63667      
+    GESM  IA    1.5 358  Mjma    3.76  0.22        N/A  N/A 
+    BESI  IA    1.5  26  ML      4.13  0.11    6.04167      
+    BESI  IA    1.5  26  MLv     3.85  0.12    3.11711      
+    BESI  IA    1.5  26  Mjma    3.72  0.17        N/A  N/A 
+    KCSI  IA    1.6  83  ML      3.38 -0.65   0.986686      
+    KCSI  IA    1.6  83  MLv     3.19 -0.54   0.633314      
+    KCSI  IA    1.6  83  Mjma    3.12 -0.42        N/A  N/A 
+    LDSI  IA    2.0 103  ML      3.61 -0.42   0.965828      
+    LDSI  IA    2.0 103  MLv     3.43 -0.30   0.641187      
+    LDSI  IA    2.0 103  Mjma    3.30 -0.24        N/A  N/A 
+    TKSM  IA    2.1  95  ML      4.01 -0.02    2.05874      
+    TKSM  IA    2.1  95  MLv     3.93  0.20    1.71151      
+    TKSM  IA    2.1  95  Mjma    3.56  0.02        N/A  N/A 
+
+Balai1Medan

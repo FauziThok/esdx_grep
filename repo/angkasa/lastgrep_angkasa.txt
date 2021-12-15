@@ -1,0 +1,54 @@
+Event:
+    Public ID              bmkg2021ymxs
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   14:27:59.1  +/-    0.9 s
+    Latitude                -1.76 deg  +/-      4 km
+    Longitude              140.61 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.83 s
+    Azimuthal gap             270 deg
+
+4 Network magnitudes:
+    Mjma      3.43 +/- 0.27   6            
+    ML        2.94 +/- 0.20   6            
+    MLv       3.09 +/- 0.20   6            
+    M         3.14            6 preferred  
+
+13 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    JAY   IA    0.8 173  P       14:28:13.2  -0.7 M  1.0  JAY  
+    JAY   IA    0.8 173  S       14:28:23.4  -1.4 M  1.0  JAY  
+    GENI  IA    0.9 208  P       14:28:16.7  -0.4 M  1.0  GENI 
+    GENI  IA    0.9 208  S       14:28:29.0  -1.3 M  1.0  GENI 
+    ARPI  IA    1.1 173  P       14:28:20.2  -0.2 M  1.0  ARPI 
+    ARPI  IA    1.1 173  S       14:28:36.3   0.2 M  1.0  ARPI 
+    LJPI  IA    1.5 206  P       14:28:26.0   0.1 M  1.0  LJPI 
+    LJPI  IA    1.5 206  S       14:28:46.7   0.6 M  1.0  LJPI 
+    SKPM  IA    1.7 176  P       14:28:28.8   0.4 M  1.0  SKPM 
+    SKPM  IA    1.7 176  S       14:28:51.6   1.0 M  1.0  SKPM 
+    SMPI  IA    1.9 263  P       14:28:31.6  -0.1 M  1.0  SMPI 
+    SMPI  IA    1.9 263  S       14:28:56.6  -0.1 M  1.0  SMPI 
+    DYPI  IA    3.3 200  S       14:29:32.1   1.8 M  1.0  DYPI 
+
+12 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    JAY   IA    0.8 173  MLv     3.04 -0.04    1.32388     
+    GENI  IA    0.9 208  ML      3.15  0.21    1.32254     
+    GENI  IA    0.9 208  MLv     3.30  0.21    1.86802     
+    GENI  IA    0.9 208  Mjma    3.26 -0.17    1.43124     
+    ARPI  IA    1.1 173  Mjma    3.61  0.18    2.27613     
+    LJPI  IA    1.5 206  ML      2.91 -0.03   0.367824     
+    LJPI  IA    1.5 206  MLv     2.95 -0.14   0.398327     
+    LJPI  IA    1.5 206  Mjma    3.33 -0.10   0.727556     
+    SKPM  IA    1.7 176  ML      2.93 -0.01   0.307124     
+    SKPM  IA    1.7 176  Mjma    3.56  0.13    1.04641     
+    SMPI  IA    1.9 263  ML      2.77 -0.17   0.160228     
+    SMPI  IA    1.9 263  MLv     2.99 -0.09   0.268173     
+
+stageofangkasa

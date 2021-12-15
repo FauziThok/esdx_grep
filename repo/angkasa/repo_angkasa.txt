@@ -1,0 +1,205 @@
+Event:
+    Public ID              bmkg2021yiwf
+    Description
+      region name: Near North Coast of Irian Jaya
+Origin:
+    Date                   2021-12-13
+    Time                   09:10:27.8  +/-    0.4 s
+    Latitude                -2.69 deg  +/-      2 km
+    Longitude              140.68 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.29 s
+    Azimuthal gap             155 deg
+
+4 Network magnitudes:
+    Mjma      2.94 +/- 0.05   3            
+    ML        2.52 +/- 0.33   5            
+    MLv       2.53 +/- 0.26   5            
+    M         2.63            5 preferred  
+
+9 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    JAY   IA    0.2   7  P       09:10:32.1  -0.6 M  1.0  JAY  
+    JAY   IA    0.2   7  S       09:10:36.7   0.6 M  1.0  JAY  
+    ARPI  IA    0.2 162  P       09:10:33.3   0.0 M  1.0  ARPI 
+    ARPI  IA    0.2 162  S       09:10:39.7   2.4 M  1.0  ARPI 
+    GENI  IA    0.5 281  P       09:10:38.1  -0.5 M  1.0  GENI 
+    GENI  IA    0.5 281  S       09:10:48.2   1.7 M  1.0  GENI 
+    SKPM  IA    0.8 177  P       09:10:40.7  -1.9 M  1.0  SKPM 
+    SKPM  IA    0.8 177  S       09:10:53.1  -0.3 M  1.0  SKPM 
+    LJPI  IA    0.9 240  P       09:10:43.0  -1.3 M  1.0  LJPI 
+
+9 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    ARPI  IA    0.2 162  MLv     2.52 -0.01    4.13757     
+    GENI  IA    0.5 281  ML      2.66  0.14   0.808006     
+    GENI  IA    0.5 281  Mjma    2.99  0.05    2.11959     
+    SKPM  IA    0.8 177  ML      2.60  0.08   0.473244     
+    SKPM  IA    0.8 177  MLv     2.60  0.07   0.472989     
+    SKPM  IA    0.8 177  Mjma    2.94  0.00    1.00935     
+    LJPI  IA    0.9 240  ML      2.46 -0.05    0.30854     
+    LJPI  IA    0.9 240  MLv     2.67  0.14   0.490689     
+    LJPI  IA    0.9 240  Mjma    2.89 -0.05   0.716008     
+
+stageofangkasa
+Event:
+    Public ID              bmkg2021yktx
+    Description
+      region name: Near North Coast of Irian Jaya
+Origin:
+    Date                   2021-12-14
+    Time                   10:16:51.5  +/-    0.5 s
+    Latitude                -1.97 deg  +/-      4 km
+    Longitude              139.24 deg  +/-      2 km
+    Depth                      14 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.81 s
+    Azimuthal gap             199 deg
+
+5 Network magnitudes:
+    Mjma      3.79 +/- 0.19   7            
+    ML        3.96 +/- 0.17   7            
+    MLv       3.88 +/- 0.24   7            
+    Ms(BB)    3.99 +/- 0.30   3            
+    M         3.90            7 preferred  
+
+19 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    SMPI  IA    0.5 269  P       10:17:02.7  -0.1 M  1.0  SMPI 
+    SMPI  IA    0.5 269  S       10:17:12.0   0.9 M  1.0  SMPI 
+    GENI  IA    1.1 124  P       10:17:11.2  -1.0 M  1.0  GENI 
+    GENI  IA    1.1 124  S       10:17:28.2   0.7 M  1.0  GENI 
+    LJPI  IA    1.3 149  P       10:17:14.4  -1.2 M  1.0  LJPI 
+    LJPI  IA    1.3 149  S       10:17:32.1  -1.6 M  1.0  LJPI 
+    JAY   IA    1.6 110  P       10:17:18.4  -0.3 M  1.0  JAY  
+    JAY   IA    1.6 110  S       10:17:39.4   0.2 M  1.0  JAY  
+    ARPI  IA    1.8 122  P       10:17:21.6   0.0 M  1.0  ARPI 
+    SKPM  IA    2.1 135  P       10:17:27.3   1.2 M  1.0  SKPM 
+    SKPM  IA    2.1 135  S       10:17:53.7   1.0 M  1.0  SKPM 
+    DYPI  IA    2.9 175  P       10:17:36.9  -0.0 M  1.0  DYPI 
+    DYPI  IA    2.9 175  S       10:18:12.9   0.7 M  1.0  DYPI 
+    WWPI  IA    2.9 263  P       10:17:37.5   0.4 M  1.0  WWPI 
+    WWPI  IA    2.9 263  S       10:18:13.1   0.6 M  1.0  WWPI 
+    SRPI  IA    3.0 272  P       10:17:39.0   0.2 M  1.0  SRPI 
+    SRPI  IA    3.0 272  S       10:18:13.9  -1.5 M  1.0  SRPI 
+    MIPI  IA    3.5 223  P       10:17:44.8  -0.2 M  1.0  MIPI 
+    MIPI  IA    3.5 223  S       10:18:26.6  -0.1 M  1.0  MIPI 
+
+18 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    SMPI  IA    0.5 269  ML      3.86 -0.10    12.0749     
+    SMPI  IA    0.5 269  MLv     3.76 -0.12    9.54289     
+    SMPI  IA    0.5 269  Mjma    3.56 -0.23    7.71591     
+    GENI  IA    1.1 124  ML      3.99  0.03    7.49671     
+    GENI  IA    1.1 124  MLv     3.81 -0.07    4.92906     
+    GENI  IA    1.1 124  Mjma    3.67 -0.12     2.7407     
+    ARPI  IA    1.8 122  ML      3.98  0.01    3.11954     
+    ARPI  IA    1.8 122  MLv     3.93  0.05    2.81938     
+    ARPI  IA    1.8 122  Mjma    4.04  0.25    2.92301     
+    SKPM  IA    2.1 135  ML      3.92 -0.04     1.8167     
+    SKPM  IA    2.1 135  MLv     3.70 -0.18    1.08327     
+    SKPM  IA    2.1 135  Mjma    3.84  0.05    1.36557     
+    SKPM  IA    2.1 135  Ms(BB)  3.65 -0.34   4.1008e-06 0.17
+    SRPI  IA    3.0 272  Mjma    3.85  0.06   0.754304     
+    SRPI  IA    3.0 272  Ms(BB)  4.12  0.13   6.62e-06 0.23
+    MIPI  IA    3.5 223  ML      4.09  0.13   0.456309     
+    MIPI  IA    3.5 223  MLv     4.23  0.35   0.625552     
+    MIPI  IA    3.5 223  Ms(BB)  4.20  0.21   6.27651e-06 0.10
+
+stageofangkasa
+Event:
+    Public ID              bmkg2021yliv
+    Description
+      region name: Near North Coast of Irian Jaya
+Origin:
+    Date                   2021-12-14
+    Time                   17:49:27.5  +/-    0.5 s
+    Latitude                -2.58 deg  +/-      6 km
+    Longitude              139.50 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.93 s
+    Azimuthal gap             140 deg
+
+2 Network magnitudes:
+    MLv       3.49 +/- 0.31   6            
+    M         3.49            6 preferred  
+
+6 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    GENI  IA    0.7  91  P       17:49:43.3   2.4 M  1.0  GENI 
+    LJPI  IA    0.7 141  P       17:49:38.6  -2.8 M  1.0  LJPI 
+    SMPI  IA    1.0 307  P       17:49:45.7  -0.7 M  1.0  SMPI 
+    JAY   IA    1.2  87  P       17:49:49.6  -0.1 M  1.0  JAY  
+    ARPI  IA    1.3 104  P       17:49:49.7  -1.3 M  1.0  ARPI 
+    DYPI  IA    2.3 180  P       17:50:07.4   2.5 M  1.0  DYPI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    GENI  IA    0.7  91  MLv     3.60  0.11    5.33527     
+    LJPI  IA    0.7 141  MLv     3.72  0.23    6.66848     
+    SMPI  IA    1.0 307  MLv     3.32 -0.17    1.85127     
+    ARPI  IA    1.3 104  MLv     3.32 -0.17    1.27557     
+
+stageofangkasa
+Event:
+    Public ID              bmkg2021ymxs
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   14:27:59.1  +/-    0.9 s
+    Latitude                -1.76 deg  +/-      4 km
+    Longitude              140.61 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.83 s
+    Azimuthal gap             270 deg
+
+4 Network magnitudes:
+    Mjma      3.43 +/- 0.27   6            
+    ML        2.94 +/- 0.20   6            
+    MLv       3.09 +/- 0.20   6            
+    M         3.14            6 preferred  
+
+13 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    JAY   IA    0.8 173  P       14:28:13.2  -0.7 M  1.0  JAY  
+    JAY   IA    0.8 173  S       14:28:23.4  -1.4 M  1.0  JAY  
+    GENI  IA    0.9 208  P       14:28:16.7  -0.4 M  1.0  GENI 
+    GENI  IA    0.9 208  S       14:28:29.0  -1.3 M  1.0  GENI 
+    ARPI  IA    1.1 173  P       14:28:20.2  -0.2 M  1.0  ARPI 
+    ARPI  IA    1.1 173  S       14:28:36.3   0.2 M  1.0  ARPI 
+    LJPI  IA    1.5 206  P       14:28:26.0   0.1 M  1.0  LJPI 
+    LJPI  IA    1.5 206  S       14:28:46.7   0.6 M  1.0  LJPI 
+    SKPM  IA    1.7 176  P       14:28:28.8   0.4 M  1.0  SKPM 
+    SKPM  IA    1.7 176  S       14:28:51.6   1.0 M  1.0  SKPM 
+    SMPI  IA    1.9 263  P       14:28:31.6  -0.1 M  1.0  SMPI 
+    SMPI  IA    1.9 263  S       14:28:56.6  -0.1 M  1.0  SMPI 
+    DYPI  IA    3.3 200  S       14:29:32.1   1.8 M  1.0  DYPI 
+
+12 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    JAY   IA    0.8 173  MLv     3.04 -0.04    1.32388     
+    GENI  IA    0.9 208  ML      3.15  0.21    1.32254     
+    GENI  IA    0.9 208  MLv     3.30  0.21    1.86802     
+    GENI  IA    0.9 208  Mjma    3.26 -0.17    1.43124     
+    ARPI  IA    1.1 173  Mjma    3.61  0.18    2.27613     
+    LJPI  IA    1.5 206  ML      2.91 -0.03   0.367824     
+    LJPI  IA    1.5 206  MLv     2.95 -0.14   0.398327     
+    LJPI  IA    1.5 206  Mjma    3.33 -0.10   0.727556     
+    SKPM  IA    1.7 176  ML      2.93 -0.01   0.307124     
+    SKPM  IA    1.7 176  Mjma    3.56  0.13    1.04641     
+    SMPI  IA    1.9 263  ML      2.77 -0.17   0.160228     
+    SMPI  IA    1.9 263  MLv     2.99 -0.09   0.268173     
+
+stageofangkasa

@@ -1,0 +1,532 @@
+Event:
+    Public ID              BMKG2021yivi
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   08:43:20.9  +/-    0.4 s
+    Latitude                 1.01 deg  +/-    3 km
+    Longitude               98.75 deg  +/-    3 km
+    Depth                      48 km   +/-    8 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.69 s
+    Azimuthal gap             156 deg
+
+5 Network magnitudes:
+    Mjma      3.36 +/- 0.24  15            
+    ML        3.81 +/- 0.31  15            
+    MLv       3.53 +/- 0.26  15            
+    Ms(BB)    3.42 +/- 0.36   5            
+    M         3.53           15 preferred  
+
+28 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    LTSM  IA    0.5  19  P       08:43:33.6  -0.2 M  1.0  LTSM 
+    LTSM  IA    0.5  19  S       08:43:43.6  -0.0 M  1.0  LTSM 
+    TTSM  IA    0.7  84  P       08:43:35.1   0.1 M  1.0  TTSM 
+    SBSI  IA    0.8  61  P       08:43:35.9  -0.4 M  1.0  SBSI 
+    SBSI  IA    0.8  61  S       08:43:47.7  -0.3 M  1.0  SBSI 
+    TRSI  IA    1.0  12  P       08:43:39.6   0.7 M  1.0  TRSI 
+    PLSM  IA    1.0  60  P       08:43:39.2   0.2 M  1.0  PLSM 
+    PLSM  IA    1.0  60  S       08:43:53.3   0.4 M  1.0  PLSM 
+    PTSM  IA    1.1  23  P       08:43:40.3   0.8 M  1.0  PTSM 
+    ONSM  IA    1.1 354  P       08:43:40.4  -0.1 M  1.0  ONSM 
+    ONSM  IA    1.1 354  S       08:43:55.1  -0.5 M  1.0  ONSM 
+    GSI   IA    1.2 284  P       08:43:42.5   1.1 M  1.0  GSI  
+    GSI   IA    1.2 284  S       08:43:57.4   0.2 M  1.0  GSI  
+    MTSI  IA    1.2 336  P       08:43:42.4   0.6 M  1.0  MTSI 
+    MTSI  IA    1.2 336  S       08:43:58.9   1.0 M  1.0  MTSI 
+    SASI  IA    1.4 128  S       08:44:01.9  -0.6 M  1.0  SASI 
+    SPSM  IA    1.5 346  P       08:43:45.8  -0.1 M  1.0  SPSM 
+    SPSM  IA    1.5 346  S       08:44:04.0  -1.3 M  1.0  SPSM 
+    RSSM  IA    1.6   1  P       08:43:47.2   0.8 M  1.0  RSSM 
+    PSI   IA    1.7   6  P       08:43:47.9   0.1 M  1.0  PSI  
+    SDSM  IA    1.8 345  P       08:43:49.1  -0.2 M  1.0  SDSM 
+    LDSI  IA    2.0 342  P       08:43:51.2  -0.3 M  1.0  LDSI 
+    LDSI  IA    2.0 342  S       08:44:09.9  -5.5 MX 0.0  LDSI 
+    TKSM  IA    2.2 349  P       08:43:54.4   0.1 M  1.0  TKSM 
+    KCSI  IA    2.7 339  P       08:44:00.6  -0.9 M  1.0  KCSI 
+    TPTI  IA    2.7 325  P       08:44:02.3   0.0 M  1.0  TPTI 
+    LISM  IA    4.0 330  P       08:44:17.2  -2.0 M  1.0  LISM 
+    IPM   MY    4.1  33  P       08:44:22.3   0.9 M  1.0  IPM  
+
+62 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    LTSM  IA    0.5  19  ML      4.28  0.47    29.9223      
+    LTSM  IA    0.5  19  MLv     3.83  0.30    10.5895      
+    LTSM  IA    0.5  19  Mjma    3.30 -0.05        N/A  N/A 
+    TTSM  IA    0.7  84  ML      3.65 -0.15    6.12229      
+    TTSM  IA    0.7  84  MLv     3.41 -0.11    3.50288      
+    TTSM  IA    0.7  84  Mjma    2.98 -0.37        N/A  N/A 
+    SBSI  IA    0.8  61  ML      3.92  0.11    9.61609      
+    SBSI  IA    0.8  61  MLv     3.52 -0.01    3.85806      
+    SBSI  IA    0.8  61  Mjma    3.16 -0.20        N/A  N/A 
+    TRSI  IA    1.0  12  ML      3.83  0.02    5.70052      
+    TRSI  IA    1.0  12  MLv     3.63  0.10    3.60401      
+    TRSI  IA    1.0  12  Mjma    3.29 -0.06        N/A  N/A 
+    PLSM  IA    1.0  60  ML      3.56 -0.25     3.0104      
+    PLSM  IA    1.0  60  MLv     3.18 -0.34    1.28196      
+    PLSM  IA    1.0  60  Mjma    3.03 -0.33        N/A  N/A 
+    PTSM  IA    1.1  23  ML      3.63 -0.18     3.3653      
+    PTSM  IA    1.1  23  MLv     3.36 -0.16    1.82776      
+    PTSM  IA    1.1  23  Mjma    3.16 -0.20        N/A  N/A 
+    ONSM  IA    1.1 354  ML      4.17  0.37    10.8137      
+    ONSM  IA    1.1 354  MLv     3.67  0.14    3.34824      
+    ONSM  IA    1.1 354  Mjma    3.34 -0.01        N/A  N/A 
+    GSI   IA    1.2 284  ML      2.72 -1.08   0.352455      
+    GSI   IA    1.2 284  MLv     2.48 -1.05   0.200775      
+    GSI   IA    1.2 284  Mjma    2.92 -0.44        N/A  N/A 
+    MTSI  IA    1.2 336  ML      4.13  0.32    8.59799      
+    MTSI  IA    1.2 336  MLv     3.87  0.34    4.74996      
+    MTSI  IA    1.2 336  Mjma    3.73  0.38        N/A  N/A 
+    SPSM  IA    1.5 346  ML      4.52  0.72    14.4796      
+    SPSM  IA    1.5 346  MLv     4.07  0.54    5.10014      
+    SPSM  IA    1.5 346  Mjma    3.73  0.37        N/A  N/A 
+    RSSM  IA    1.6   1  ML      3.56 -0.25    1.50267      
+    RSSM  IA    1.6   1  MLv     3.13 -0.40   0.556173      
+    RSSM  IA    1.6   1  Mjma    3.15 -0.20        N/A  N/A 
+    PSI   IA    1.7   6  ML      2.39 -1.42   0.0886588      
+    PSI   IA    1.7   6  MLv     2.48 -1.05   0.109903      
+    PSI   IA    1.7   6  Mjma    2.80 -0.56        N/A  N/A 
+    SDSM  IA    1.8 345  ML      4.36  0.55    7.20802      
+    SDSM  IA    1.8 345  MLv     3.86  0.33    2.28705      
+    SDSM  IA    1.8 345  Mjma    3.64  0.28        N/A  N/A 
+    LDSI  IA    2.0 342  ML      3.73 -0.08    1.36202      
+    LDSI  IA    2.0 342  MLv     3.68  0.15    1.21666      
+    LDSI  IA    2.0 342  Mjma    3.52  0.16        N/A  N/A 
+    TKSM  IA    2.2 349  ML      4.21  0.40    3.19999      
+    TKSM  IA    2.2 349  MLv     3.78  0.25    1.18791      
+    TKSM  IA    2.2 349  Mjma    3.60  0.24        N/A  N/A 
+    TKSM  IA    2.2 349  Ms(BB)  3.83  0.41   5.92219e-06 0.24 
+    KCSI  IA    2.7 339  ML      3.38 -0.43   0.240574      
+    KCSI  IA    2.7 339  MLv     3.02 -0.51   0.105268      
+    KCSI  IA    2.7 339  Mjma    3.19 -0.17        N/A  N/A 
+    KCSI  IA    2.7 339  Ms(BB)  2.87 -0.55   4.50611e-07 0.49 
+    TPTI  IA    2.7 325  ML      3.24 -0.57   0.163341      
+    TPTI  IA    2.7 325  MLv     3.27 -0.26   0.174443      
+    TPTI  IA    2.7 325  Mjma    3.52  0.16        N/A  N/A 
+    TPTI  IA    2.7 325  Ms(BB)  3.10 -0.32   7.4745e-07 0.15 
+    LISM  IA    4.0 330  ML      4.16  0.35   0.363965      
+    LISM  IA    4.0 330  MLv     3.74  0.21   0.139055      
+    LISM  IA    4.0 330  Mjma    3.90  0.54        N/A  N/A 
+    LISM  IA    4.0 330  Ms(BB)  3.68  0.26   1.51706e-06 0.12 
+    IPM   MY    4.1  33  ML      3.61 -0.19   0.0952554      
+    IPM   MY    4.1  33  MLv     3.76  0.24   0.133549      
+    IPM   MY    4.1  33  Mjma    4.07  0.71        N/A  N/A 
+    IPM   MY    4.1  33  Ms(BB)  3.53  0.11   1.00056e-06 3.16 
+
+stageoftapaktuan
+Event:
+    Public ID              BMKG2021yjea
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   13:06:59.1  +/-    0.6 s
+    Latitude                 5.24 deg  +/-    3 km
+    Longitude               95.85 deg  +/-    3 km
+    Depth                       4 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.12 s
+    Azimuthal gap             210 deg
+
+4 Network magnitudes:
+    Mjma      2.39 +/- 0.27   4            
+    ML        2.72 +/- 0.15   5            
+    MLv       2.28 +/- 0.22   5            
+    M         2.42            5 preferred  
+
+12 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MASM  IA    0.3 283  P       13:07:05.2   0.6 M  1.0  MASM 
+    MASM  IA    0.3 283  S       13:07:09.3   0.9 M  1.0  MASM 
+    TPSI  IA    0.4 152  P       13:07:05.5  -0.9 M  1.0  TPSI 
+    TPSI  IA    0.4 152  S       13:07:09.6  -1.8 M  1.0  TPSI 
+    GESM  IA    0.5 145  P       13:07:09.1   0.4 M  1.0  GESM 
+    GESM  IA    0.5 145  S       13:07:17.0   1.6 M  1.0  GESM 
+    SASM  IA    0.5 226  P       13:07:07.7  -1.6 M  1.0  SASM 
+    SASM  IA    0.5 226  S       13:07:15.4  -1.0 M  1.0  SASM 
+    BSI   IA    0.6 295  P       13:07:10.9  -0.2 M  1.0  BSI  
+    BSI   IA    0.6 295  S       13:07:19.0  -0.6 M  1.0  BSI  
+    CASI  IA    0.7 204  P       13:07:13.5   1.4 M  1.0  CASI 
+    CASI  IA    0.7 204  S       13:07:22.6   1.3 M  1.0  CASI 
+
+14 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MASM  IA    0.3 283  ML      2.55 -0.17     3.3459      
+    MASM  IA    0.3 283  MLv     2.12 -0.16    1.24789      
+    TPSI  IA    0.4 152  ML      2.72  0.00    2.71773      
+    TPSI  IA    0.4 152  MLv     2.25 -0.03   0.919272      
+    TPSI  IA    0.4 152  Mjma    2.09 -0.30        N/A  N/A 
+    GESM  IA    0.5 145  ML      2.70 -0.02    1.14482      
+    GESM  IA    0.5 145  MLv     2.16 -0.12   0.335499      
+    GESM  IA    0.5 145  Mjma    2.26 -0.13        N/A  N/A 
+    BSI   IA    0.6 295  ML      2.67 -0.05   0.669144      
+    BSI   IA    0.6 295  MLv     2.28  0.00   0.277873      
+    BSI   IA    0.6 295  Mjma    2.48  0.09        N/A  N/A 
+    CASI  IA    0.7 204  ML      3.08  0.36    1.60056      
+    CASI  IA    0.7 204  MLv     2.81  0.53   0.875515      
+    CASI  IA    0.7 204  Mjma    2.77  0.38        N/A  N/A 
+
+stageoftapaktuan
+Event:
+    Public ID              BMKG2021ykqj
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   08:29:15.1  +/-    0.5 s
+    Latitude                 4.87 deg  +/-    4 km
+    Longitude               96.15 deg  +/-    2 km
+    Depth                      10 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.93 s
+    Azimuthal gap             167 deg
+
+4 Network magnitudes:
+    Mjma      2.52 +/- 0.17   4            
+    ML        2.60 +/- 0.13   5            
+    MLv       2.32 +/- 0.12   5            
+    M         2.44            5 preferred  
+
+12 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    GESM  IA    0.0 212  P       08:29:17.6   0.1 M  1.0  GESM 
+    GESM  IA    0.0 212  S       08:29:19.3   0.1 M  1.0  GESM 
+    CASI  IA    0.6 247  P       08:29:28.1   0.6 M  1.0  CASI 
+    CASI  IA    0.6 247  S       08:29:36.9   0.2 M  1.0  CASI 
+    SISM  IA    0.6 114  P       08:29:26.8  -1.1 M  1.0  SISM 
+    SISM  IA    0.6 114  S       08:29:35.9  -1.4 M  1.0  SISM 
+    SASM  IA    0.7 271  P       08:29:27.2  -1.1 M  1.0  SASM 
+    SASM  IA    0.7 271  S       08:29:37.2  -0.8 M  1.0  SASM 
+    MASM  IA    0.7 308  P       08:29:28.5  -0.4 M  1.0  MASM 
+    MASM  IA    0.7 308  S       08:29:40.2   1.3 M  1.0  MASM 
+    LISM  IA    0.7 121  P       08:29:30.6   0.8 M  1.0  LISM 
+    LISM  IA    0.7 121  S       08:29:42.3   1.7 M  1.0  LISM 
+
+14 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    GESM  IA    0.0 212  ML      2.53 -0.07    13.4586      
+    GESM  IA    0.0 212  MLv     2.08 -0.24    4.73015      
+    CASI  IA    0.6 247  ML      2.41 -0.18   0.369341      
+    CASI  IA    0.6 247  MLv     2.39  0.07   0.353325      
+    CASI  IA    0.6 247  Mjma    2.65  0.13        N/A  N/A 
+    SISM  IA    0.6 114  ML      2.68  0.09   0.671552      
+    SISM  IA    0.6 114  MLv     2.41  0.09   0.359889      
+    SISM  IA    0.6 114  Mjma    2.37 -0.16        N/A  N/A 
+    MASM  IA    0.7 308  ML      2.82  0.22   0.856856      
+    MASM  IA    0.7 308  MLv     2.38  0.07   0.314913      
+    MASM  IA    0.7 308  Mjma    2.68  0.15        N/A  N/A 
+    LISM  IA    0.7 121  ML      2.56 -0.03    0.44233      
+    LISM  IA    0.7 121  MLv     2.24 -0.08   0.208774      
+    LISM  IA    0.7 121  Mjma    2.39 -0.13        N/A  N/A 
+
+stageoftapaktuan
+Event:
+    Public ID              BMKG2021ykwv
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   11:44:59.1  +/-    0.8 s
+    Latitude                 5.29 deg  +/-    5 km
+    Longitude               95.82 deg  +/-    3 km
+    Depth                       4 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.12 s
+    Azimuthal gap             234 deg
+
+4 Network magnitudes:
+    Mjma      2.59            3            
+    ML        2.98 +/- 0.22   4            
+    MLv       2.48 +/- 0.27   4            
+    M         2.63            4 preferred  
+
+10 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MASM  IA    0.2 272  P       11:45:03.9  -0.2 M  1.0  MASM 
+    MASM  IA    0.2 272  S       11:45:07.6   0.1 M  1.0  MASM 
+    TPSI  IA    0.4 152  P       11:45:06.0  -1.5 M  1.0  TPSI 
+    TPSI  IA    0.4 152  S       11:45:11.0  -2.5 M  1.0  TPSI 
+    GPSM  IA    0.5 147  P       11:45:09.6   0.5 M  1.0  GPSM 
+    GPSM  IA    0.5 147  S       11:45:17.5   1.4 M  1.0  GPSM 
+    GESM  IA    0.5 146  P       11:45:10.3   0.5 M  1.0  GESM 
+    GESM  IA    0.5 146  S       11:45:18.7   1.2 M  1.0  GESM 
+    CASI  IA    0.7 200  P       11:45:13.0   0.2 M  1.0  CASI 
+    CASI  IA    0.7 200  S       11:45:22.9   0.2 M  1.0  CASI 
+
+11 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MASM  IA    0.2 272  ML      2.68 -0.29    5.77569      
+    MASM  IA    0.2 272  MLv     2.01 -0.48    1.21628      
+    TPSI  IA    0.4 152  ML      3.17  0.20    5.22412      
+    TPSI  IA    0.4 152  MLv     2.65  0.17    1.57192      
+    TPSI  IA    0.4 152  Mjma    2.46 -0.13        N/A  N/A 
+    GESM  IA    0.5 146  ML      3.14  0.16    2.15648      
+    GESM  IA    0.5 146  MLv     2.63  0.14   0.672606      
+    GESM  IA    0.5 146  Mjma    2.51 -0.08        N/A  N/A 
+    CASI  IA    0.7 200  ML      2.86 -0.11   0.933496      
+    CASI  IA    0.7 200  MLv     2.49  0.01   0.400262      
+    CASI  IA    0.7 200  Mjma    2.81  0.22        N/A  N/A 
+
+stageoftapaktuan
+Event:
+    Public ID              BMKG2021yldk
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   15:04:36.6  +/-    0.5 s
+    Latitude                 3.33 deg  +/-    2 km
+    Longitude               97.74 deg  +/-    2 km
+    Depth                       2 km   +/-    2 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.33 s
+    Azimuthal gap             106 deg
+
+4 Network magnitudes:
+    Mjma      2.88 +/- 0.25   5            
+    ML        3.30 +/- 0.56   6            
+    MLv       3.03 +/- 0.38   6            
+    M         3.06            6 preferred  
+
+14 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    KCSI  IA    0.2  10  P       15:04:40.4  -0.3 M  1.0  KCSI 
+    KCSI  IA    0.2  10  S       15:04:43.5   0.4 M  1.0  KCSI 
+    TPTI  IA    0.6 263  P       15:04:47.4  -0.2 M  1.0  TPTI 
+    TPTI  IA    0.6 263  S       15:04:54.9  -0.1 M  1.0  TPTI 
+    LDSI  IA    0.6 136  P       15:04:48.0  -0.3 M  1.0  LDSI 
+    LDSI  IA    0.6 136  S       15:04:56.2  -0.2 M  1.0  LDSI 
+    TKSM  IA    0.6 108  P       15:04:48.5  -0.1 M  1.0  TKSM 
+    TKSM  IA    0.6 108  S       15:04:56.4  -0.3 M  1.0  TKSM 
+    SSSI  IA    0.7 160  P       15:04:50.0   0.1 M  1.0  SSSI 
+    SSSI  IA    0.7 160  S       15:04:59.5   0.4 M  1.0  SSSI 
+    SDSM  IA    0.8 136  P       15:04:52.5   0.7 M  1.0  SDSM 
+    SDSM  IA    0.8 136  S       15:05:02.7   0.2 M  1.0  SDSM 
+    SPSM  IA    1.0 142  P       15:04:56.5   0.3 M  1.0  SPSM 
+    SPSM  IA    1.0 142  S       15:05:09.6  -0.4 M  1.0  SPSM 
+
+17 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    KCSI  IA    0.2  10  ML      2.63 -0.67    6.03389      
+    KCSI  IA    0.2  10  MLv     2.24 -0.79    2.45236      
+    TPTI  IA    0.6 263  ML      2.92 -0.38    1.28635      
+    TPTI  IA    0.6 263  MLv     3.04  0.01    1.68551      
+    TPTI  IA    0.6 263  Mjma    2.78 -0.10        N/A  N/A 
+    LDSI  IA    0.6 136  ML      2.79 -0.52   0.891908      
+    LDSI  IA    0.6 136  MLv     2.64 -0.40   0.629867      
+    LDSI  IA    0.6 136  Mjma    2.56 -0.32        N/A  N/A 
+    SSSI  IA    0.7 160  ML      3.64  0.34    5.71846      
+    SSSI  IA    0.7 160  MLv     3.31  0.28    2.65376      
+    SSSI  IA    0.7 160  Mjma    3.02  0.15        N/A  N/A 
+    SDSM  IA    0.8 136  ML      3.84  0.53    7.92679      
+    SDSM  IA    0.8 136  MLv     3.18  0.15    1.74576      
+    SDSM  IA    0.8 136  Mjma    2.77 -0.11        N/A  N/A 
+    SPSM  IA    1.0 142  ML      4.08  0.78    10.2986      
+    SPSM  IA    1.0 142  MLv     3.67  0.64    3.97095      
+    SPSM  IA    1.0 142  Mjma    3.37  0.50        N/A  N/A 
+
+stageoftapaktuan
+Event:
+    Public ID              BMKG2021ymhe
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   06:06:27.3  +/-    1.0 s
+    Latitude                 5.08 deg  +/-    4 km
+    Longitude               94.70 deg  +/-    5 km
+    Depth                       8 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.39 s
+    Azimuthal gap             280 deg
+
+5 Network magnitudes:
+    Mjma      3.31 +/- 0.10   6            
+    ML        3.69 +/- 0.31   6            
+    MLv       3.39 +/- 0.24   6            
+    Ms(BB)    3.35            1            
+    M         3.42            6 preferred  
+
+12 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SASM  IA    0.8 104  P       06:06:42.7  -0.2 M  1.0  SASM 
+    SASM  IA    0.8 104  S       06:06:54.4  -0.0 M  1.0  SASM 
+    MASM  IA    0.9  76  P       06:06:44.9  -0.0 M  1.0  MASM 
+    MASM  IA    0.9  76  S       06:06:58.0   0.2 M  1.0  MASM 
+    CASI  IA    1.0 117  P       06:06:46.4   0.4 M  1.0  CASI 
+    CASI  IA    1.0 117  S       06:07:00.0   0.2 M  1.0  CASI 
+    SKSI  IA    1.0  37  P       06:06:46.2  -0.4 M  1.0  SKSI 
+    SKSI  IA    1.0  37  S       06:07:01.1   0.4 M  1.0  SKSI 
+    GESM  IA    1.4  99  P       06:06:52.6  -0.6 M  1.0  GESM 
+    GESM  IA    1.4  99  S       06:07:12.0  -0.6 M  1.0  GESM 
+    LISM  IA    2.2 106  P       06:07:04.3   0.7 M  1.0  LISM 
+    LISM  IA    2.2 106  S       06:07:31.6   0.1 M  1.0  LISM 
+
+19 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SASM  IA    0.8 104  ML      4.14  0.45     15.451      
+    SASM  IA    0.8 104  MLv     4.08  0.69    13.4313      
+    SASM  IA    0.8 104  Mjma    3.64  0.33        N/A  N/A 
+    MASM  IA    0.9  76  ML      3.73  0.05    5.27474      
+    MASM  IA    0.9  76  MLv     3.30 -0.09    1.94383      
+    MASM  IA    0.9  76  Mjma    3.26 -0.05        N/A  N/A 
+    CASI  IA    1.0 117  ML      3.14 -0.55    1.22906      
+    CASI  IA    1.0 117  MLv     3.28 -0.10    1.72076      
+    CASI  IA    1.0 117  Mjma    3.20 -0.11        N/A  N/A 
+    SKSI  IA    1.0  37  ML      3.33 -0.35    1.85398      
+    SKSI  IA    1.0  37  MLv     3.18 -0.21    1.29268      
+    SKSI  IA    1.0  37  Mjma    3.32  0.01        N/A  N/A 
+    GESM  IA    1.4  99  ML      3.97  0.28     4.6574      
+    GESM  IA    1.4  99  MLv     3.58  0.19    1.88315      
+    GESM  IA    1.4  99  Mjma    3.28 -0.03        N/A  N/A 
+    LISM  IA    2.2 106  ML      3.73  0.05    1.06775      
+    LISM  IA    2.2 106  MLv     3.27 -0.12   0.366743      
+    LISM  IA    2.2 106  Mjma    3.33  0.02        N/A  N/A 
+    LISM  IA    2.2 106  Ms(BB)  3.35  0.00   1.94197e-06 0.17 
+
+stageoftapaktuan
+Event:
+    Public ID              BMKG2021ymqs
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   10:55:41.8  +/-    0.9 s
+    Latitude                 3.27 deg  +/-    4 km
+    Longitude               96.20 deg  +/-    4 km
+    Depth                      29 km   +/-    9 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.63 s
+    Azimuthal gap             236 deg
+
+4 Network magnitudes:
+    Mjma      3.52 +/- 0.20   7            
+    ML        4.00 +/- 0.30   7            
+    MLv       3.65 +/- 0.25   7            
+    M         3.70            7 preferred  
+
+21 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    BESM  IA    0.9   8  P       10:55:58.0  -0.3 M  1.0  BESM 
+    BESM  IA    0.9   8  S       10:56:11.3   0.6 M  1.0  BESM 
+    TPTI  IA    1.0  90  P       10:55:58.7  -0.8 M  1.0  TPTI 
+    TPTI  IA    1.0  90  S       10:56:12.1  -0.8 M  1.0  TPTI 
+    MLSI  IA    1.0  11  P       10:56:00.0  -0.0 M  1.0  MLSI 
+    MLSI  IA    1.0  11  S       10:56:14.4   0.6 M  1.0  MLSI 
+    KLSM  IA    1.1  99  S       10:56:17.7   0.7 M  1.0  KLSM 
+    LISM  IA    1.3  26  P       10:56:04.3  -0.1 M  1.0  LISM 
+    LISM  IA    1.3  26  S       10:56:21.7  -0.2 M  1.0  LISM 
+    SISM  IA    1.4  22  P       10:56:06.0   0.2 M  1.0  SISM 
+    SISM  IA    1.4  22  S       10:56:24.5   0.3 M  1.0  SISM 
+    CASI  IA    1.5 335  P       10:56:06.9   0.3 M  1.0  CASI 
+    CASI  IA    1.5 335  S       10:56:26.6   0.9 M  1.0  CASI 
+    GESM  IA    1.6 357  P       10:56:06.8  -0.8 M  1.0  GESM 
+    GESM  IA    1.6 357  S       10:56:26.7  -0.8 M  1.0  GESM 
+    KCSI  IA    1.6  81  P       10:56:09.1   1.1 M  1.0  KCSI 
+    GPSM  IA    1.6 356  P       10:56:07.2  -0.8 M  1.0  GPSM 
+    GPSM  IA    1.6 356  S       10:56:27.5  -0.8 M  1.0  GPSM 
+    TPSI  IA    1.7 354  P       10:56:09.3   0.4 M  1.0  TPSI 
+    SASM  IA    1.8 336  P       10:56:10.4   0.2 M  1.0  SASM 
+    SASM  IA    1.8 336  S       10:56:30.8  -1.4 MX 0.0  SASM 
+
+27 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    BESM  IA    0.9   8  ML      4.40  0.40    25.5305      
+    BESM  IA    0.9   8  MLv     3.90  0.25    8.06735      
+    BESM  IA    0.9   8  Mjma    3.68  0.16        N/A  N/A 
+    TPTI  IA    1.0  90  ML      3.55 -0.45    3.20421      
+    TPTI  IA    1.0  90  MLv     3.09 -0.56    1.10918      
+    TPTI  IA    1.0  90  Mjma    2.92 -0.60        N/A  N/A 
+    LISM  IA    1.3  26  ML      4.08  0.09    6.88248      
+    LISM  IA    1.3  26  MLv     3.59 -0.05     2.2327      
+    LISM  IA    1.3  26  Mjma    3.46 -0.06        N/A  N/A 
+    SISM  IA    1.4  22  ML      4.12  0.13    6.68433      
+    SISM  IA    1.4  22  MLv     3.77  0.13    2.97885      
+    SISM  IA    1.4  22  Mjma    3.66  0.14        N/A  N/A 
+    CASI  IA    1.5 335  ML      3.58 -0.41    1.79353      
+    CASI  IA    1.5 335  MLv     3.53 -0.12    1.58029      
+    CASI  IA    1.5 335  Mjma    3.45 -0.07        N/A  N/A 
+    GESM  IA    1.6 357  ML      4.31  0.31    8.53984      
+    GESM  IA    1.6 357  MLv     3.94  0.29    3.63667      
+    GESM  IA    1.6 357  Mjma    3.80  0.28        N/A  N/A 
+    KCSI  IA    1.6  81  ML      3.38 -0.62   0.986632      
+    KCSI  IA    1.6  81  MLv     3.18 -0.46   0.633469      
+    KCSI  IA    1.6  81  Mjma    3.12 -0.40        N/A  N/A 
+    TPSI  IA    1.7 354  ML      4.06  0.06    4.29749      
+    TPSI  IA    1.7 354  MLv     3.59 -0.06    1.45638      
+    TPSI  IA    1.7 354  Mjma    3.54  0.02        N/A  N/A 
+    SASM  IA    1.8 336  ML      4.27  0.27    6.13464      
+    SASM  IA    1.8 336  MLv     4.00  0.36    3.34097      
+    SASM  IA    1.8 336  Mjma    3.70  0.18        N/A  N/A 
+
+stageoftapaktuan
+Event:
+    Public ID              BMKG2021ynhy
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   19:38:09.6  +/-    1.0 s
+    Latitude                 4.52 deg  +/-    3 km
+    Longitude               96.42 deg  +/-    2 km
+    Depth                      16 km   +/-    9 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.57 s
+    Azimuthal gap             123 deg
+
+4 Network magnitudes:
+    Mjma      2.19 +/- 0.35   4            
+    ML        2.85 +/- 0.71   5            
+    MLv       2.23 +/- 0.14   5            
+    M         2.37            5 preferred  
+
+11 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MLSI  IA    0.2 184  P       19:38:16.1  -0.3 M  1.0  MLSI 
+    MLSI  IA    0.2 184  S       19:38:20.7  -0.7 M  1.0  MLSI 
+    SISM  IA    0.3  73  P       19:38:16.3  -1.2 M  1.0  SISM 
+    SISM  IA    0.3  73  S       19:38:20.8  -2.5 MX 0.0  SISM 
+    LISM  IA    0.4  96  P       19:38:18.9   0.6 M  1.0  LISM 
+    LISM  IA    0.4  96  S       19:38:25.1   0.5 M  1.0  LISM 
+    BESM  IA    0.4 195  P       19:38:18.5   0.1 M  1.0  BESM 
+    BESM  IA    0.4 195  S       19:38:25.6   0.7 M  1.0  BESM 
+    BESI  IA    0.4  74  S       19:38:26.6   0.1 M  1.0  BESI 
+    GESM  IA    0.4 318  P       19:38:19.4  -0.1 M  1.0  GESM 
+    GESM  IA    0.4 318  S       19:38:26.9   0.2 M  1.0  GESM 
+
+14 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MLSI  IA    0.2 184  ML      4.61  1.76    405.168      
+    MLSI  IA    0.2 184  MLv     2.28  0.05    1.91672      
+    SISM  IA    0.3  73  ML      2.36 -0.49    1.49539      
+    SISM  IA    0.3  73  MLv     2.03 -0.20   0.706005      
+    SISM  IA    0.3  73  Mjma    1.81 -0.38        N/A  N/A 
+    LISM  IA    0.4  96  ML      2.49 -0.35     1.5066      
+    LISM  IA    0.4  96  MLv     2.11 -0.12   0.625514      
+    LISM  IA    0.4  96  Mjma    2.04 -0.15        N/A  N/A 
+    BESM  IA    0.4 195  ML      2.70 -0.15    2.23516      
+    BESM  IA    0.4 195  MLv     2.29  0.06   0.872673      
+    BESM  IA    0.4 195  Mjma    2.73  0.54        N/A  N/A 
+    GESM  IA    0.4 318  ML      2.87  0.02    2.25306      
+    GESM  IA    0.4 318  MLv     2.45  0.22   0.858486      
+    GESM  IA    0.4 318  Mjma    2.26  0.07        N/A  N/A 
+
+stageoftapaktuan

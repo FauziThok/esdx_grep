@@ -1,0 +1,575 @@
+Event:
+    Public ID              BMKG2021yibv
+    Preferred Origin ID    Origin#20211212225047.384758.3744
+    Preferred Magnitude ID Origin#20211212225047.384758.3744#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-12 22:55:28
+
+Origin:
+    Public ID              Origin#20211212225047.384758.3744
+    Date                   2021-12-12
+    Time                   22:52:02.4  +/-  1.5 s
+    Latitude                -4.23 deg  +/-    6 km
+    Longitude              101.37 deg  +/-    8 km
+    Depth                       8 km   +/-    9 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-12 22:50:47
+    Residual RMS              0.36 s
+    Azimuthal gap             304 deg
+
+2 Network magnitudes:
+    MLv       3.29            3            BMKG
+    M         3.29            3 preferred  BMKG
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    UBSI  IA    1.0  63  P       22:52:21.2  -0.6 M  1.0  UBSI 
+    UBSI  IA    1.0  63  S       22:52:36.3   0.3 M  1.0  UBSI 
+    MASI  IA    1.4  39  P       22:52:27.7   0.2 M  1.0  MASI 
+    MASI  IA    1.4  39  S       22:52:46.2  -0.1 M  1.0  MASI 
+    MNAI  IA    1.6  95  P       22:52:30.9   0.4 M  1.0  MNAI 
+    MNAI  IA    1.6  95  S       22:52:51.6  -0.2 M  1.0  MNAI 
+
+3 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    UBSI  IA    1.0  63  MLv     3.18 -0.11     1.2967      
+    MASI  IA    1.4  39  MLv     3.37  0.08    1.25075      
+    MNAI  IA    1.6  95  MLv     3.32  0.03   0.872713      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021yjcp
+    Preferred Origin ID    Origin#20211213121312.630343.4702
+    Preferred Magnitude ID Origin#20211213121312.630343.4702#netMag.M
+    Description
+      region name: Java, Indonesia
+    Creation time          2021-12-13 12:17:47
+
+Origin:
+    Public ID              Origin#20211213121312.630343.4702
+    Date                   2021-12-13
+    Time                   12:23:11.9  +/-  0.7 s
+    Latitude                -8.45 deg  +/-    8 km
+    Longitude              108.39 deg  +/-    2 km
+    Depth                      75 km   +/-   10 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-13 12:13:12
+    Residual RMS              0.64 s
+    Azimuthal gap             228 deg
+
+2 Network magnitudes:
+    MLv       3.00 +/- 0.37   6            BMKG
+    M         3.00            6 preferred  BMKG
+
+13 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    CMJI  IA    0.7   5  P       12:23:27.6  -0.4 M  1.0  CMJI 
+    CMJI  IA    0.7   5  S       12:23:40.3   0.1 M  1.0  CMJI 
+    SCJI  IA    1.1  46  P       12:23:32.1   0.4 M  1.0  SCJI 
+    SCJI  IA    1.1  46  S       12:23:47.1   0.1 M  1.0  SCJI 
+    BBJI  IA    1.2 323  P       12:23:34.3   0.8 M  1.0  BBJI 
+    BBJI  IA    1.2 323  S       12:23:50.2   0.1 M  1.0  BBJI 
+    CTJI  IA    1.6  29  S       12:24:00.2   0.5 M  1.0  CTJI 
+    CNJI  IA    1.7 312  P       12:23:40.3   0.8 M  1.0  CNJI 
+    CNJI  IA    1.7 312  S       12:23:59.9  -1.0 M  1.0  CNJI 
+    UGM   IA    2.2  76  P       12:23:46.0  -0.0 M  1.0  UGM  
+    UGM   IA    2.2  76  S       12:24:11.7  -1.0 M  1.0  UGM  
+    CGJI  IA    3.2 304  P       12:24:01.1   0.7 M  1.0  CGJI 
+    CGJI  IA    3.2 304  S       12:24:37.4  -1.0 M  1.0  CGJI 
+
+6 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    CMJI  IA    0.7   5  MLv     2.90 -0.10    1.07141      
+    SCJI  IA    1.1  46  MLv     2.69 -0.31   0.385618      
+    BBJI  IA    1.2 323  MLv     2.63 -0.37   0.280098      
+    CNJI  IA    1.7 312  MLv     2.86 -0.14   0.263517      
+    UGM   IA    2.2  76  MLv     3.49  0.50   0.604229      
+    CGJI  IA    3.2 304  MLv     3.54  0.55   0.174797      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021ykrc
+    Preferred Origin ID    Origin#20211214084101.396065.6621
+    Preferred Magnitude ID Origin#20211214084101.396065.6621#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-14 08:45:39
+
+Origin:
+    Public ID              Origin#20211214084101.396065.6621
+    Date                   2021-12-14
+    Time                   08:51:35.6  +/-  0.5 s
+    Latitude                -4.59 deg  +/-    5 km
+    Longitude              103.22 deg  +/-    3 km
+    Depth                      10 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-14 08:41:01
+    Residual RMS              0.51 s
+    Azimuthal gap             184 deg
+
+2 Network magnitudes:
+    MLv       2.66 +/- 0.15   4            BMKG
+    M         2.66            4 preferred  BMKG
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.3 310  P       08:51:42.4  -0.9 M  1.0  MNAI 
+    MNAI  IA    0.3 310  S       08:51:49.5   0.5 M  1.0  MNAI 
+    LHSI  IA    0.8  22  P       08:51:51.7   0.2 M  1.0  LHSI 
+    MDSI  IA    1.0  84  P       08:51:53.8  -0.3 M  1.0  MDSI 
+    MDSI  IA    1.0  84  S       08:52:07.5  -0.0 M  1.0  MDSI 
+    KASI  IA    1.6 126  P       08:52:04.0   0.7 M  1.0  KASI 
+    KASI  IA    1.6 126  S       08:52:24.2  -0.2 M  1.0  KASI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.3 310  MLv     2.42 -0.23    1.45772      
+    LHSI  IA    0.8  22  MLv     2.84  0.18   0.763834      
+    MDSI  IA    1.0  84  MLv     2.68  0.02    0.44204      
+    KASI  IA    1.6 126  MLv     2.66  0.00   0.191166      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021yktb
+    Preferred Origin ID    Origin#20211214094147.816511.6693
+    Preferred Magnitude ID Origin#20211214094147.816511.6693#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-14 09:46:24
+
+Origin:
+    Public ID              Origin#20211214094147.816511.6693
+    Date                   2021-12-14
+    Time                   09:51:17.6  +/-  0.5 s
+    Latitude                -4.21 deg  +/-    3 km
+    Longitude              103.54 deg  +/-    2 km
+    Depth                       6 km   +/-    5 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-14 09:41:47
+    Residual RMS              0.58 s
+    Azimuthal gap             116 deg
+
+2 Network magnitudes:
+    MLv       2.43 +/- 0.29   4            BMKG
+    M         2.43            4 preferred  BMKG
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    LHSI  IA    0.4 358  P       09:51:26.1   0.6 M  1.0  LHSI 
+    LHSI  IA    0.4 358  S       09:51:31.0  -0.3 M  1.0  LHSI 
+    MNAI  IA    0.6 256  P       09:51:30.3   0.8 M  1.0  MNAI 
+    MNAI  IA    0.6 256  S       09:51:37.7  -0.5 M  1.0  MNAI 
+    MDSI  IA    0.7 113  P       09:51:30.6  -0.5 M  1.0  MDSI 
+    MDSI  IA    0.7 113  S       09:51:41.4   0.3 M  1.0  MDSI 
+    KASI  IA    1.6 144  P       09:51:45.4  -0.8 M  1.0  KASI 
+    KASI  IA    1.6 144  S       09:52:08.5   0.5 M  1.0  KASI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    LHSI  IA    0.4 358  MLv     2.05 -0.38   0.474255      
+    MNAI  IA    0.6 256  MLv     2.87  0.44    1.08073      
+    MDSI  IA    0.7 113  MLv     2.40 -0.03   0.327297      
+    KASI  IA    1.6 144  MLv     2.43  0.00   0.106848      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021ykzd
+    Preferred Origin ID    Origin#20211214124545.354994.6831
+    Preferred Magnitude ID Origin#20211214124545.354994.6831#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-14 12:50:21
+
+Origin:
+    Public ID              Origin#20211214124545.354994.6831
+    Date                   2021-12-14
+    Time                   12:54:46.1  +/-  0.3 s
+    Latitude                -4.41 deg  +/-    3 km
+    Longitude              103.47 deg  +/-    3 km
+    Depth                      20 km   +/-    5 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-14 12:45:45
+    Residual RMS              0.63 s
+    Azimuthal gap             137 deg
+
+2 Network magnitudes:
+    MLv       3.01 +/- 0.21   7            BMKG
+    M         3.01            7 preferred  BMKG
+
+13 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 275  P       12:54:57.9   0.5 M  1.0  MNAI 
+    MNAI  IA    0.5 275  S       12:55:05.0  -0.9 M  1.0  MNAI 
+    LHSI  IA    0.6   5  P       12:54:58.8   0.5 M  1.0  LHSI 
+    LHSI  IA    0.6   5  S       12:55:06.6  -0.8 M  1.0  LHSI 
+    MDSI  IA    0.7  97  P       12:55:00.7   0.4 M  1.0  MDSI 
+    LWLI  IA    0.8 136  P       12:55:03.0   0.6 M  1.0  LWLI 
+    LWLI  IA    0.8 136  S       12:55:14.1  -0.3 M  1.0  LWLI 
+    UBSI  IA    1.4 298  P       12:55:09.8  -0.1 M  1.0  UBSI 
+    KASI  IA    1.5 138  P       12:55:12.6   0.6 M  1.0  KASI 
+    KASI  IA    1.5 138  S       12:55:31.7   0.0 M  1.0  KASI 
+    MASI  IA    1.8 316  P       12:55:16.0   0.5 M  1.0  MASI 
+    PPLI  IA    2.1 129  P       12:55:16.6  -4.0 MX 0.0  PPLI 
+    PPLI  IA    2.1 129  S       12:55:45.9  -1.3 M  1.0  PPLI 
+
+7 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 275  MLv     3.08  0.06    2.16193      
+    LHSI  IA    0.6   5  MLv     2.84 -0.17    1.04318      
+    MDSI  IA    0.7  97  MLv     2.76 -0.26   0.728708      
+    LWLI  IA    0.8 136  MLv     3.18  0.17    1.63146      
+    UBSI  IA    1.4 298  MLv     3.24  0.22     0.9558      
+    KASI  IA    1.5 138  MLv     2.75 -0.26   0.256316      
+    MASI  IA    1.8 316  MLv     3.22  0.20   0.543394      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021yldd
+    Preferred Origin ID    Origin#20211214144909.314348.6901
+    Preferred Magnitude ID Origin#20211214144909.314348.6901#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-14 14:53:53
+
+Origin:
+    Public ID              Origin#20211214144909.314348.6901
+    Date                   2021-12-14
+    Time                   14:56:27.1  +/-  1.2 s
+    Latitude                -4.96 deg  +/-    8 km
+    Longitude              102.94 deg  +/-    8 km
+    Depth                      14 km   +/-    7 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-14 14:49:09
+    Residual RMS              0.40 s
+    Azimuthal gap             220 deg
+
+2 Network magnitudes:
+    MLv       3.00 +/- 0.53   9            BMKG
+    M         3.00            9 preferred  BMKG
+
+11 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.6   2  P       14:56:39.4  -0.0 M  1.0  MNAI 
+    LWLI  IA    1.1  93  P       14:56:48.0   0.1 M  1.0  LWLI 
+    LHSI  IA    1.3  27  P       14:56:49.6  -0.5 M  1.0  LHSI 
+    MDSI  IA    1.3  69  P       14:56:51.2   0.3 M  1.0  MDSI 
+    UBSI  IA    1.4 331  P       14:56:51.5  -0.0 M  1.0  UBSI 
+    KASI  IA    1.6 110  P       14:56:56.2   0.6 M  1.0  KASI 
+    MASI  IA    1.9 339  P       14:56:59.9   0.3 M  1.0  MASI 
+    PPLI  IA    2.3 110  P       14:57:05.0  -0.1 M  1.0  PPLI 
+    BLSI  IA    2.3 100  P       14:57:05.4   0.2 M  1.0  BLSI 
+    PMBI  IA    2.7  41  P       14:57:10.3   0.1 M  1.0  PMBI 
+    PSLI  IA    2.7 111  P       14:57:09.8  -0.9 M  1.0  PSLI 
+
+11 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.6   2  MLv     2.97 -0.03     1.3655      
+    LWLI  IA    1.1  93  MLv     2.88 -0.12   0.576267      
+    LHSI  IA    1.3  27  MLv     2.30 -0.70   0.124155      
+    MDSI  IA    1.3  69  MLv     2.18 -0.82   0.0875363      
+    UBSI  IA    1.4 331  MLv     3.18  0.18   0.822788      
+    KASI  IA    1.6 110  MLv     2.37 -0.63   0.0889626      
+    MASI  IA    1.9 339  MLv     2.94 -0.06   0.227302      
+    PPLI  IA    2.3 110  MLv     2.78 -0.22   0.0969577      
+    BLSI  IA    2.3 100  MLv     3.54  0.54   0.551141      
+    PMBI  IA    2.7  41  MLv     4.23  1.23    1.67547      
+    PSLI  IA    2.7 111  MLv     4.42  1.42    2.49726      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021ylhy
+    Preferred Origin ID    Origin#20211214171524.901109.7026
+    Preferred Magnitude ID Origin#20211214171524.901109.7026#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-14 17:20:13
+
+Origin:
+    Public ID              Origin#20211214171524.901109.7026
+    Date                   2021-12-14
+    Time                   17:22:09.9  +/-  0.5 s
+    Latitude                -4.31 deg  +/-    4 km
+    Longitude              103.48 deg  +/-    4 km
+    Depth                      10 km   +/-    4 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-14 17:15:24
+    Residual RMS              0.21 s
+    Azimuthal gap             154 deg
+
+2 Network magnitudes:
+    MLv       3.51 +/- 0.39  13            BMKG
+    M         3.51           13 preferred  BMKG
+
+15 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    LHSI  IA    0.5   5  P       17:22:19.8  -0.1 M  1.0  LHSI 
+    MDSI  IA    0.7 104  P       17:22:24.2   0.1 M  1.0  MDSI 
+    LWLI  IA    0.9 141  P       17:22:27.3  -0.1 M  1.0  LWLI 
+    UBSI  IA    1.3 294  P       17:22:34.0   0.2 M  1.0  UBSI 
+    KASI  IA    1.6 140  P       17:22:37.9   0.3 M  1.0  KASI 
+    MASI  IA    1.7 313  P       17:22:39.2  -0.1 M  1.0  MASI 
+    PMBI  IA    1.9  41  P       17:22:42.0   0.4 M  1.0  PMBI 
+    BLSI  IA    2.1 121  P       17:22:44.4  -0.0 M  1.0  BLSI 
+    PPLI  IA    2.2 131  P       17:22:46.1  -0.2 M  1.0  PPLI 
+    PSLI  IA    2.6 129  P       17:22:51.5  -0.4 M  1.0  PSLI 
+    CGJI  IA    3.2 136  P       17:23:00.0   0.1 M  1.0  CGJI 
+    SBJI  IA    3.2 124  P       17:23:00.0  -0.2 M  1.0  SBJI 
+    PPBI  IA    3.4  51  P       17:23:02.9  -0.2 M  1.0  PPBI 
+    WLJI  IA    3.5 136  P       17:23:04.1   0.2 M  1.0  WLJI 
+    CBJI  IA    4.2 125  P       17:23:13.9   0.1 M  1.0  CBJI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    LHSI  IA    0.5   5  MLv     2.78 -0.73    1.35307      
+    MDSI  IA    0.7 104  MLv     2.74 -0.77   0.689631      
+    LWLI  IA    0.9 141  MLv     3.34 -0.17    2.13545      
+    UBSI  IA    1.3 294  MLv     3.33 -0.18     1.2511      
+    KASI  IA    1.6 140  MLv     3.01 -0.50    0.43083      
+    MASI  IA    1.7 313  MLv     3.41 -0.11   0.913685      
+    PMBI  IA    1.9  41  MLv     3.64  0.13    1.28573      
+    BLSI  IA    2.1 121  MLv     3.28 -0.23    0.43598      
+    PPLI  IA    2.2 131  MLv     3.09 -0.42   0.238013      
+    PSLI  IA    2.6 129  MLv     4.24  0.73    1.97264      
+    CGJI  IA    3.2 136  MLv     3.50 -0.02    0.16799      
+    SBJI  IA    3.2 124  MLv     3.99  0.48   0.520934      
+    PPBI  IA    3.4  51  MLv     3.76  0.25   0.232685      
+    WLJI  IA    3.5 136  MLv     5.12  1.61    4.84064      
+    CBJI  IA    4.2 125  MLv     4.46  0.94   0.643304      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021ylve
+    Preferred Origin ID    Origin#20211214235545.475507.7999
+    Preferred Magnitude ID Origin#20211214235545.475507.7999#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-15 00:00:29
+
+Origin:
+    Public ID              Origin#20211214235545.475507.7999
+    Date                   2021-12-15
+    Time                   00:03:46.6  +/-  0.3 s
+    Latitude                -4.36 deg  +/-    2 km
+    Longitude              103.46 deg  +/-    2 km
+    Depth                       6 km   +/-    2 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-14 23:55:45
+    Residual RMS              0.56 s
+    Azimuthal gap             131 deg
+
+2 Network magnitudes:
+    MLv       2.84 +/- 0.31   6            BMKG
+    M         2.84            6 preferred  BMKG
+
+16 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 270  P       00:03:56.4  -0.3 M  1.0  MNAI 
+    MNAI  IA    0.5 270  S       00:04:03.6  -0.4 M  1.0  MNAI 
+    LHSI  IA    0.5   7  P       00:03:56.7  -0.5 M  1.0  LHSI 
+    LHSI  IA    0.5   7  S       00:04:05.0  -0.0 M  1.0  LHSI 
+    MDSI  IA    0.7 100  P       00:04:01.0   0.1 M  1.0  MDSI 
+    MDSI  IA    0.7 100  S       00:04:11.5   0.2 M  1.0  MDSI 
+    LWLI  IA    0.9 138  P       00:04:04.1   0.4 M  1.0  LWLI 
+    LWLI  IA    0.9 138  S       00:04:16.6   0.4 M  1.0  LWLI 
+    UBSI  IA    1.3 297  P       00:04:10.6  -0.3 M  1.0  UBSI 
+    UBSI  IA    1.3 297  S       00:04:30.1   1.1 M  1.0  UBSI 
+    KASI  IA    1.6 138  P       00:04:14.5   0.1 M  1.0  KASI 
+    KASI  IA    1.6 138  S       00:04:36.0   0.6 M  1.0  KASI 
+    MASI  IA    1.7 315  P       00:04:16.9   0.1 M  1.0  MASI 
+    MASI  IA    1.7 315  S       00:04:39.7  -0.0 M  1.0  MASI 
+    CGJI  IA    3.2 135  P       00:04:36.9  -0.0 M  1.0  CGJI 
+    CGJI  IA    3.2 135  S       00:05:14.4  -1.5 M  1.0  CGJI 
+
+8 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 270  MLv     2.80 -0.04    1.29766      
+    LHSI  IA    0.5   7  MLv     2.47 -0.38   0.481948      
+    MDSI  IA    0.7 100  MLv     2.27 -0.57   0.233019      
+    LWLI  IA    0.9 138  MLv     2.89  0.05   0.790194      
+    UBSI  IA    1.3 297  MLv     3.29  0.45    1.13918      
+    KASI  IA    1.6 138  MLv     2.54 -0.30   0.149884      
+    MASI  IA    1.7 315  MLv     3.07  0.22   0.408741      
+    CGJI  IA    3.2 135  MLv     3.49  0.64   0.168879      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021ylvx
+    Preferred Origin ID    Origin#20211215001912.678239.8057
+    Preferred Magnitude ID Origin#20211215001912.678239.8057#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-15 00:24:00
+
+Origin:
+    Public ID              Origin#20211215001912.678239.8057
+    Date                   2021-12-15
+    Time                   00:25:05.0  +/-  0.4 s
+    Latitude                -4.34 deg  +/-    2 km
+    Longitude              103.47 deg  +/-    2 km
+    Depth                       4 km   +/-    3 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-15 00:19:12
+    Residual RMS              0.30 s
+    Azimuthal gap             128 deg
+
+2 Network magnitudes:
+    MLv       2.43 +/- 0.40   6            BMKG
+    M         2.43            6 preferred  BMKG
+
+12 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    LHSI  IA    0.5   6  P       00:25:15.2   0.1 M  1.0  LHSI 
+    LHSI  IA    0.5   6  S       00:25:22.1  -0.2 M  1.0  LHSI 
+    MNAI  IA    0.5 267  P       00:25:15.0  -0.1 M  1.0  MNAI 
+    MNAI  IA    0.5 267  S       00:25:22.4   0.1 M  1.0  MNAI 
+    MDSI  IA    0.7 102  P       00:25:19.2   0.1 M  1.0  MDSI 
+    MDSI  IA    0.7 102  S       00:25:29.4   0.3 M  1.0  MDSI 
+    LWLI  IA    0.9 139  P       00:25:22.4   0.1 M  1.0  LWLI 
+    LWLI  IA    0.9 139  S       00:25:34.2  -0.4 M  1.0  LWLI 
+    UBSI  IA    1.3 296  P       00:25:29.0  -0.3 M  1.0  UBSI 
+    UBSI  IA    1.3 296  S       00:25:47.8   0.4 M  1.0  UBSI 
+    KASI  IA    1.6 139  P       00:25:32.6  -0.4 M  1.0  KASI 
+    KASI  IA    1.6 139  S       00:25:54.5   0.5 M  1.0  KASI 
+
+6 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    LHSI  IA    0.5   6  MLv     2.02 -0.41   0.197694      
+    MNAI  IA    0.5 267  MLv     2.47  0.04   0.563353      
+    MDSI  IA    0.7 102  MLv     1.89 -0.54   0.0974244      
+    LWLI  IA    0.9 139  MLv     2.83  0.40   0.682085      
+    UBSI  IA    1.3 296  MLv     3.22  0.79   0.971322      
+    KASI  IA    1.6 139  MLv     2.35 -0.09   0.0942544      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021ylzd
+    Preferred Origin ID    Origin#20211215015917.002988.1603
+    Preferred Magnitude ID Origin#20211215015917.002988.1603#netMag.M
+    Description
+      region name: Southern Sumatra, Indonesia
+    Creation time          2021-12-15 02:04:03
+
+Origin:
+    Public ID              Origin#20211215015917.002988.1603
+    Date                   2021-12-15
+    Time                   02:03:21.9  +/-  0.6 s
+    Latitude                -5.06 deg  +/-    4 km
+    Longitude              103.04 deg  +/-    4 km
+    Depth                      38 km   +/-   12 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-15 01:59:17
+    Residual RMS              0.76 s
+    Azimuthal gap             209 deg
+
+2 Network magnitudes:
+    MLv       3.89 +/- 0.36   7            BMKG
+    M         3.89            7 preferred  BMKG
+
+18 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.7 354  P       02:03:36.8   0.7 M  1.0  MNAI 
+    MNAI  IA    0.7 354  S       02:03:46.5  -0.4 M  1.0  MNAI 
+    LWLI  IA    1.0  87  P       02:03:39.3  -0.5 M  1.0  LWLI 
+    LWLI  IA    1.0  87  S       02:03:54.2   0.8 M  1.0  LWLI 
+    MDSI  IA    1.3  63  P       02:03:43.9   0.6 M  1.0  MDSI 
+    MDSI  IA    1.3  63  S       02:03:59.7  -0.1 M  1.0  MDSI 
+    LHSI  IA    1.3  22  P       02:03:44.5   0.6 M  1.0  LHSI 
+    LHSI  IA    1.3  22  S       02:03:59.9  -1.0 M  1.0  LHSI 
+    UBSI  IA    1.5 329  P       02:03:47.1   0.7 M  1.0  UBSI 
+    UBSI  IA    1.5 329  S       02:04:05.6   0.3 M  1.0  UBSI 
+    KASI  IA    1.5 107  P       02:03:46.6  -0.1 M  1.0  KASI 
+    KASI  IA    1.5 107  S       02:04:07.5   1.6 M  1.0  KASI 
+    MASI  IA    2.1 337  P       02:03:54.8   0.6 M  1.0  MASI 
+    MASI  IA    2.1 337  S       02:04:18.6  -0.8 M  1.0  MASI 
+    PPLI  IA    2.2 108  P       02:03:54.8  -1.3 M  1.0  PPLI 
+    PPLI  IA    2.2 108  S       02:04:22.8   0.1 M  1.0  PPLI 
+    CGJI  IA    3.1 120  P       02:04:07.2  -0.6 M  1.0  CGJI 
+    CGJI  IA    3.1 120  S       02:04:42.8  -1.0 M  1.0  CGJI 
+
+9 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.7 354  MLv     4.58  0.69    49.0294      
+    LWLI  IA    1.0  87  MLv     4.40  0.51    21.4163      
+    MDSI  IA    1.3  63  MLv     3.86 -0.04    4.42391      
+    LHSI  IA    1.3  22  MLv     3.58 -0.31    2.18608      
+    UBSI  IA    1.5 329  MLv     3.64 -0.25    2.01976      
+    KASI  IA    1.5 107  MLv     3.52 -0.37     1.4953      
+    MASI  IA    2.1 337  MLv     3.88 -0.01    1.67224      
+    PPLI  IA    2.2 108  MLv     3.51 -0.39   0.604597      
+    CGJI  IA    3.1 120  MLv     4.39  0.50    1.54203      
+
+stageoftangerang
+Event:
+    Public ID              BMKG2021ymag
+    Preferred Origin ID    Origin#20211215023524.310904.1494
+    Preferred Magnitude ID Origin#20211215023524.310904.1494#netMag.M
+    Description
+      region name: Java, Indonesia
+    Creation time          2021-12-15 02:40:38
+
+Origin:
+    Public ID              Origin#20211215023524.310904.1494
+    Date                   2021-12-15
+    Time                   02:36:34.8  +/-  1.6 s
+    Latitude                -7.69 deg  +/-   10 km
+    Longitude              106.49 deg  +/-    5 km
+    Depth                      14 km   +/-   10 km
+    Agency                 BMKG
+    Author                 sysop@clientprotng.localdomain
+    Mode                   manual
+    Status                 confirmed
+    Creation time          2021-12-15 02:35:24
+    Residual RMS              0.13 s
+    Azimuthal gap             244 deg
+
+2 Network magnitudes:
+    MLv       2.54            3            BMKG
+    M         2.54            3 preferred  BMKG
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    CNJI  IA    0.7  59  P       02:36:49.3  -0.1 M  1.0  CNJI 
+    CNJI  IA    0.7  59  S       02:37:00.3   0.1 M  1.0  CNJI 
+    BBJI  IA    1.2  79  P       02:36:56.2  -0.1 M  1.0  BBJI 
+    BBJI  IA    1.2  79  S       02:37:12.2   0.0 M  1.0  BBJI 
+    CGJI  IA    1.3 323  P       02:36:58.9   0.2 M  1.0  CGJI 
+    CGJI  IA    1.3 323  S       02:37:16.4  -0.1 M  1.0  CGJI 
+
+3 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    CNJI  IA    0.7  59  MLv     2.44 -0.10    0.34093      
+    BBJI  IA    1.2  79  MLv     2.32 -0.23   0.147143      
+    CGJI  IA    1.3 323  MLv     2.87  0.33   0.426875      
+
+stageoftangerang

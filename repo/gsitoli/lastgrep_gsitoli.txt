@@ -1,0 +1,40 @@
+Event:
+    Public ID              bmkg2021ymqs
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   10:55:42.2  +/-    0.7 s
+    Latitude                 3.23 deg  +/-      3 km
+    Longitude               96.18 deg  +/-      4 km
+    Depth                      46 km   +/-   20 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.42 s
+    Azimuthal gap             167 deg
+
+2 Network magnitudes:
+    MLv       3.44 +/- 0.10   3            
+    M         3.44            3            
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    SNSI  IA    0.8 170  P       10:55:57.9  -0.1 M  1.0  SNSI 
+    SNSI  IA    0.8 170  S       10:56:10.1   0.1 M  1.0  SNSI 
+    MLSI  IA    1.1  12  P       10:56:00.3  -0.3 M  1.0  MLSI 
+    MLSI  IA    1.1  12  S       10:56:14.1  -0.6 M  1.0  MLSI 
+    CASI  IA    1.5 337  P       10:56:07.0   0.1 M  1.0  CASI 
+    CASI  IA    1.5 337  S       10:56:26.3   0.3 M  1.0  CASI 
+    KCSI  IA    1.6  79  P       10:56:09.1   0.9 M  1.0  KCSI 
+    KCSI  IA    1.6  79  S       10:56:28.7   0.3 M  1.0  KCSI 
+    GSI   IA    2.4 144  S       10:56:46.6  -0.2 M  1.0  GSI  
+    LTSM  IA    3.2 121  S       10:57:07.6  -0.5 M  1.0  LTSM 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    SNSI  IA    0.8 170  MLv     3.43 -0.01    2.94698     
+    CASI  IA    1.5 337  MLv     3.54  0.11    1.58029     
+    KCSI  IA    1.6  79  MLv     3.34 -0.10   0.879337     
+
+stageofgunungsitoli

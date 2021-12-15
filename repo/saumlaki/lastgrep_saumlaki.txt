@@ -1,0 +1,46 @@
+Event:
+    Public ID              bmkg2021ygyk
+    Description
+      region name: Banda Sea
+Origin:
+    Date                   2021-12-12
+    Time                   07:59:49.5  +/-    0.7 s
+    Latitude                -7.26 deg  +/-    7 km
+    Longitude              129.58 deg  +/-    7 km
+    Depth                     157 km   +/-   18 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.38 s
+    Azimuthal gap             175 deg
+
+5 Network magnitudes:
+    mb        4.42            1            
+    mB        4.35            2            
+    Mw(mB)    3.47            2            
+    MLv       3.96 +/- 0.13   6            
+    M         4.11            6 preferred  
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SAUI  IA    1.8 113  P       08:00:23.5   0.1 M  1.0  SAUI 
+    KTMI  IA    2.0 101  P       08:00:24.8  -0.5 M  1.0  KTMI 
+    KKMI  IA    3.5  64  P       08:00:43.0  -0.4 M  1.0  KKMI 
+    TLE2  IA    3.5  64  P       08:00:44.1   0.5 M  1.0  TLE2 
+    ATNI  IA    5.0 248  P       08:01:03.2   0.1 M  1.0  ATNI 
+    MTN   AU    5.8 165  P       08:01:13.4   0.4 M  1.0  MTN  
+    FITZ  AU   11.4 199  P       08:02:27.8  -0.4 M  1.0  FITZ 
+
+9 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SAUI  IA    1.8 113  MLv     3.61 -0.34     1.2141      
+    KTMI  IA    2.0 101  MLv     3.86 -0.10    1.71531      
+    KKMI  IA    3.5  64  MLv     4.03  0.07   0.388205      
+    TLE2  IA    3.5  64  MLv     3.93 -0.03   0.299837      
+    ATNI  IA    5.0 248  MLv     4.08  0.12   0.168289      
+    ATNI  IA    5.0 248  mB      4.85  0.50    1484.16      
+    ATNI  IA    5.0 248  mb      4.42  0.00    30.3832 0.47 
+    MTN   AU    5.8 165  MLv     4.06  0.11   0.103332      
+    MTN   AU    5.8 165  mB      3.85 -0.50    139.234      
+
+stageof_saumlaki

@@ -1,0 +1,36 @@
+Event:
+    Public ID              bmkg2021ylje
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   17:59:44.6  +/-    0.6 s
+    Latitude                -3.01 deg  +/-    9 km
+    Longitude              135.00 deg  +/-    6 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.42 s
+    Azimuthal gap             178 deg
+
+2 Network magnitudes:
+    MLv       2.88 +/- 0.12   4            
+    M         2.88            4 preferred  
+
+5 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    IWPI  IA    0.5 291  P       17:59:56.8   1.8 M  1.0  IWPI 
+    IWPI  IA    0.5 291  S       18:00:00.5  -2.2 M  1.0  IWPI 
+    NBPI  IA    0.6 126  P       17:59:55.8  -1.0 M  1.0  NBPI 
+    KMPI  IA    1.5 243  P       18:00:11.2   0.7 M  1.0  KMPI 
+    MBPI  IA    1.6 307  P       18:00:13.3   0.7 M  1.0  MBPI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    IWPI  IA    0.5 291  MLv     3.04  0.16    2.23209      
+    NBPI  IA    0.6 126  MLv     2.94  0.06    1.25992      
+    KMPI  IA    1.5 243  MLv     2.76 -0.12   0.283306      
+    MBPI  IA    1.6 307  MLv     2.80 -0.08   0.257959      
+
+stageof_nabire

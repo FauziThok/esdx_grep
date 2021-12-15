@@ -1,0 +1,314 @@
+Event:
+    Public ID              bmkg2021yhut
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-12
+    Time                   19:17:19.8  +/-    0.5 s
+    Latitude                -1.95 deg  +/-      4 km
+    Longitude              133.96 deg  +/-      5 km
+    Depth                      13 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.56 s
+    Azimuthal gap             118 deg
+
+2 Network magnitudes:
+    MLv       2.78 +/- 0.29   5 preferred  
+    M         2.78            5            
+
+6 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MBPI  IA    0.2 249  P       19:17:25.3  -0.8 M  1.0  MBPI 
+    MBPI  IA    0.2 249  S       19:17:31.2   0.6 M  1.0  MBPI 
+    RKPI  IA    0.5  27  P       19:17:30.0  -0.2 M  1.0  RKPI 
+    IWPI  IA    1.0 145  P       19:17:38.6   0.1 M  1.0  IWPI 
+    MWPI  IA    1.0   5  P       19:17:40.0   0.8 M  1.0  MWPI 
+    SWPM  IA    1.2 342  P       19:17:41.3  -0.5 M  1.0  SWPM 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    IWPI  IA    1.0 145  MLv     2.57 -0.21   0.336378     
+    MWPI  IA    1.0   5  MLv     2.86  0.08   0.618212     
+    SWPM  IA    1.2 342  MLv     2.81  0.02   0.433686     
+
+stageofsorong
+Event:
+    Public ID              bmkg2021yjty
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   21:09:01.9  +/-    0.4 s
+    Latitude                -2.78 deg  +/-      4 km
+    Longitude              129.27 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.80 s
+    Azimuthal gap             137 deg
+
+2 Network magnitudes:
+    MLv       3.47 +/- 0.25   7            
+    M         3.47            7 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    AAII  IA    1.4 230  P       21:09:27.4   0.3 M  1.0  AAII 
+    OBMI  IA    2.2 311  P       21:09:38.5   0.4 M  1.0  OBMI 
+    OBMI  IA    2.2 311  S       21:10:05.0  -0.8 M  1.0  OBMI 
+    NLAI  IA    2.2 258  P       21:09:38.6  -0.2 M  1.0  NLAI 
+    SWI   IA    2.7  46  P       21:09:47.0   1.0 M  1.0  SWI  
+    SWI   IA    2.7  46  S       21:10:20.5   0.3 M  1.0  SWI  
+    LBMI  IA    2.8 320  P       21:09:47.9   1.5 M  1.0  LBMI 
+    LBMI  IA    2.8 320  S       21:10:19.9  -0.8 M  1.0  LBMI 
+    FAKI  IA    3.0  93  P       21:09:48.5  -0.9 M  1.0  FAKI 
+    TSPI  IA    3.1  65  P       21:09:50.1  -0.8 M  1.0  TSPI 
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    OBMI  IA    2.2 311  MLv     3.68  0.22   0.952647     
+    NLAI  IA    2.2 258  MLv     3.37 -0.10   0.429703     
+    LBMI  IA    2.8 320  MLv     3.57  0.10   0.333973     
+    FAKI  IA    3.0  93  MLv     3.27 -0.20   0.127566     
+    TSPI  IA    3.1  65  MLv     3.55  0.08   0.209947     
+
+stageofsorong
+Event:
+    Public ID              bmkg2021yksi
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   09:28:31.3  +/-    1.6 s
+    Latitude                -0.35 deg  +/-      6 km
+    Longitude              132.29 deg  +/-      5 km
+    Depth                      22 km   +/-    9 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.15 s
+    Azimuthal gap             306 deg
+
+2 Network magnitudes:
+    MLv       2.60 +/- 0.31   2 preferred  
+    M         2.60            2            
+
+6 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    STPI  IA    0.2 235  Pg      09:28:36.5  -0.2 M  1.0  STPI 
+    STPI  IA    0.2 235  Sg      09:28:40.8   0.1 M  1.0  STPI 
+    TSPI  IA    1.1 190  Pg      09:28:53.5   0.2 M  1.0  TSPI 
+    TSPI  IA    1.1 190  Sg      09:29:09.2  -0.1 M  1.0  TSPI 
+    SWI   IA    1.1 244  Pg      09:28:53.6  -0.0 M  1.0  SWI  
+    SWI   IA    1.1 244  Sg      09:29:09.9   0.0 M  1.0  SWI  
+
+2 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    TSPI  IA    1.1 190  MLv     2.38 -0.22   0.176959     
+    SWI   IA    1.1 244  MLv     2.82  0.22   0.480315     
+
+stageofsorong
+Event:
+    Public ID              bmkg2021ylcx
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   14:49:46.3  +/-    0.5 s
+    Latitude                -1.90 deg  +/-      4 km
+    Longitude              133.75 deg  +/-      9 km
+    Depth                      11 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.53 s
+    Azimuthal gap             138 deg
+
+2 Network magnitudes:
+    MLv       2.73 +/- 0.43   5            
+    M         2.73            5 preferred  
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MBPI  IA    0.1 186  P       14:49:49.7  -0.8 M  1.0  MBPI 
+    MBPI  IA    0.1 186  S       14:49:54.2   0.6 M  1.0  MBPI 
+    RKPI  IA    0.6  48  P       14:49:57.6  -0.5 M  1.0  RKPI 
+    MWPI  IA    1.0  17  P       14:50:06.5   1.0 M  1.0  MWPI 
+    SWPM  IA    1.1 352  P       14:50:06.7  -0.2 M  1.0  SWPM 
+    SWPM  IA    1.1 352  S       14:50:21.9  -0.1 M  1.0  SWPM 
+    FAKI  IA    1.8 236  P       14:50:17.3   0.2 M  1.0  FAKI 
+    FAKI  IA    1.8 236  S       14:50:40.4  -0.2 M  1.0  FAKI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MWPI  IA    1.0  17  MLv     2.90  0.17   0.683583     
+    SWPM  IA    1.1 352  MLv     2.59 -0.14   0.301475     
+    FAKI  IA    1.8 236  MLv     2.54 -0.19    0.11033     
+
+stageofsorong
+Event:
+    Public ID              bmkg2021ylqb
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   21:28:18.6  +/-    0.5 s
+    Latitude                -1.01 deg  +/-      6 km
+    Longitude              131.39 deg  +/-      5 km
+    Depth                       6 km   +/-    5 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.09 s
+    Azimuthal gap             162 deg
+
+2 Network magnitudes:
+    MLv       2.62 +/- 0.38   5            
+    M         2.62            5 preferred  
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    SWI   IA    0.2 318  P       21:28:21.9  -1.3 M  1.0  SWI  
+    SWI   IA    0.2 318  S       21:28:27.8   1.2 M  1.0  SWI  
+    TSPI  IA    0.8 123  P       21:28:34.1  -0.7 M  1.0  TSPI 
+    TSPI  IA    0.8 123  S       21:28:47.0   0.5 M  1.0  TSPI 
+    STPI  IA    0.9  54  P       21:28:35.3  -0.8 M  1.0  STPI 
+    FAKI  IA    2.1 155  P       21:28:53.3  -0.8 M  1.0  FAKI 
+    SWPM  IA    2.2  85  P       21:28:56.9   1.1 MX 0.0  SWPM 
+    MBPI  IA    2.6 114  P       21:29:02.3   1.8 M  1.0  MBPI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    TSPI  IA    0.8 123  MLv     2.57 -0.05   0.402182     
+    STPI  IA    0.9  54  MLv     2.64  0.02   0.429833     
+    FAKI  IA    2.1 155  MLv     2.61 -0.01   0.0871569     
+
+stageofsorong
+Event:
+    Public ID              bmkg2021ylwt
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   00:50:38.6  +/-    0.3 s
+    Latitude                -2.97 deg  +/-      3 km
+    Longitude              129.97 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.86 s
+    Azimuthal gap              82 deg
+
+2 Network magnitudes:
+    MLv       3.95 +/- 0.14   6            
+    M         3.95            6 preferred  
+
+9 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    BNDI  IA    1.5 182  P       00:51:04.8  -1.0 M  1.0  BNDI 
+    BNDI  IA    1.5 182  S       00:51:26.5   0.1 M  1.0  BNDI 
+    FAKI  IA    2.3  89  P       00:51:15.4  -1.0 M  1.0  FAKI 
+    SWI   IA    2.5  32  P       00:51:19.3   0.6 M  1.0  SWI  
+    TSPI  IA    2.6  55  P       00:51:19.7  -0.8 M  1.0  TSPI 
+    RAPI  IA    2.7  19  P       00:51:22.3   0.5 M  1.0  RAPI 
+    OBMI  IA    2.8 305  P       00:51:23.2  -0.6 M  1.0  OBMI 
+    NLAI  IA    2.9 265  P       00:51:25.1   0.6 M  1.0  NLAI 
+    TLE2  IA    3.9 135  P       00:51:39.8   1.6 M  1.0  TLE2 
+
+6 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    BNDI  IA    1.5 182  MLv     4.22  0.27    7.16892     
+    SWI   IA    2.5  32  MLv     3.87 -0.08   0.993483     
+    TSPI  IA    2.6  55  MLv     3.90 -0.05    0.91285     
+    OBMI  IA    2.8 305  MLv     3.83 -0.12   0.564243     
+    NLAI  IA    2.9 265  MLv     3.91 -0.04   0.646266     
+    TLE2  IA    3.9 135  MLv     3.99  0.03   0.259748     
+
+stageofsorong
+Event:
+    Public ID              bmkg2021ylww
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   00:54:50.2  +/-    1.0 s
+    Latitude                -0.19 deg  +/-     10 km
+    Longitude              130.68 deg  +/-      5 km
+    Depth                      28 km   +/-    5 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.07 s
+    Azimuthal gap             199 deg
+
+2 Network magnitudes:
+    MLv       3.71 +/- 0.38   7            
+    M         3.71            7 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RAPI  IA    0.3 147  P       00:54:56.9  -1.5 M  1.0  RAPI 
+    RAPI  IA    0.3 147  S       00:55:06.0   1.4 M  1.0  RAPI 
+    SWI   IA    0.9 139  P       00:55:06.5  -0.4 M  1.0  SWI  
+    SWI   IA    0.9 139  S       00:55:18.1  -1.3 M  1.0  SWI  
+    STPI  IA    1.5 101  P       00:55:14.9  -0.0 M  1.0  STPI 
+    TSPI  IA    1.9 132  P       00:55:22.0   1.1 M  1.0  TSPI 
+    FAKI  IA    3.1 150  P       00:55:38.8   0.9 M  1.0  FAKI 
+    LBMI  IA    3.2 262  P       00:55:39.8   1.0 M  1.0  LBMI 
+    OBMI  IA    3.2 249  P       00:55:38.2  -1.1 M  1.0  OBMI 
+    MBPI  IA    3.6 121  P       00:55:47.1   3.4 MX 0.0  MBPI 
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    SWI   IA    0.9 139  MLv     3.57 -0.14    3.75942     
+    TSPI  IA    1.9 132  MLv     3.65 -0.06    1.22482     
+    FAKI  IA    3.1 150  MLv     3.83  0.12    0.37509     
+    LBMI  IA    3.2 262  MLv     3.95  0.24   0.467611     
+    OBMI  IA    3.2 249  MLv     3.40 -0.31   0.125489     
+
+stageofsorong
+Event:
+    Public ID              bmkg2021ynkn
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   20:56:25.2  +/-    1.4 s
+    Latitude                -3.08 deg  +/-      9 km
+    Longitude              131.06 deg  +/-      9 km
+    Depth                      15 km   +/-   15 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.93 s
+    Azimuthal gap             298 deg
+
+2 Network magnitudes:
+    MLv       3.64 +/- 0.34   3 preferred  
+    M         3.64            3            
+
+11 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    FAKI  IA    1.2  83  P       20:56:46.3  -1.0 M  1.0  FAKI 
+    FAKI  IA    1.2  83  S       20:57:04.6   0.8 M  1.0  FAKI 
+    TSPI  IA    1.9  33  P       20:56:55.7  -1.3 M  1.0  TSPI 
+    TSPI  IA    1.9  33  S       20:57:21.0  -0.4 M  1.0  TSPI 
+    SWI   IA    2.2   5  P       20:57:07.2   5.9 MX 0.0  SWI  
+    SWI   IA    2.2   5  S       20:57:27.5  -1.7 MX 0.0  SWI  
+    KMPI  IA    2.7 102  P       20:57:03.8  -4.3 MX 0.0  KMPI 
+    STPI  IA    2.8  22  P       20:57:11.1   1.6 M  1.0  STPI 
+    MBPI  IA    2.9  69  P       20:57:11.1   0.8 M  1.0  MBPI 
+    IWPI  IA    3.5  85  P       20:57:18.4  -0.2 M  1.0  IWPI 
+    IWPI  IA    3.5  85  S       20:58:00.1  -0.2 M  1.0  IWPI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    FAKI  IA    1.2  83  MLv     3.25 -0.40    1.18084     
+    STPI  IA    2.8  22  MLv     3.87  0.23   0.650867     
+    MBPI  IA    2.9  69  MLv     3.81  0.17   0.524949     
+
+stageofsorong

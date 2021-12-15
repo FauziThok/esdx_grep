@@ -1,0 +1,49 @@
+Event:
+    Public ID              bmkg2021ynmc
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   21:43:49.0  +/-  0.5 s
+    Latitude                -7.59 deg  +/-    5 km
+    Longitude              121.54 deg  +/-    5 km
+    Depth                      10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.26 s
+    Azimuthal gap             123 deg
+
+2 Network magnitudes:
+    MLv       3.30 +/- 0.22   9            
+    M         3.30            9 preferred  
+
+11 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    PSJCM IA    1.0 300  P       21:44:08.1  -0.7 M  1.0  PSJCM
+    BSSI  IA    1.8 324  P       21:44:19.7   0.1 M  1.0  BSSI 
+    BBSI  IA    2.3  26  P       21:44:27.3  -0.1 M  1.0  BBSI 
+    BKSI  IA    2.7 328  P       21:44:32.0   0.1 M  1.0  BKSI 
+    BBCM  IA    2.9 330  P       21:44:35.7   0.1 M  1.0  BBCM 
+    TBCM  IA    2.9 335  P       21:44:35.7   0.0 M  1.0  TBCM 
+    KAPI  II    3.1 325  P       21:44:38.3   0.1 M  1.0  KAPI 
+    KKSI  IA    3.4   2  P       21:44:42.2   0.1 M  1.0  KKSI 
+    SOEI  IA    3.5 129  P       21:44:42.7  -0.1 M  1.0  SOEI 
+    LSCM  IA    3.6 333  P       21:44:44.7  -0.0 M  1.0  LSCM 
+    PLAI  IA    3.9 251  P       21:44:49.7   0.4 M  1.0  PLAI 
+
+11 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    PSJCM IA    1.0 300  MLv     2.73 -0.57   0.442631      
+    BSSI  IA    1.8 324  MLv     3.50  0.20    1.03095      
+    BBSI  IA    2.3  26  MLv     3.16 -0.13   0.231732      
+    BKSI  IA    2.7 328  MLv     2.96 -0.34   0.0949309      
+    BBCM  IA    2.9 330  MLv     3.18 -0.12   0.110071      
+    TBCM  IA    2.9 335  MLv     3.39  0.09   0.176928      
+    KAPI  II    3.1 325  MLv     2.99 -0.31   0.0567507      
+    KKSI  IA    3.4   2  MLv     3.58  0.29   0.153534      
+    SOEI  IA    3.5 129  MLv     3.91  0.61   0.304114      
+    LSCM  IA    3.6 333  MLv     3.43  0.14   0.0854589      
+    PLAI  IA    3.9 251  MLv     3.46  0.17   0.0764766      
+
+Balai4Makassar

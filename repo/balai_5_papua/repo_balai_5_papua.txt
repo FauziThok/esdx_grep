@@ -1,0 +1,213 @@
+Event:
+    Public ID              bmg2021yijs
+    Description
+      region name: Irian Jaya, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   02:50:47.2  +/-  0.4 s
+    Latitude                -3.32 deg  +/-    2 km
+    Longitude              140.00 deg  +/-    5 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.12 s
+    Azimuthal gap             137 deg
+
+2 Network magnitudes:
+    MLv       3.36 +/- 0.19   4            
+    M         3.36            4 preferred  
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    GENI  IA    0.7  13  Pg      02:51:01.4  -0.1 M  1.0  GENI 
+    GENI  IA    0.7  13  Sg      02:51:11.8  -0.1 M  1.0  GENI 
+    ARPI  IA    0.9  61  Pg      02:51:03.7   0.0 M  1.0  ARPI 
+    DYPI  IA    1.6 198  Pg      02:51:18.2   0.2 M  1.0  DYPI 
+    DYPI  IA    1.6 198  Sg      02:51:40.2  -0.2 M  1.0  DYPI 
+    SMPI  IA    1.8 316  Pg      02:51:22.7   0.1 M  1.0  SMPI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    GENI  IA    0.7  13  MLv     3.31 -0.06    2.47946      
+    ARPI  IA    0.9  61  MLv     3.69  0.32    5.14422      
+    DYPI  IA    1.6 198  MLv     3.34 -0.02   0.895655      
+    SMPI  IA    1.8 316  MLv     3.19 -0.17   0.459965      
+
+Balai5Papua
+Event:
+    Public ID              bmg2021yiwf
+    Description
+      region name: Near North Coast of Irian Jaya
+Origin:
+    Date                   2021-12-13
+    Time                   09:10:26.9  +/-  0.4 s
+    Latitude                -2.68 deg  +/-    3 km
+    Longitude              140.70 deg  +/-    3 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.15 s
+    Azimuthal gap             163 deg
+
+2 Network magnitudes:
+    MLv       2.46 +/- 0.43   4            
+    M         2.46            4 preferred  
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    JAY   IA    0.2   3  Pg      09:10:30.8   0.1 M  1.0  JAY  
+    JAY   IA    0.2   3  Sg      09:10:33.5   0.0 M  1.0  JAY  
+    ARPI  IA    0.2 167  Pg      09:10:31.6   0.0 M  1.0  ARPI 
+    ARPI  IA    0.2 167  Sg      09:10:35.0   0.1 M  1.0  ARPI 
+    GENI  IA    0.5 279  Pg      09:10:37.1  -0.3 M  1.0  GENI 
+    GENI  IA    0.5 279  Sg      09:10:45.1   0.2 M  1.0  GENI 
+    LJPI  IA    0.9 239  Pg      09:10:43.6  -0.1 M  1.0  LJPI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    JAY   IA    0.2   3  MLv     1.69 -0.77    0.85771      
+    ARPI  IA    0.2 167  MLv     2.54  0.08    4.13971      
+    GENI  IA    0.5 279  MLv     2.66  0.20   0.743136      
+    LJPI  IA    0.9 239  MLv     2.67  0.22   0.490771      
+
+Balai5Papua
+Event:
+    Public ID              bmg2021ykla
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   05:46:42.7  +/-  0.3 s
+    Latitude                -7.46 deg  +/-    3 km
+    Longitude              121.65 deg  +/-    4 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.93 s
+    Azimuthal gap              97 deg
+
+5 Network magnitudes:
+    mb        4.89 +/- 0.32   7            
+    mB        5.66            1            
+    Mw(mB)    5.17            1            
+    MLv       4.85 +/- 0.06   7            
+    M         4.87            7 preferred  
+
+16 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MMRI  IA    1.3 154  P       05:47:03.4  -3.0 M  1.0  MMRI 
+    BBSI  IA    2.2  25  P       05:47:16.7  -2.1 M  1.0  BBSI 
+    BKSI  IA    2.6 324  P       05:47:24.2  -0.9 M  1.0  BKSI 
+    KAPI  II    3.1 322  P       05:47:32.0   0.5 M  1.0  KAPI 
+    BATI  IA    3.4 144  P       05:47:37.3   1.8 M  1.0  BATI 
+    SOEI  IA    3.4 132  P       05:47:36.9   0.5 M  1.0  SOEI 
+    SPSI  IA    3.9 332  P       05:47:43.9   0.5 M  1.0  SPSI 
+    PLAI  IA    4.1 250  P       05:47:45.5   0.4 M  1.0  PLAI 
+    TTSI  IA    4.8 337  P       05:47:56.4   1.9 M  1.0  TTSI 
+    LUWI  IA    6.5  10  P       05:48:17.6  -0.6 M  1.0  LUWI 
+    NLAI  IA    6.9  53  P       05:48:24.1   0.7 M  1.0  NLAI 
+    SANI  IA    6.9  39  P       05:48:22.4  -1.5 M  1.0  SANI 
+    TAMI  IA    7.4  60  P       05:48:29.5  -2.0 M  1.0  TAMI 
+    MRSI  IA    7.9   2  P       05:48:35.9  -1.7 M  1.0  MRSI 
+    MPSI  IA    7.9 347  P       05:48:38.9   0.5 M  1.0  MPSI 
+    SRMI  IA    8.7  59  P       05:48:54.4   5.2 M  1.0  SRMI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MMRI  IA    1.3 154  MLv     4.65 -0.20    26.3632      
+    BBSI  IA    2.2  25  MLv     4.85  0.00    13.9147      
+    BKSI  IA    2.6 324  MLv     4.79 -0.06    6.70917      
+    KAPI  II    3.1 322  MLv     4.88  0.03     4.6141      
+    SOEI  IA    3.4 132  MLv     4.86  0.01    2.75494      
+    SPSI  IA    3.9 332  MLv     4.87  0.02    1.93405      
+    PLAI  IA    4.1 250  MLv     5.05  0.20     2.6791      
+    LUWI  IA    6.5  10  mB      5.66  0.00    4876.46      
+    LUWI  IA    6.5  10  mb      5.63  0.74    444.048 0.84 
+    NLAI  IA    6.9  53  mb      5.05  0.16     90.674 0.69 
+    SANI  IA    6.9  39  mb      4.69 -0.20    43.5877 0.76 
+    TAMI  IA    7.4  60  mb      4.42 -0.47     25.114 0.88 
+    MRSI  IA    7.9   2  mb      5.21  0.31    149.919 0.93 
+    MPSI  IA    7.9 347  mb      4.49 -0.40    27.8184 0.90 
+    SRMI  IA    8.7  59  mb      4.99  0.10     93.661 1.13 
+
+Balai5Papua
+Event:
+    Public ID              bmg2021yksi
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   09:28:30.1  +/-  0.5 s
+    Latitude                -0.60 deg  +/-    3 km
+    Longitude              132.32 deg  +/-    6 km
+    Depth                      12 km   +/-    6 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.12 s
+    Azimuthal gap             158 deg
+
+2 Network magnitudes:
+    MLv       3.60 +/- 1.80   4            
+    M         3.60            4 preferred  
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    STPI  IA    0.2 303  P       09:28:36.2  -0.0 M  1.0  STPI 
+    STPI  IA    0.2 303  S       09:28:40.7   0.0 M  1.0  STPI 
+    TSPI  IA    0.9 195  P       09:28:47.3  -0.2 M  1.0  TSPI 
+    TSPI  IA    0.9 195  S       09:29:00.4   0.2 M  1.0  TSPI 
+    RAPI  IA    1.5 277  P       09:28:56.7   0.0 M  1.0  RAPI 
+    MWPI  IA    1.8 101  P       09:29:00.4   0.1 M  1.0  MWPI 
+    MBPI  IA    2.0 135  P       09:29:03.8  -0.1 M  1.0  MBPI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    TSPI  IA    0.9 195  MLv     2.25 -1.35   0.178144      
+    RAPI  IA    1.5 277  MLv     6.79  3.18     2807.9      
+    MWPI  IA    1.8 101  MLv     3.32 -0.28    0.70104      
+    MBPI  IA    2.0 135  MLv     2.97 -0.63   0.225719      
+
+Balai5Papua
+Event:
+    Public ID              bmg2021yktw
+    Description
+      region name: Near North Coast of Irian Jaya
+Origin:
+    Date                   2021-12-14
+    Time                   10:16:51.6  +/-  0.7 s
+    Latitude                -2.07 deg  +/-    8 km
+    Longitude              139.15 deg  +/-    5 km
+    Depth                      29 km   +/-    9 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.13 s
+    Azimuthal gap             180 deg
+
+2 Network magnitudes:
+    MLv       3.81 +/- 0.43   5            
+    M         3.81            5 preferred  
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SMPI  IA    0.4 281  P       10:17:02.4   0.0 M  1.0  SMPI 
+    GENI  IA    1.1 117  P       10:17:11.7   0.1 M  1.0  GENI 
+    LJPI  IA    1.3 143  P       10:17:13.3  -0.7 M  1.0  LJPI 
+    JAY   IA    1.6 106  P       10:17:18.1  -0.0 M  1.0  JAY  
+    WAMI  IA    2.0 186  P       10:17:22.0  -1.8 M  1.0  WAMI 
+    DYPI  IA    2.8 173  P       10:17:36.6   2.3 M  1.0  DYPI 
+    BAKI  IA    3.2 286  P       10:17:39.5   0.1 M  1.0  BAKI 
+
+5 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SMPI  IA    0.4 281  MLv     3.48 -0.33    8.59424      
+    GENI  IA    1.1 117  MLv     3.82  0.01    4.84969      
+    JAY   IA    1.6 106  MLv     3.22 -0.59   0.662486      
+    WAMI  IA    2.0 186  MLv     4.54  0.73    8.19397      
+    BAKI  IA    3.2 286  MLv     4.08  0.27   0.665207      
+
+Balai5Papua

@@ -1,0 +1,37 @@
+Event:
+    Public ID              bmkg2021ynmc
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   21:43:56.1  +/-    0.7 s
+    Latitude                -7.33 deg  +/-    4 km
+    Longitude              121.16 deg  +/-   10 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.11 s
+    Azimuthal gap             187 deg
+
+2 Network magnitudes:
+    MLv       2.45 +/- 0.70   4            
+    M         2.45            4 preferred  
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    BSSI  IA    1.4 331  P       21:44:20.4  -0.2 M  1.0  BSSI 
+    BSSI  IA    1.4 331  S       21:44:39.1   0.1 M  1.0  BSSI 
+    EDFI  IA    1.5 160  P       21:44:22.8   0.1 M  1.0  EDFI 
+    EDFI  IA    1.5 160  S       21:44:39.4  -3.5 MX 0.0  EDFI 
+    LBFI  IA    1.7 228  P       21:44:25.6  -0.0 M  1.0  LBFI 
+    BKSI  IA    2.2 333  P       21:44:33.4  -0.0 M  1.0  BKSI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    BSSI  IA    1.4 331  MLv     3.26  0.82    1.02536      
+    EDFI  IA    1.5 160  MLv     2.31 -0.14   0.0939281      
+    LBFI  IA    1.7 228  MLv     1.40 -1.05   0.00903874      
+    BKSI  IA    2.2 333  MLv     2.71  0.26   0.0906199      
+
+Balai9Kupang

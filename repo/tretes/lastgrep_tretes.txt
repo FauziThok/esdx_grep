@@ -1,0 +1,38 @@
+Event:
+    Public ID              bmkg2021yltz
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   23:26:04.5  +/-    0.7 s
+    Latitude                -8.03 deg  +/-      5 km
+    Longitude              110.54 deg  +/-      4 km
+    Depth                       3 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.39 s
+    Azimuthal gap             177 deg
+
+2 Network magnitudes:
+    MLv       1.59 +/- 0.60   4            
+    M         1.59            4 preferred  
+
+7 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    UGM   IA    0.1 353  P       23:26:07.0  -0.4 M  1.0  UGM  
+    UGM   IA    0.1 353  S       23:26:09.3   0.2 M  1.0  UGM  
+    DWIKO IA    0.1 281  P       23:26:07.1  -0.3 M  1.0  DWIKO
+    DWIKO IA    0.1 281  S       23:26:09.4   0.2 M  1.0  DWIKO
+    GKJM  IA    0.2  15  P       23:26:09.6   0.7 M  1.0  GKJM 
+    GKJM  IA    0.2  15  S       23:26:11.2  -0.4 M  1.0  GKJM 
+    PCJI  IA    0.7 104  P       23:26:17.2  -0.0 M  1.0  PCJI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    UGM   IA    0.1 353  MLv     1.49 -0.10   0.701203     
+    DWIKO IA    0.1 281  MLv     1.28 -0.31   0.424155     
+    GKJM  IA    0.2  15  MLv     1.30 -0.28   0.278128     
+    PCJI  IA    0.7 104  MLv     2.66  1.07   0.621939     
+
+stageoftretes

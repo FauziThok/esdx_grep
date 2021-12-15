@@ -1,0 +1,823 @@
+Event:
+    Public ID              bmkg2021yiab
+    Description
+      region name: Southwest of Sumatra, Indonesia
+Origin:
+    Date                   2021-12-12
+    Time                   21:58:46.1  +/-  1.1 s
+    Latitude                -6.07 deg  +/-    7 km
+    Longitude              103.82 deg  +/-    5 km
+    Depth                      10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.81 s
+    Azimuthal gap             282 deg
+
+4 Network magnitudes:
+    MLv       2.87 +/- 0.49   5            
+    M         2.97            5 preferred  
+    ML        3.03 +/- 0.48   5            
+    Mjma      3.13 +/- 0.39   5            
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    KASI  IA    0.9  51  P       21:59:02.7  -0.3 M  1.0  KASI 
+    KASI  IA    0.9  51  S       21:59:15.8   0.5 M  1.0  KASI 
+    LWLI  IA    1.1  13  P       21:59:05.6  -0.8 M  1.0  LWLI 
+    LWLI  IA    1.1  13  S       21:59:19.9  -1.4 M  1.0  LWLI 
+    MDSI  IA    1.6  13  P       21:59:14.4  -0.1 M  1.0  MDSI 
+    MDSI  IA    1.6  13  S       21:59:37.2   1.4 M  1.0  MDSI 
+    MNAI  IA    1.9 333  P       21:59:19.2   0.6 M  1.0  MNAI 
+    LHSI  IA    2.2 353  P       21:59:23.6   0.1 M  1.0  LHSI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    KASI  IA    0.9  51  ML      2.60 -0.43   0.414067      
+    KASI  IA    0.9  51  MLv     2.46 -0.41   0.296194      
+    KASI  IA    0.9  51  Mjma    2.66 -0.47        N/A  N/A 
+    LWLI  IA    1.1  13  ML      3.43  0.40    2.14636      
+    LWLI  IA    1.1  13  MLv     3.29  0.42    1.55013      
+    LWLI  IA    1.1  13  Mjma    3.00 -0.13        N/A  N/A 
+    MDSI  IA    1.6  13  ML      2.39 -0.64   0.0981667      
+    MDSI  IA    1.6  13  MLv     2.23 -0.63   0.0676035      
+    MDSI  IA    1.6  13  Mjma    2.90 -0.24        N/A  N/A 
+    MNAI  IA    1.9 333  ML      3.61  0.57    1.11998      
+    MNAI  IA    1.9 333  MLv     3.53  0.66   0.917075      
+    MNAI  IA    1.9 333  Mjma    3.86  0.73        N/A  N/A 
+    LHSI  IA    2.2 353  ML      3.10  0.06    0.22186      
+    LHSI  IA    2.2 353  MLv     2.84 -0.02   0.121894      
+    LHSI  IA    2.2 353  Mjma    3.40  0.27        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021yjcp
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   12:23:11.8  +/-  0.7 s
+    Latitude                -8.59 deg  +/-    6 km
+    Longitude              108.38 deg  +/-    3 km
+    Depth                      37 km   +/-   19 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.26 s
+    Azimuthal gap             289 deg
+
+4 Network magnitudes:
+    MLv       3.22 +/- 0.31   9            
+    M         3.32            9 preferred  
+    ML        3.49 +/- 0.24   9            
+    Mjma      3.34 +/- 0.24   9            
+
+26 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    CMJI  IA    0.8   5  P       12:23:27.7   0.6 M  1.0  CMJI 
+    CMJI  IA    0.8   5  S       12:23:38.4  -0.4 M  1.0  CMJI 
+    BKJI  IA    1.2   6  P       12:23:31.8  -0.6 M  1.0  BKJI 
+    BKJI  IA    1.2   6  S       12:23:48.5   0.3 M  1.0  BKJI 
+    CIJI  IA    1.3 353  P       12:23:33.5   0.1 M  1.0  CIJI 
+    CIJI  IA    1.3 353  S       12:23:50.1   0.2 M  1.0  CIJI 
+    BBJI  IA    1.3 327  P       12:23:33.9  -0.1 M  1.0  BBJI 
+    BBJI  IA    1.3 327  S       12:23:51.0  -0.0 M  1.0  BBJI 
+    SEJM  IA    1.7   7  P       12:23:39.4   0.4 M  1.0  SEJM 
+    SEJM  IA    1.7   7  S       12:24:00.0  -0.1 M  1.0  SEJM 
+    PCJM  IA    1.7  12  P       12:23:38.7  -0.3 M  1.0  PCJM 
+    PCJM  IA    1.7  12  S       12:24:00.3   0.2 M  1.0  PCJM 
+    PBJI  IA    1.7 329  P       12:23:39.9   0.3 M  1.0  PBJI 
+    PBJI  IA    1.7 329  S       12:24:01.2   0.1 M  1.0  PBJI 
+    CTJI  IA    1.8  27  P       12:23:40.0   0.0 M  1.0  CTJI 
+    CTJI  IA    1.8  27  S       12:24:01.5  -0.2 M  1.0  CTJI 
+    CNJI  IA    1.8 316  P       12:23:39.9  -0.2 M  1.0  CNJI 
+    CNJI  IA    1.8 316  S       12:24:01.7  -0.3 M  1.0  CNJI 
+    PKJM  IA    1.8   2  P       12:23:40.3   0.2 M  1.0  PKJM 
+    PKJM  IA    1.8   2  S       12:24:01.9  -0.2 M  1.0  PKJM 
+    LEM   IA    1.9 337  P       12:23:41.9   0.0 M  1.0  LEM  
+    LEM   IA    1.9 337  S       12:24:05.4   0.1 M  1.0  LEM  
+    CBJM  IA    1.9 328  P       12:23:42.1  -0.1 M  1.0  CBJM 
+    CBJM  IA    1.9 328  S       12:24:06.0   0.2 M  1.0  CBJM 
+    CCJM  IA    2.0 322  P       12:23:42.9  -0.1 M  1.0  CCJM 
+    CCJM  IA    2.0 322  S       12:24:07.1  -0.1 M  1.0  CCJM 
+
+33 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    CMJI  IA    0.8   5  ML      3.24 -0.25    1.97804      
+    CMJI  IA    0.8   5  MLv     2.98 -0.24    1.07093      
+    CMJI  IA    0.8   5  Mjma    2.97 -0.37        N/A  N/A 
+    BKJI  IA    1.2   6  ML      3.67  0.18    3.13156      
+    BKJI  IA    1.2   6  MLv     3.69  0.47    3.27368      
+    BKJI  IA    1.2   6  Mjma    3.45  0.11        N/A  N/A 
+    CIJI  IA    1.3 353  ML      3.72  0.23    3.19528      
+    CIJI  IA    1.3 353  MLv     3.16 -0.06   0.874799      
+    CIJI  IA    1.3 353  Mjma    3.36  0.02        N/A  N/A 
+    BBJI  IA    1.3 327  ML      3.12 -0.37    0.76618      
+    BBJI  IA    1.3 327  MLv     2.70 -0.53   0.284612      
+    BBJI  IA    1.3 327  Mjma    2.76 -0.58        N/A  N/A 
+    PCJM  IA    1.7  12  ML      3.90  0.41     2.8776      
+    PCJM  IA    1.7  12  MLv     3.76  0.54    2.06818      
+    PCJM  IA    1.7  12  Mjma    3.89  0.55        N/A  N/A 
+    PBJI  IA    1.7 329  ML      3.55  0.06    1.23005      
+    PBJI  IA    1.7 329  MLv     3.13 -0.09   0.461673      
+    PBJI  IA    1.7 329  Mjma    3.22 -0.12        N/A  N/A 
+    CTJI  IA    1.8  27  ML      3.36 -0.13   0.768897      
+    CTJI  IA    1.8  27  MLv     3.08 -0.14   0.391594      
+    CTJI  IA    1.8  27  Mjma    3.60  0.26        N/A  N/A 
+    CNJI  IA    1.8 316  ML      2.89 -0.60    0.25283      
+    CNJI  IA    1.8 316  MLv     2.91 -0.31   0.263312      
+    CNJI  IA    1.8 316  Mjma    3.02 -0.32        N/A  N/A 
+    PKJM  IA    1.8   2  ML      3.61  0.12    1.31488      
+    PKJM  IA    1.8   2  MLv     3.43  0.20   0.853817      
+    PKJM  IA    1.8   2  Mjma    3.54  0.21        N/A  N/A 
+    CBJM  IA    1.9 328  ML      3.25 -0.24   0.481831      
+    CBJM  IA    1.9 328  MLv     2.94 -0.28    0.23092      
+    CBJM  IA    1.9 328  Mjma    3.18 -0.16        N/A  N/A 
+    CCJM  IA    2.0 322  ML      4.56  1.07    9.01738      
+    CCJM  IA    2.0 322  MLv     4.14  0.91    3.38665      
+    CCJM  IA    2.0 322  Mjma    3.70  0.36        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ykrc
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   08:51:04.1  +/-  1.0 s
+    Latitude                -4.53 deg  +/-    9 km
+    Longitude              103.98 deg  +/-    7 km
+    Depth                     214 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.85 s
+    Azimuthal gap             127 deg
+
+2 Network magnitudes:
+    MLv       2.88 +/- 0.76   5            
+    M         2.88            5 preferred  
+
+9 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MDSI  IA    0.2  78  P       08:51:34.0   1.4 M  1.0  MDSI 
+    MDSI  IA    0.2  78  S       08:51:54.5  -0.6 M  1.0  MDSI 
+    LHSI  IA    0.8 327  P       08:51:33.8  -0.9 M  1.0  LHSI 
+    LHSI  IA    0.8 327  S       08:51:59.2   0.2 M  1.0  LHSI 
+    MNAI  IA    1.0 279  P       08:51:36.8   1.2 M  1.0  MNAI 
+    MNAI  IA    1.0 279  S       08:51:59.7  -0.7 M  1.0  MNAI 
+    KASI  IA    1.1 152  P       08:51:35.4  -0.7 M  1.0  KASI 
+    KASI  IA    1.1 152  S       08:52:02.2   0.7 M  1.0  KASI 
+    CSJI  IA    3.8 138  P       08:52:03.0  -0.5 M  1.0  CSJI 
+
+5 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MDSI  IA    0.2  78  MLv     1.51 -1.37    0.43836      
+    LHSI  IA    0.8 327  MLv     2.85 -0.03   0.766119      
+    MNAI  IA    1.0 279  MLv     3.29  0.40    1.63544      
+    KASI  IA    1.1 152  MLv     2.55 -0.34   0.266697      
+    CSJI  IA    3.8 138  MLv     4.17  1.28   0.419488      
+
+stageofbandung
+Event:
+    Public ID              bmkg2021yktb
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   09:51:14.5  +/-  0.5 s
+    Latitude                -4.45 deg  +/-    8 km
+    Longitude              103.55 deg  +/-    5 km
+    Depth                      31 km   +/-   19 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.56 s
+    Azimuthal gap             140 deg
+
+4 Network magnitudes:
+    MLv       2.60 +/- 0.20   5            
+    M         2.69            5 preferred  
+    Mjma      2.75 +/- 0.28   5            
+    ML        2.78 +/- 0.29   5            
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.6 279  P       09:51:26.2  -1.1 M  1.0  MNAI 
+    MNAI  IA    0.6 279  S       09:51:37.7   0.7 M  1.0  MNAI 
+    LHSI  IA    0.6 358  P       09:51:27.8   0.2 M  1.0  LHSI 
+    MDSI  IA    0.6  93  P       09:51:27.8   0.0 M  1.0  MDSI 
+    LWLI  IA    0.8 138  P       09:51:29.4  -0.0 M  1.0  LWLI 
+    KASI  IA    1.4 138  P       09:51:38.6   0.3 M  1.0  KASI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.6 279  ML      3.14  0.36    2.05661      
+    MNAI  IA    0.6 279  MLv     2.86  0.26    1.07312      
+    MNAI  IA    0.6 279  Mjma    3.01  0.26        N/A  N/A 
+    LHSI  IA    0.6 358  ML      2.80  0.01   0.900509      
+    LHSI  IA    0.6 358  MLv     2.52 -0.08   0.474676      
+    LHSI  IA    0.6 358  Mjma    2.58 -0.17        N/A  N/A 
+    MDSI  IA    0.6  93  ML      2.21 -0.58   0.227359      
+    MDSI  IA    0.6  93  MLv     2.36 -0.24   0.326996      
+    MDSI  IA    0.6  93  Mjma    2.37 -0.38        N/A  N/A 
+    LWLI  IA    0.8 138  ML      2.99  0.20    1.16279      
+    LWLI  IA    0.8 138  MLv     2.81  0.21   0.776786      
+    LWLI  IA    0.8 138  Mjma    2.66 -0.09        N/A  N/A 
+    KASI  IA    1.4 138  ML      2.65 -0.14   0.227907      
+    KASI  IA    1.4 138  MLv     2.47 -0.14   0.149027      
+    KASI  IA    1.4 138  Mjma    3.12  0.37        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ykzd
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   12:54:49.2  +/-  0.5 s
+    Latitude                -4.30 deg  +/-    4 km
+    Longitude              103.42 deg  +/-    3 km
+    Depth                       0 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.48 s
+    Azimuthal gap             125 deg
+
+4 Network magnitudes:
+    MLv       2.91 +/- 0.17   5            
+    M         3.00            5 preferred  
+    Mjma      2.95 +/- 0.17   5            
+    ML        3.24 +/- 0.25   5            
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 263  P       12:54:58.0  -0.2 M  1.0  MNAI 
+    LHSI  IA    0.5  12  P       12:54:59.0   0.5 M  1.0  LHSI 
+    MDSI  IA    0.8 103  P       12:55:03.1  -1.0 M  1.0  MDSI 
+    MDSI  IA    0.8 103  S       12:55:14.2   0.0 M  1.0  MDSI 
+    LWLI  IA    1.0 138  P       12:55:07.6   0.1 M  1.0  LWLI 
+    KASI  IA    1.6 139  P       12:55:18.5   0.1 M  1.0  KASI 
+    KASI  IA    1.6 139  S       12:55:40.4   0.5 M  1.0  KASI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 263  ML      3.43  0.19    6.77857      
+    MNAI  IA    0.5 263  MLv     2.93  0.02    2.16355      
+    MNAI  IA    0.5 263  Mjma    3.03  0.07        N/A  N/A 
+    LHSI  IA    0.5  12  ML      3.06 -0.17    2.59964      
+    LHSI  IA    0.5  12  MLv     2.67 -0.23    1.04318      
+    LHSI  IA    0.5  12  Mjma    2.88 -0.07        N/A  N/A 
+    MDSI  IA    0.8 103  ML      2.75 -0.49     0.6581      
+    MDSI  IA    0.8 103  MLv     2.79 -0.11   0.729613      
+    MDSI  IA    0.8 103  Mjma    2.60 -0.35        N/A  N/A 
+    LWLI  IA    1.0 138  ML      3.43  0.19    2.49725      
+    LWLI  IA    1.0 138  MLv     3.24  0.34    1.63167      
+    LWLI  IA    1.0 138  Mjma    3.00  0.04        N/A  N/A 
+    KASI  IA    1.6 139  ML      3.33  0.10   0.860987      
+    KASI  IA    1.6 139  MLv     2.96  0.05   0.361545      
+    KASI  IA    1.6 139  Mjma    3.20  0.24        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021yldd
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   14:56:31.4  +/-  1.0 s
+    Latitude                -4.83 deg  +/-    7 km
+    Longitude              103.05 deg  +/-    6 km
+    Depth                       3 km   +/-    5 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.87 s
+    Azimuthal gap             233 deg
+
+4 Network magnitudes:
+    MLv       2.48 +/- 0.31   5            
+    M         2.66            5 preferred  
+    ML        2.80 +/- 0.30   5            
+    Mjma      2.87 +/- 0.17   5            
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 349  P       14:56:39.2  -1.6 M  1.0  MNAI 
+    MNAI  IA    0.5 349  S       14:56:48.2   0.9 M  1.0  MNAI 
+    LWLI  IA    1.0 100  P       14:56:50.2  -0.8 M  1.0  LWLI 
+    LWLI  IA    1.0 100  S       14:57:04.7  -0.2 M  1.0  LWLI 
+    LHSI  IA    1.1  25  P       14:56:53.0   0.6 M  1.0  LHSI 
+    MDSI  IA    1.2  73  P       14:56:53.4  -0.0 M  1.0  MDSI 
+    MDSI  IA    1.2  73  S       14:57:09.3  -0.2 M  1.0  MDSI 
+    KASI  IA    1.6 115  P       14:57:01.3   1.3 M  1.0  KASI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 349  ML      3.19  0.39     3.6117      
+    MNAI  IA    0.5 349  MLv     2.77  0.29    1.36576      
+    MNAI  IA    0.5 349  Mjma    2.77 -0.11        N/A  N/A 
+    LWLI  IA    1.0 100  ML      3.12  0.32    1.12883      
+    LWLI  IA    1.0 100  MLv     2.83  0.35   0.576018      
+    LWLI  IA    1.0 100  Mjma    2.84 -0.04        N/A  N/A 
+    LHSI  IA    1.1  25  ML      2.50 -0.30   0.241093      
+    LHSI  IA    1.1  25  MLv     2.21 -0.27   0.123931      
+    LHSI  IA    1.1  25  Mjma    2.93  0.05        N/A  N/A 
+    MDSI  IA    1.2  73  ML      2.60 -0.21    0.27591      
+    MDSI  IA    1.2  73  MLv     2.10 -0.38   0.0881407      
+    MDSI  IA    1.2  73  Mjma    2.73 -0.15        N/A  N/A 
+    KASI  IA    1.6 115  ML      2.66 -0.14   0.187011      
+    KASI  IA    1.6 115  MLv     2.48 -0.00   0.122999      
+    KASI  IA    1.6 115  Mjma    3.27  0.39        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ylmg
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   19:32:25.0  +/-  0.7 s
+    Latitude                -7.72 deg  +/-    5 km
+    Longitude              106.97 deg  +/-    3 km
+    Depth                      24 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.65 s
+    Azimuthal gap             218 deg
+
+4 Network magnitudes:
+    MLv       2.41 +/- 0.24   7            
+    M         2.53            7 preferred  
+    Mjma      2.73 +/- 0.35   7            
+    ML        2.56 +/- 0.23   7            
+
+15 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    CNJI  IA    0.4  21  P       19:32:35.9   0.6 M  1.0  CNJI 
+    CNJI  IA    0.4  21  S       19:32:43.2   0.3 M  1.0  CNJI 
+    CSJI  IA    0.6 311  P       19:32:36.4  -1.1 M  1.0  CSJI 
+    CCJM  IA    0.7  13  P       19:32:39.6   0.3 M  1.0  CCJM 
+    BBJI  IA    0.7  69  P       19:32:39.1  -0.2 M  1.0  BBJI 
+    BBJI  IA    0.7  69  S       19:32:49.9  -0.1 M  1.0  BBJI 
+    PBJI  IA    0.8  39  P       19:32:40.7   0.2 M  1.0  PBJI 
+    PBJI  IA    0.8  39  S       19:32:50.7  -1.4 M  1.0  PBJI 
+    PSJM  IA    0.8 331  P       19:32:40.7  -0.3 M  1.0  PSJM 
+    CBJM  IA    0.9  26  P       19:32:41.6   0.2 M  1.0  CBJM 
+    CBJM  IA    0.9  26  S       19:32:54.1   0.4 M  1.0  CBJM 
+    SCJM  IA    0.9  16  P       19:32:42.6   0.6 M  1.0  SCJM 
+    CIJI  IA    1.3  72  P       19:32:48.1   0.6 M  1.0  CIJI 
+    CMJI  IA    1.5  93  P       19:32:50.7   0.9 M  1.0  CMJI 
+    CMJI  IA    1.5  93  S       19:33:07.9  -0.9 M  1.0  CMJI 
+
+27 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    CNJI  IA    0.4  21  ML      1.72 -0.84   0.162513      
+    CNJI  IA    0.4  21  MLv     1.76 -0.65   0.176544      
+    CNJI  IA    0.4  21  Mjma    1.94 -0.78        N/A  N/A 
+    CSJI  IA    0.6 311  ML      2.52 -0.04   0.491951      
+    CSJI  IA    0.6 311  MLv     2.39 -0.02   0.360544      
+    CSJI  IA    0.6 311  Mjma    2.68 -0.05        N/A  N/A 
+    CCJM  IA    0.7  13  ML      3.10  0.54    1.57605      
+    CCJM  IA    0.7  13  MLv     2.76  0.35   0.723574      
+    CCJM  IA    0.7  13  Mjma    2.53 -0.20        N/A  N/A 
+    BBJI  IA    0.7  69  ML      2.38 -0.18   0.302737      
+    BBJI  IA    0.7  69  MLv     2.08 -0.33   0.151903      
+    BBJI  IA    0.7  69  Mjma    2.28 -0.45        N/A  N/A 
+    PBJI  IA    0.8  39  ML      2.31 -0.25   0.232359      
+    PBJI  IA    0.8  39  MLv     2.16 -0.25    0.16208      
+    PBJI  IA    0.8  39  Mjma    2.50 -0.22        N/A  N/A 
+    PSJM  IA    0.8 331  ML      2.50 -0.06   0.343394      
+    PSJM  IA    0.8 331  MLv     2.39 -0.02   0.266518      
+    PSJM  IA    0.8 331  Mjma    2.80  0.07        N/A  N/A 
+    SCJM  IA    0.9  16  ML      2.45 -0.10   0.283301      
+    SCJM  IA    0.9  16  MLv     2.45  0.04   0.278476      
+    SCJM  IA    0.9  16  Mjma    2.93  0.20        N/A  N/A 
+    CIJI  IA    1.3  72  ML      2.79  0.23   0.366982      
+    CIJI  IA    1.3  72  MLv     2.65  0.24   0.266959      
+    CIJI  IA    1.3  72  Mjma    3.39  0.66        N/A  N/A 
+    CMJI  IA    1.5  93  ML      2.97  0.41   0.454164      
+    CMJI  IA    1.5  93  MLv     2.89  0.48    0.37452      
+    CMJI  IA    1.5  93  Mjma    3.53  0.80        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ylsd
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   22:30:47.4  +/-  0.7 s
+    Latitude                -8.29 deg  +/-    4 km
+    Longitude              107.74 deg  +/-    2 km
+    Depth                      15 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.91 s
+    Azimuthal gap             254 deg
+
+5 Network magnitudes:
+    mb        3.77            1            
+    MLv       3.30 +/- 0.31  13            
+    M         3.47           13 preferred  
+    Mjma      3.37 +/- 0.23  13            
+    ML        3.61 +/- 0.26  12            
+
+32 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    BBJI  IA    0.8 354  P       22:31:04.6   1.0 M  1.0  BBJI 
+    BBJI  IA    0.8 354  S       22:31:14.7  -0.6 M  1.0  BBJI 
+    CMJI  IA    0.9  54  P       22:31:04.0  -0.2 M  1.0  CMJI 
+    CMJI  IA    0.9  54  S       22:31:14.7  -1.6 M  1.0  CMJI 
+    CIJI  IA    1.1  26  P       22:31:08.4   0.8 M  1.0  CIJI 
+    CIJI  IA    1.1  26  S       22:31:22.2  -0.3 M  1.0  CIJI 
+    CNJI  IA    1.1 328  P       22:31:09.2   0.7 M  1.0  CNJI 
+    BKJI  IA    1.2  40  P       22:31:10.1   1.1 M  1.0  BKJI 
+    BKJI  IA    1.2  40  S       22:31:25.1  -0.0 M  1.0  BKJI 
+    PBJI  IA    1.2 348  P       22:31:10.6   1.0 M  1.0  PBJI 
+    PBJI  IA    1.2 348  S       22:31:26.3   0.2 M  1.0  PBJI 
+    CCJM  IA    1.4 335  P       22:31:13.0   0.9 M  1.0  CCJM 
+    CCJM  IA    1.4 335  S       22:31:30.2  -0.5 M  1.0  CCJM 
+    CBJM  IA    1.4 344  P       22:31:11.2  -0.9 M  1.0  CBJM 
+    CBJM  IA    1.4 344  S       22:31:31.0   0.3 M  1.0  CBJM 
+    SCJM  IA    1.5 340  P       22:31:12.5  -1.4 M  1.0  SCJM 
+    SCJM  IA    1.5 340  S       22:31:33.7  -0.3 M  1.0  SCJM 
+    CSJI  IA    1.5 308  P       22:31:13.4  -0.7 M  1.0  CSJI 
+    CSJI  IA    1.5 308  S       22:31:32.3  -2.0 M  1.0  CSJI 
+    SSJM  IA    1.6 331  P       22:31:16.3   1.5 M  1.0  SSJM 
+    SSJM  IA    1.6 331  S       22:31:35.7  -0.0 M  1.0  SSJM 
+    SEJM  IA    1.6  31  P       22:31:14.0  -1.2 M  1.0  SEJM 
+    SEJM  IA    1.6  31  S       22:31:37.7   1.2 M  1.0  SEJM 
+    PKJM  IA    1.6  25  P       22:31:16.1   0.6 M  1.0  PKJM 
+    PKJM  IA    1.6  25  S       22:31:37.6   0.7 M  1.0  PKJM 
+    WSJM  IA    1.6 322  P       22:31:16.6   1.0 M  1.0  WSJM 
+    SKJI  IA    1.7 317  P       22:31:16.9  -0.0 M  1.0  SKJI 
+    SKJI  IA    1.7 317  S       22:31:39.5   0.1 M  1.0  SKJI 
+    PSJM  IA    1.7 318  P       22:31:16.7  -0.3 M  1.0  PSJM 
+    CBJI  IA    1.8 333  P       22:31:18.2   0.8 M  1.0  CBJI 
+    CTJI  IA    1.9  48  P       22:31:17.8  -1.6 M  1.0  CTJI 
+    MDSI  IA    5.2 317  P       22:32:04.3  -0.1 M  1.0  MDSI 
+
+51 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    BBJI  IA    0.8 354  ML      3.36 -0.26    2.49799      
+    BBJI  IA    0.8 354  MLv     2.84 -0.46    0.75834      
+    BBJI  IA    0.8 354  Mjma    2.67 -0.70        N/A  N/A 
+    CMJI  IA    0.9  54  ML      3.18 -0.43    1.59285      
+    CMJI  IA    0.9  54  MLv     2.97 -0.33   0.984359      
+    CMJI  IA    0.9  54  Mjma    2.99 -0.39        N/A  N/A 
+    CIJI  IA    1.1  26  ML      3.64  0.03     3.4727      
+    CIJI  IA    1.1  26  MLv     3.06 -0.25   0.895017      
+    CIJI  IA    1.1  26  Mjma    3.34 -0.03        N/A  N/A 
+    CNJI  IA    1.1 328  ML      2.51 -1.10    0.23698      
+    CNJI  IA    1.1 328  MLv     2.62 -0.68   0.303401      
+    CNJI  IA    1.1 328  Mjma    2.72 -0.66        N/A  N/A 
+    BKJI  IA    1.2  40  ML      3.88  0.27    5.32483      
+    BKJI  IA    1.2  40  MLv     3.73  0.42     3.6956      
+    BKJI  IA    1.2  40  Mjma    3.53  0.15        N/A  N/A 
+    PBJI  IA    1.2 348  ML      3.66  0.05    3.04951      
+    PBJI  IA    1.2 348  MLv     3.35  0.05    1.47825      
+    PBJI  IA    1.2 348  Mjma    3.07 -0.30        N/A  N/A 
+    CCJM  IA    1.4 335  ML      4.21  0.59    8.51158      
+    CCJM  IA    1.4 335  MLv     3.91  0.60    4.23893      
+    CCJM  IA    1.4 335  Mjma    3.64  0.27        N/A  N/A 
+    CBJM  IA    1.4 344  ML      3.21 -0.40   0.854496      
+    CBJM  IA    1.4 344  MLv     2.96 -0.34   0.475254      
+    CBJM  IA    1.4 344  Mjma    2.88 -0.49        N/A  N/A 
+    SCJM  IA    1.5 340  MLv     3.04 -0.27   0.484439      
+    SCJM  IA    1.5 340  Mjma    3.49  0.11        N/A  N/A 
+    CSJI  IA    1.5 308  ML      3.73  0.12    2.39395      
+    CSJI  IA    1.5 308  MLv     3.16 -0.15   0.627987      
+    CSJI  IA    1.5 308  Mjma    3.46  0.09        N/A  N/A 
+    SSJM  IA    1.6 331  ML      4.00  0.38    4.10869      
+    SSJM  IA    1.6 331  MLv     3.66  0.35    1.85066      
+    SSJM  IA    1.6 331  Mjma    3.39  0.01        N/A  N/A 
+    WSJM  IA    1.6 322  ML      3.72  0.10    1.99563      
+    WSJM  IA    1.6 322  MLv     3.67  0.37     1.7829      
+    WSJM  IA    1.6 322  Mjma    3.47  0.09        N/A  N/A 
+    SKJI  IA    1.7 317  ML      3.80  0.19    2.18238      
+    SKJI  IA    1.7 317  MLv     3.60  0.30     1.3739      
+    SKJI  IA    1.7 317  Mjma    3.53  0.15        N/A  N/A 
+    PSJM  IA    1.7 318  ML      3.42 -0.19   0.892562      
+    PSJM  IA    1.7 318  MLv     3.19 -0.11   0.522776      
+    PSJM  IA    1.7 318  Mjma    3.54  0.17        N/A  N/A 
+    CBJI  IA    1.8 333  ML      3.96  0.35    2.99503      
+    CBJI  IA    1.8 333  MLv     3.72  0.42    1.71709      
+    CBJI  IA    1.8 333  Mjma    3.51  0.14        N/A  N/A 
+    CTJI  IA    1.9  48  ML      2.98 -0.64   0.259641      
+    CTJI  IA    1.9  48  MLv     2.94 -0.37   0.234413      
+    CTJI  IA    1.9  48  Mjma    3.66  0.28        N/A  N/A 
+    MDSI  IA    5.2 317  ML      3.79  0.18   0.0786946      
+    MDSI  IA    5.2 317  MLv     3.63  0.33   0.0543287      
+    MDSI  IA    5.2 317  Mjma    3.89  0.52        N/A  N/A 
+    MDSI  IA    5.2 317  mb      3.77  0.00    7.92814 0.81 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ylve
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   00:03:47.9  +/-  0.6 s
+    Latitude                -4.36 deg  +/-    4 km
+    Longitude              103.45 deg  +/-    2 km
+    Depth                       1 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.68 s
+    Azimuthal gap             131 deg
+
+4 Network magnitudes:
+    MLv       2.58            3            
+    M         2.70            3 preferred  
+    ML        2.73            3            
+    Mjma      2.91            3            
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 269  P       00:03:56.7  -0.8 M  1.0  MNAI 
+    MNAI  IA    0.5 269  S       00:04:03.9   0.2 M  1.0  MNAI 
+    LHSI  IA    0.5   8  S       00:04:05.6   0.5 M  1.0  LHSI 
+    MDSI  IA    0.7 100  P       00:04:01.1  -1.1 M  1.0  MDSI 
+    MDSI  IA    0.7 100  S       00:04:11.7  -0.3 M  1.0  MDSI 
+    KASI  IA    1.6 138  P       00:04:16.9   0.7 M  1.0  KASI 
+    KASI  IA    1.6 138  S       00:04:37.7   0.7 M  1.0  KASI 
+
+9 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 269  ML      3.12  0.39    2.89805      
+    MNAI  IA    0.5 269  MLv     2.77  0.19    1.29587      
+    MNAI  IA    0.5 269  Mjma    2.95  0.04        N/A  N/A 
+    MDSI  IA    0.7 100  ML      2.31 -0.42   0.251033      
+    MDSI  IA    0.7 100  MLv     2.28 -0.30   0.233019      
+    MDSI  IA    0.7 100  Mjma    2.56 -0.35        N/A  N/A 
+    KASI  IA    1.6 138  ML      2.77  0.03   0.250147      
+    KASI  IA    1.6 138  MLv     2.69  0.11    0.20998      
+    KASI  IA    1.6 138  Mjma    3.22  0.31        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ylvl
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   00:11:41.3  +/-  0.5 s
+    Latitude                -4.36 deg  +/-    3 km
+    Longitude              103.47 deg  +/-    2 km
+    Depth                       4 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.89 s
+    Azimuthal gap             131 deg
+
+4 Network magnitudes:
+    MLv       2.18 +/- 0.34   4            
+    M         2.37            4 preferred  
+    ML        2.43 +/- 0.33   4            
+    Mjma      2.70 +/- 0.38   4            
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 269  P       00:11:51.0  -0.5 M  1.0  MNAI 
+    MNAI  IA    0.5 269  S       00:11:59.1   0.3 M  1.0  MNAI 
+    LHSI  IA    0.5   5  P       00:11:50.9  -0.8 M  1.0  LHSI 
+    LHSI  IA    0.5   5  S       00:11:59.4   0.3 M  1.0  LHSI 
+    MDSI  IA    0.7 101  P       00:11:55.2   0.1 M  1.0  MDSI 
+    MDSI  IA    0.7 101  S       00:12:05.2   0.1 M  1.0  MDSI 
+    KASI  IA    1.5 139  P       00:12:10.9   1.9 M  1.0  KASI 
+    KASI  IA    1.5 139  S       00:12:28.5  -1.3 M  1.0  KASI 
+
+12 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 269  ML      2.70  0.27   0.912598      
+    MNAI  IA    0.5 269  MLv     2.46  0.28   0.529377      
+    MNAI  IA    0.5 269  Mjma    2.91  0.22        N/A  N/A 
+    LHSI  IA    0.5   5  ML      2.45  0.02    0.48874      
+    LHSI  IA    0.5   5  MLv     2.01 -0.17   0.172968      
+    LHSI  IA    0.5   5  Mjma    2.41 -0.29        N/A  N/A 
+    MDSI  IA    0.7 101  ML      1.85 -0.58   0.0892944      
+    MDSI  IA    0.7 101  MLv     1.74 -0.44   0.0701406      
+    MDSI  IA    0.7 101  Mjma    2.39 -0.30        N/A  N/A 
+    KASI  IA    1.5 139  ML      2.57  0.14   0.161661      
+    KASI  IA    1.5 139  MLv     2.44  0.25   0.118482      
+    KASI  IA    1.5 139  Mjma    3.16  0.46        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ylvx
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   00:25:05.9  +/-  0.8 s
+    Latitude                -4.34 deg  +/-    3 km
+    Longitude              103.46 deg  +/-    2 km
+    Depth                       4 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.07 s
+    Azimuthal gap             166 deg
+
+4 Network magnitudes:
+    MLv       2.12            3            
+    M         2.26            3 preferred  
+    Mjma      2.53            3            
+    ML        2.27            3            
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 267  P       00:25:15.7  -0.1 M  1.0  MNAI 
+    MNAI  IA    0.5 267  S       00:25:22.9   0.1 M  1.0  MNAI 
+    LHSI  IA    0.5   8  P       00:25:16.1   0.1 M  1.0  LHSI 
+    LHSI  IA    0.5   8  S       00:25:23.2  -0.0 M  1.0  LHSI 
+    MDSI  IA    0.7 102  P       00:25:20.3   0.1 M  1.0  MDSI 
+    MDSI  IA    0.7 102  S       00:25:30.4  -0.0 M  1.0  MDSI 
+
+9 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 267  ML      2.63  0.36   0.870079      
+    MNAI  IA    0.5 267  MLv     2.44  0.32   0.562178      
+    MNAI  IA    0.5 267  Mjma    2.94  0.41        N/A  N/A 
+    LHSI  IA    0.5   8  ML      2.27  0.01   0.358727      
+    LHSI  IA    0.5   8  MLv     2.02 -0.10   0.196884      
+    LHSI  IA    0.5   8  Mjma    2.27 -0.26        N/A  N/A 
+    MDSI  IA    0.7 102  ML      1.90 -0.37   0.0977021      
+    MDSI  IA    0.7 102  MLv     1.90 -0.22   0.0974244      
+    MDSI  IA    0.7 102  Mjma    2.37 -0.15        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ylzd
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:03:24.0  +/-  1.1 s
+    Latitude                -4.95 deg  +/-    5 km
+    Longitude              103.02 deg  +/-    5 km
+    Depth                      49 km   +/-   13 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.33 s
+    Azimuthal gap             243 deg
+
+4 Network magnitudes:
+    MLv       3.99 +/- 0.41   5            
+    M         4.01            5 preferred  
+    Mjma      3.79 +/- 0.25   5            
+    ML        4.29 +/- 0.47   5            
+
+10 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.6 354  P       02:03:37.6  -0.0 M  1.0  MNAI 
+    MNAI  IA    0.6 354  S       02:03:47.8  -0.0 M  1.0  MNAI 
+    LWLI  IA    1.0  94  P       02:03:42.8   0.5 M  1.0  LWLI 
+    LWLI  IA    1.0  94  S       02:03:56.5   0.3 M  1.0  LWLI 
+    LHSI  IA    1.2  24  P       02:03:44.7  -0.1 M  1.0  LHSI 
+    LHSI  IA    1.2  24  S       02:04:00.7  -0.1 M  1.0  LHSI 
+    MDSI  IA    1.2  68  P       02:03:44.7  -0.3 M  1.0  MDSI 
+    MDSI  IA    1.2  68  S       02:04:01.4   0.1 M  1.0  MDSI 
+    KASI  IA    1.6 111  P       02:03:49.9   0.3 M  1.0  KASI 
+    KASI  IA    1.6 111  S       02:04:08.7  -0.7 M  1.0  KASI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.6 354  ML      5.07  0.79    175.496      
+    MNAI  IA    0.6 354  MLv     4.52  0.53    49.0315      
+    MNAI  IA    0.6 354  Mjma    4.03  0.24        N/A  N/A 
+    LWLI  IA    1.0  94  ML      4.69  0.40    40.6878      
+    LWLI  IA    1.0  94  MLv     4.41  0.42    21.4134      
+    LWLI  IA    1.0  94  Mjma    4.13  0.34        N/A  N/A 
+    LHSI  IA    1.2  24  ML      3.78 -0.50    3.97695      
+    LHSI  IA    1.2  24  MLv     3.53 -0.47    2.18586      
+    LHSI  IA    1.2  24  Mjma    3.49 -0.30        N/A  N/A 
+    MDSI  IA    1.2  68  ML      4.05 -0.24    7.19205      
+    MDSI  IA    1.2  68  MLv     3.84 -0.15    4.42427      
+    MDSI  IA    1.2  68  Mjma    3.63 -0.16        N/A  N/A 
+    KASI  IA    1.6 111  ML      4.01 -0.27    4.33233      
+    KASI  IA    1.6 111  MLv     3.70 -0.29    2.09014      
+    KASI  IA    1.6 111  Mjma    3.69 -0.10        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ylzl
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:13:08.9  +/-  0.5 s
+    Latitude                -4.32 deg  +/-    3 km
+    Longitude              103.45 deg  +/-    2 km
+    Depth                       1 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.62 s
+    Azimuthal gap             127 deg
+
+4 Network magnitudes:
+    MLv       2.26 +/- 0.26   4            
+    M         2.43            4 preferred  
+    Mjma      2.67 +/- 0.35   4            
+    ML        2.53 +/- 0.26   4            
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MNAI  IA    0.5 266  P       02:13:17.9  -0.6 M  1.0  MNAI 
+    MNAI  IA    0.5 266  S       02:13:25.0   0.2 M  1.0  MNAI 
+    LHSI  IA    0.5   9  P       02:13:18.2  -0.4 M  1.0  LHSI 
+    LHSI  IA    0.5   9  S       02:13:25.4   0.4 M  1.0  LHSI 
+    MDSI  IA    0.7 102  P       02:13:22.5  -0.8 M  1.0  MDSI 
+    MDSI  IA    0.7 102  S       02:13:33.0  -0.0 M  1.0  MDSI 
+    KASI  IA    1.6 139  P       02:13:38.8   1.3 M  1.0  KASI 
+    KASI  IA    1.6 139  S       02:13:58.4  -0.2 M  1.0  KASI 
+
+12 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MNAI  IA    0.5 266  ML      2.81  0.29    1.39481      
+    MNAI  IA    0.5 266  MLv     2.52  0.26   0.709136      
+    MNAI  IA    0.5 266  Mjma    2.81  0.14        N/A  N/A 
+    LHSI  IA    0.5   9  ML      2.50 -0.02   0.652538      
+    LHSI  IA    0.5   9  MLv     2.13 -0.13   0.269855      
+    LHSI  IA    0.5   9  Mjma    2.32 -0.35        N/A  N/A 
+    MDSI  IA    0.7 102  ML      2.11 -0.41   0.157607      
+    MDSI  IA    0.7 102  MLv     1.93 -0.33    0.10403      
+    MDSI  IA    0.7 102  Mjma    2.47 -0.20        N/A  N/A 
+    KASI  IA    1.6 139  ML      2.61  0.08   0.169453      
+    KASI  IA    1.6 139  MLv     2.42  0.16    0.10886      
+    KASI  IA    1.6 139  Mjma    3.16  0.49        N/A  N/A 
+
+stageofbandung
+Event:
+    Public ID              bmkg2021ymag
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:36:35.9  +/-  1.0 s
+    Latitude                -7.71 deg  +/-    5 km
+    Longitude              106.50 deg  +/-    5 km
+    Depth                      20 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.39 s
+    Azimuthal gap             286 deg
+
+4 Network magnitudes:
+    MLv       2.55 +/- 0.21   7            
+    M         2.65            7 preferred  
+    ML        2.82 +/- 0.33   7            
+    Mjma      2.69 +/- 0.17   7            
+
+14 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    CSJI  IA    0.4   3  P       02:36:45.1  -0.1 M  1.0  CSJI 
+    CSJI  IA    0.4   3  S       02:36:52.0   0.0 M  1.0  CSJI 
+    SKJI  IA    0.7   5  P       02:36:50.8   0.7 M  1.0  SKJI 
+    SKJI  IA    0.7   5  S       02:37:00.2  -0.4 M  1.0  SKJI 
+    PSJM  IA    0.7   5  P       02:36:50.2  -0.3 M  1.0  PSJM 
+    PSJM  IA    0.7   5  S       02:37:00.8  -0.3 M  1.0  PSJM 
+    CNJI  IA    0.7  57  P       02:36:51.1   0.4 M  1.0  CNJI 
+    CNJI  IA    0.7  57  S       02:37:01.7   0.1 M  1.0  CNJI 
+    CCJM  IA    0.9  43  P       02:36:53.5  -0.2 M  1.0  CCJM 
+    CCJM  IA    0.9  43  S       02:37:07.1   0.2 M  1.0  CCJM 
+    CBJM  IA    1.1  48  P       02:36:56.7  -0.0 M  1.0  CBJM 
+    CBJM  IA    1.1  48  S       02:37:12.8   0.6 M  1.0  CBJM 
+    BBJI  IA    1.2  78  P       02:36:57.0  -0.0 M  1.0  BBJI 
+    BBJI  IA    1.2  78  S       02:37:12.0  -0.8 M  1.0  BBJI 
+
+21 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    CSJI  IA    0.4   3  ML      3.27  0.45    8.15011      
+    CSJI  IA    0.4   3  MLv     2.61  0.07    1.77232      
+    CSJI  IA    0.4   3  Mjma    2.38 -0.32        N/A  N/A 
+    SKJI  IA    0.7   5  ML      2.98  0.16    1.21368      
+    SKJI  IA    0.7   5  MLv     2.76  0.22   0.741696      
+    SKJI  IA    0.7   5  Mjma    2.81  0.12        N/A  N/A 
+    PSJM  IA    0.7   5  ML      2.60 -0.21   0.502692      
+    PSJM  IA    0.7   5  MLv     2.51 -0.04   0.401818      
+    PSJM  IA    0.7   5  Mjma    2.74  0.05        N/A  N/A 
+    CNJI  IA    0.7  57  ML      2.44 -0.38   0.332873      
+    CNJI  IA    0.7  57  MLv     2.45 -0.10   0.341728      
+    CNJI  IA    0.7  57  Mjma    2.46 -0.23        N/A  N/A 
+    CCJM  IA    0.9  43  ML      3.57  0.75    3.48929      
+    CCJM  IA    0.9  43  MLv     3.31  0.76    1.91574      
+    CCJM  IA    0.9  43  Mjma    3.01  0.32        N/A  N/A 
+    CBJM  IA    1.1  48  ML      2.55 -0.27   0.257914      
+    CBJM  IA    1.1  48  MLv     2.33 -0.21   0.156618      
+    CBJM  IA    1.1  48  Mjma    2.82  0.13        N/A  N/A 
+    BBJI  IA    1.2  78  ML      2.64 -0.18   0.310501      
+    BBJI  IA    1.2  78  MLv     2.33 -0.22   0.149824      
+    BBJI  IA    1.2  78  Mjma    2.62 -0.07        N/A  N/A 
+
+stageofbandung

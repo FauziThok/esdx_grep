@@ -1,0 +1,49 @@
+Event:
+    Public ID              bmkg2021ymec
+    Description
+      region name: Minahassa Peninsula, Sulawesi
+Origin:
+    Date                   2021-12-15
+    Time                   04:34:05.0  +/-  1.2 s
+    Latitude                 1.62 deg  +/-    7 km
+    Longitude              122.35 deg  +/-    4 km
+    Depth                      30 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.72 s
+    Azimuthal gap             255 deg
+
+4 Network magnitudes:
+    MLv       2.44 +/- 0.14   4            
+    M         2.58            4 preferred  
+    Mjma      2.77 +/- 0.37   4            
+    ML        2.67 +/- 0.11   4            
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SMSI  IA    0.6 179  P       04:34:17.8  -0.4 M  1.0  SMSI 
+    SMSI  IA    0.6 179  S       04:34:27.5  -0.7 M  1.0  SMSI 
+    MRSI  IA    1.2 200  P       04:34:30.1   4.2 M  1.0  MRSI 
+    MRSI  IA    1.2 200  S       04:34:42.4   0.5 M  1.0  MRSI 
+    TGCM  IA    1.3 147  P       04:34:27.1  -0.3 M  1.0  TGCM 
+    TGCM  IA    1.3 147  S       04:34:43.1  -1.3 M  1.0  TGCM 
+    TOLI2 IA    1.7 252  P       04:34:31.7  -0.3 M  1.0  TOLI2
+    TOLI2 IA    1.7 252  S       04:34:51.1  -1.7 M  1.0  TOLI2
+
+12 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SMSI  IA    0.6 179  ML      2.57 -0.10   0.522323      
+    SMSI  IA    0.6 179  MLv     2.22 -0.22   0.233268      
+    SMSI  IA    0.6 179  Mjma    2.11 -0.67        N/A  N/A 
+    MRSI  IA    1.2 200  ML      2.75  0.07   0.373832      
+    MRSI  IA    1.2 200  MLv     2.41 -0.02   0.172534      
+    MRSI  IA    1.2 200  Mjma    2.85  0.08        N/A  N/A 
+    TGCM  IA    1.3 147  ML      2.79  0.11    0.35978      
+    TGCM  IA    1.3 147  MLv     2.58  0.14    0.22066      
+    TGCM  IA    1.3 147  Mjma    2.95  0.17        N/A  N/A 
+    TOLI2 IA    1.7 252  ML      2.59 -0.08   0.149611      
+    TOLI2 IA    1.7 252  MLv     2.50  0.06   0.120925      
+    TOLI2 IA    1.7 252  Mjma    2.94  0.17        N/A  N/A 
+
+stageofgorontalo

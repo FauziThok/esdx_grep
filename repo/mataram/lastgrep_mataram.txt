@@ -1,0 +1,143 @@
+Event:
+    Public ID              bmkg2021yned
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   17:42:38.2  +/-  0.3 s
+    Latitude                -7.53 deg  +/-    2 km
+    Longitude              121.62 deg  +/-    2 km
+    Depth                      10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.92 s
+    Azimuthal gap             167 deg
+
+7 Network magnitudes:
+    mb        4.81 +/- 0.18   4            
+    mB        5.17            1            
+    Mw(mB)    4.55            1            
+    MLv       4.44 +/- 0.11  19            
+    M         4.53           19 preferred  
+    ML        4.61 +/- 0.15  19            
+    Mjma      4.37 +/- 0.09  13            
+
+45 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    EDFI  IA    1.2 177  P       17:42:59.7  -0.8 M  1.0  EDFI 
+    EDFI  IA    1.2 177  S       17:43:17.1   0.0 M  1.0  EDFI 
+    MMRI  IA    1.3 151  P       17:43:00.1  -1.1 M  1.0  MMRI 
+    MMRI  IA    1.3 151  S       17:43:17.9  -0.4 M  1.0  MMRI 
+    LMTI  IA    1.6 227  P       17:43:05.2  -0.5 M  1.0  LMTI 
+    LMTI  IA    1.6 227  S       17:43:27.1   0.7 M  1.0  LMTI 
+    BSSI  IA    1.8 321  P       17:43:07.9  -1.0 M  1.0  BSSI 
+    BSSI  IA    1.8 321  S       17:43:32.4   0.0 M  1.0  BSSI 
+    WBNI  IA    2.8 254  P       17:43:21.6  -1.3 M  1.0  WBNI 
+    WBNI  IA    2.8 254  S       17:43:57.0  -0.7 M  1.0  WBNI 
+    LBNFM IA    2.8 248  P       17:43:23.1   0.0 M  1.0  LBNFM
+    LBNFM IA    2.8 248  S       17:43:57.5  -0.2 M  1.0  LBNFM
+    BASI  IA    2.9 201  P       17:43:25.3   1.3 M  1.0  BASI 
+    BASI  IA    2.9 201  S       17:43:59.4   0.1 M  1.0  BASI 
+    WBSI  IA    3.0 226  P       17:43:25.8  -0.6 M  1.0  WBSI 
+    KAPI  II    3.1 323  P       17:43:27.6   0.2 M  1.0  KAPI 
+    DBNFM IA    3.1 253  P       17:43:26.6  -1.0 M  1.0  DBNFM
+    DBNFM IA    3.1 253  S       17:44:05.3  -0.7 M  1.0  DBNFM
+    PBNI  IA    3.3 248  P       17:43:29.8   0.3 M  1.0  PBNI 
+    PBNI  IA    3.3 248  S       17:44:08.0  -1.2 M  1.0  PBNI 
+    SOEI  IA    3.4 130  P       17:43:33.1   1.5 M  1.0  SOEI 
+    TSNI  IA    3.5 250  P       17:43:33.4   0.1 M  1.0  TSNI 
+    TSNI  IA    3.5 250  S       17:44:15.4  -0.8 M  1.0  TSNI 
+    PDLI  IA    3.8 261  P       17:43:36.7   0.4 M  1.0  PDLI 
+    PDLI  IA    3.8 261  S       17:44:23.6   2.0 M  1.0  PDLI 
+    ESNI  IA    3.8 251  P       17:43:37.3   0.1 M  1.0  ESNI 
+    ESNI  IA    3.8 251  S       17:44:22.1  -1.2 M  1.0  ESNI 
+    PLAI  IA    4.0 251  P       17:43:40.0   0.1 M  1.0  PLAI 
+    PLAI  IA    4.0 251  S       17:44:27.5  -0.5 M  1.0  PLAI 
+    USFM  IA    4.5 259  P       17:43:46.0  -0.9 M  1.0  USFM 
+    USFM  IA    4.5 259  S       17:44:40.1  -0.4 M  1.0  USFM 
+    LSNI  IA    4.6 252  P       17:43:47.5  -0.2 M  1.0  LSNI 
+    LSNI  IA    4.6 252  S       17:44:44.6   2.6 M  1.0  LSNI 
+    TWSI  IA    4.8 255  P       17:43:50.5  -0.8 M  1.0  TWSI 
+    TWSI  IA    4.8 255  S       17:44:48.0  -0.4 M  1.0  TWSI 
+    JSBFM IA    4.9 254  P       17:43:52.5  -0.0 M  1.0  JSBFM
+    JSBFM IA    4.9 254  S       17:44:50.5  -0.3 M  1.0  JSBFM
+    WLTFM IA    5.1 259  P       17:43:56.2   1.1 M  1.0  WLTFM
+    WLTFM IA    5.1 259  S       17:44:56.5   1.1 M  1.0  WLTFM
+    LTNI  IA    5.2 256  P       17:43:56.6   0.1 M  1.0  LTNI 
+    LTNI  IA    5.2 256  S       17:44:59.0   1.0 M  1.0  LTNI 
+    NKBI  IA    6.1 258  P       17:44:10.5   1.6 M  1.0  NKBI 
+    JAGI  IA    7.5 262  P       17:44:28.8   1.6 M  1.0  JAGI 
+    KMMI  IA    7.7 273  P       17:44:30.1   0.1 M  1.0  KMMI 
+    KMMI  IA    7.7 273  S       17:45:57.0  -1.1 M  1.0  KMMI 
+
+66 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    EDFI  IA    1.2 177  ML      4.31 -0.30    13.7983      
+    EDFI  IA    1.2 177  MLv     3.93 -0.50     5.6866      
+    EDFI  IA    1.2 177  Mjma    3.94 -0.43        N/A  N/A 
+    MMRI  IA    1.3 151  ML      4.31 -0.30    13.0777      
+    MMRI  IA    1.3 151  MLv     4.20 -0.24    9.96108      
+    MMRI  IA    1.3 151  Mjma    4.20 -0.17        N/A  N/A 
+    LMTI  IA    1.6 227  ML      4.65  0.04     19.342      
+    LMTI  IA    1.6 227  MLv     4.49  0.06    13.3619      
+    LMTI  IA    1.6 227  Mjma    4.47  0.10        N/A  N/A 
+    BSSI  IA    1.8 321  ML      4.79  0.18    20.1162      
+    BSSI  IA    1.8 321  MLv     4.43 -0.01    8.58125      
+    BSSI  IA    1.8 321  Mjma    4.81  0.44        N/A  N/A 
+    WBNI  IA    2.8 254  ML      4.62  0.01    3.70529      
+    WBNI  IA    2.8 254  MLv     4.06 -0.37    1.02964      
+    WBNI  IA    2.8 254  Mjma    4.26 -0.11        N/A  N/A 
+    LBNFM IA    2.8 248  ML      4.81  0.19    5.65922      
+    LBNFM IA    2.8 248  MLv     4.41 -0.02    2.28142      
+    LBNFM IA    2.8 248  Mjma    4.18 -0.19        N/A  N/A 
+    BASI  IA    2.9 201  ML      4.57 -0.04      3.027      
+    BASI  IA    2.9 201  MLv     4.49  0.05    2.44361      
+    BASI  IA    2.9 201  Mjma    4.32 -0.05        N/A  N/A 
+    WBSI  IA    3.0 226  ML      4.45 -0.17    1.79591      
+    WBSI  IA    3.0 226  MLv     4.40 -0.03    1.61172      
+    WBSI  IA    3.0 226  Mjma    4.38  0.01        N/A  N/A 
+    KAPI  II    3.1 323  ML      4.37 -0.24    1.36714      
+    KAPI  II    3.1 323  MLv     4.28 -0.16    1.09042      
+    KAPI  II    3.1 323  Mjma    4.43  0.06        N/A  N/A 
+    DBNFM IA    3.1 253  ML      4.56 -0.05    2.10213      
+    DBNFM IA    3.1 253  MLv     4.55  0.12    2.06417      
+    DBNFM IA    3.1 253  Mjma    4.44  0.07        N/A  N/A 
+    PBNI  IA    3.3 248  ML      4.82  0.20    3.20517      
+    PBNI  IA    3.3 248  MLv     4.67  0.23    2.27566      
+    PBNI  IA    3.3 248  Mjma    4.40  0.03        N/A  N/A 
+    SOEI  IA    3.4 130  ML      4.42 -0.20    1.03798      
+    SOEI  IA    3.4 130  MLv     4.25 -0.19   0.691445      
+    SOEI  IA    3.4 130  Mjma    4.50  0.13        N/A  N/A 
+    TSNI  IA    3.5 250  ML      5.10  0.48    4.25554      
+    TSNI  IA    3.5 250  MLv     4.49  0.05    1.04111      
+    TSNI  IA    3.5 250  Mjma    4.39  0.02        N/A  N/A 
+    PDLI  IA    3.8 261  ML      4.56 -0.05    1.04901      
+    PDLI  IA    3.8 261  MLv     4.27 -0.16   0.542546      
+    PDLI  IA    3.8 261  Mjma    4.43  0.06        N/A  N/A 
+    ESNI  IA    3.8 251  ML      4.82  0.21    1.83737      
+    ESNI  IA    3.8 251  MLv     4.51  0.08   0.900414      
+    ESNI  IA    3.8 251  Mjma    4.37 -0.00        N/A  N/A 
+    PLAI  IA    4.0 251  ML      4.39 -0.23   0.604533      
+    PLAI  IA    4.0 251  MLv     4.32 -0.11   0.521284      
+    USFM  IA    4.5 259  ML      4.48 -0.13   0.560735      
+    USFM  IA    4.5 259  MLv     4.44 -0.00   0.506287      
+    LSNI  IA    4.6 252  ML      5.56  0.95    6.54437      
+    LSNI  IA    4.6 252  MLv     5.15  0.71    2.53303      
+    TWSI  IA    4.8 255  ML      4.43 -0.18   0.414963      
+    TWSI  IA    4.8 255  MLv     4.39 -0.05   0.375165      
+    JSBFM IA    4.9 254  ML      4.72  0.11   0.772962      
+    JSBFM IA    4.9 254  MLv     4.50  0.07   0.465343      
+    WLTFM IA    5.1 259  ML      4.63  0.02   0.562331      
+    WLTFM IA    5.1 259  MLv     4.58  0.15   0.501612      
+    WLTFM IA    5.1 259  mB      5.17  0.00     2187.1      
+    WLTFM IA    5.1 259  mb      4.85  0.04    86.7577 0.73 
+    LTNI  IA    5.2 256  ML      4.72  0.10   0.640659      
+    LTNI  IA    5.2 256  MLv     4.72  0.29   0.654622      
+    LTNI  IA    5.2 256  mb      5.02  0.21    124.657 0.73 
+    NKBI  IA    6.1 258  ML      4.82  0.20    0.48218      
+    NKBI  IA    6.1 258  MLv     4.61  0.18   0.301655      
+    NKBI  IA    6.1 258  mb      4.80 -0.00    57.7801 0.69 
+    JAGI  IA    7.5 262  mb      4.52 -0.29    26.2027 0.74 
+
+stageofmataram

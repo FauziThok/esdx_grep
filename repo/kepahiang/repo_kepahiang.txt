@@ -1,0 +1,746 @@
+Event:
+    Public ID              bmkg2021yibv
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-12
+    Time                   22:52:02.0  +/-    0.7 s
+    Latitude                -4.25 deg  +/-      3 km
+    Longitude              101.39 deg  +/-      3 km
+    Depth                       6 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.67 s
+    Azimuthal gap             214 deg
+
+2 Network magnitudes:
+    MLv       3.37 +/- 0.14  10            
+    M         3.37           10 preferred  
+
+22 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    UBSI  IA    1.0  61  P       22:52:21.0  -0.3 M  1.0  UBSI 
+    UBSI  IA    1.0  61  S       22:52:35.8   0.4 M  1.0  UBSI 
+    MBSM  IA    1.2  22  P       22:52:23.2  -1.0 M  1.0  MBSM 
+    MBSM  IA    1.2  22  S       22:52:40.6   0.2 M  1.0  MBSM 
+    ABSM  IA    1.2  47  P       22:52:23.7  -0.6 M  1.0  ABSM 
+    ABSM  IA    1.2  47  S       22:52:40.5  -0.3 M  1.0  ABSM 
+    MASI  IA    1.4  38  P       22:52:27.1  -0.2 M  1.0  MASI 
+    MASI  IA    1.4  38  S       22:52:46.6   0.3 M  1.0  MASI 
+    EGSI  IA    1.4 141  P       22:52:28.0   0.5 M  1.0  EGSI 
+    ULSM  IA    1.5  71  P       22:52:28.4  -0.3 M  1.0  ULSM 
+    ULSM  IA    1.5  71  S       22:52:49.7   0.9 M  1.0  ULSM 
+    MNAI  IA    1.6  94  P       22:52:30.5   0.5 M  1.0  MNAI 
+    MNAI  IA    1.6  94  S       22:52:51.8   0.7 M  1.0  MNAI 
+    JMSI  IA    1.7  17  P       22:52:31.5  -0.2 M  1.0  JMSI 
+    MKBI  IA    1.8 355  P       22:52:33.0  -0.4 M  1.0  MKBI 
+    MKBI  IA    1.8 355  S       22:52:58.1   0.8 M  1.0  MKBI 
+    MKSM  IA    2.0  98  P       22:52:36.4   0.3 M  1.0  MKSM 
+    MKSM  IA    2.0  98  S       22:53:01.1  -1.2 M  1.0  MKSM 
+    MTSM  IA    2.1  96  P       22:52:37.9  -0.2 M  1.0  MTSM 
+    MTSM  IA    2.1  96  S       22:53:04.2  -1.5 M  1.0  MTSM 
+    BOSM  IA    2.7 103  P       22:52:47.1   1.2 M  1.0  BOSM 
+    BOSM  IA    2.7 103  S       22:53:20.2   0.4 M  1.0  BOSM 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    UBSI  IA    1.0  61  MLv     3.26 -0.11    1.58441     
+    MBSM  IA    1.2  22  MLv     3.28 -0.09    1.31888     
+    ABSM  IA    1.2  47  MLv     3.45  0.07    1.89663     
+    MASI  IA    1.4  38  MLv     3.42  0.05    1.39094     
+    ULSM  IA    1.5  71  MLv     3.26 -0.12   0.854201     
+    MNAI  IA    1.6  94  MLv     3.38  0.01    1.02342     
+    JMSI  IA    1.7  17  MLv     3.64  0.27    1.59842     
+    MKBI  IA    1.8 355  MLv     3.20 -0.17   0.494912     
+    MKSM  IA    2.0  98  MLv     3.61  0.24    1.02119     
+    BOSM  IA    2.7 103  MLv     3.29 -0.09    0.19596     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021yjqn
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   19:26:11.7  +/-    0.8 s
+    Latitude                 0.27 deg  +/-      6 km
+    Longitude               97.04 deg  +/-     11 km
+    Depth                      12 km   +/-   14 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.79 s
+    Azimuthal gap             301 deg
+
+5 Network magnitudes:
+    MLv       4.50 +/- 0.25  18            
+    mB        5.27 +/- 0.39   3            
+    Mw(mB)    4.67 +/- 0.40   3            
+    mb        4.98 +/- 0.14   7            
+    M         4.66           18 preferred  
+
+36 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PBSI  IA    1.3 104  P       19:26:34.4  -0.6 A  1.0  PBSI 
+    SISI  IA    2.6 128  P       19:26:52.2  -1.3 A  1.0  SISI 
+    MNSI  IA    2.6  78  P       19:26:52.1  -1.5 A  1.0  MNSI 
+    MNSI  IA    2.6  78  S       19:27:25.6  -0.4 M  1.0  MNSI 
+    PABI  IA    2.8  93  P       19:26:56.3  -0.6 M  1.0  PABI 
+    PABI  IA    2.8  93  S       19:27:33.1   1.2 M  1.0  PABI 
+    TASI  IA    3.1 101  P       19:27:01.9   1.4 A  1.0  TASI 
+    TASI  IA    3.1 101  S       19:27:38.8   0.5 M  1.0  TASI 
+    MPSM  IA    3.1  84  P       19:26:59.7  -1.1 A  1.0  MPSM 
+    SMSM  IA    3.1  95  P       19:27:00.8  -0.3 A  1.0  SMSM 
+    SMSM  IA    3.1  95  S       19:27:40.2   0.7 M  1.0  SMSM 
+    PPI   IA    3.4 102  P       19:27:05.9   0.8 A  1.0  PPI  
+    PLSI  IA    3.5  90  P       19:27:06.5   0.3 M  1.0  PLSI 
+    PDSI  IA    3.6 109  P       19:27:07.1  -0.6 A  1.0  PDSI 
+    PDSI  IA    3.6 109  S       19:27:49.9  -1.3 M  1.0  PDSI 
+    JPSI  IA    3.9 114  P       19:27:11.6   0.2 M  1.0  JPSI 
+    JPSI  IA    3.9 114  S       19:27:57.6  -0.4 M  1.0  JPSI 
+    SDSI  IA    4.6 105  P       19:27:21.4   1.0 A  1.0  SDSI 
+    SSSM  IA    4.6 113  P       19:27:20.8  -0.0 A  1.0  SSSM 
+    RASM  IA    4.7 121  P       19:27:34.5  12.0 AX 0.0  RASM 
+    JASI  IA    4.7 111  P       19:27:22.6  -0.2 A  1.0  JASI 
+    SKSM  IA    4.8 117  P       19:27:25.3   0.9 M  1.0  SKSM 
+    MKBI  IA    5.0 123  P       19:27:26.6   0.0 A  1.0  MKBI 
+    KRJI  IA    5.0 118  P       19:27:27.7   1.0 M  1.0  KRJI 
+    KRJI  IA    5.0 118  S       19:28:24.9  -0.7 M  1.0  KRJI 
+    TMSM  IA    5.3 124  P       19:27:41.2  10.4 AX 0.0  TMSM 
+    MBBI  IA    5.4 110  P       19:27:21.6 -10.1 AX 0.0  MBBI 
+    JMSI  IA    5.6 121  P       19:27:35.8   0.3 M  1.0  JMSI 
+    BMSI  IA    5.8 114  P       19:27:37.4   0.3 A  1.0  BMSI 
+    MBSM  IA    5.9 125  P       19:27:47.9   9.2 AX 0.0  MBSM 
+    MASI  IA    6.2 123  P       19:27:44.1   0.9 M  1.0  MASI 
+    BLSM  IA    6.7 120  P       19:27:52.0   2.2 AX 0.0  BLSM 
+    KSI   IA    6.8 125  P       19:27:53.2   2.0 AX 0.0  KSI  
+    ULSM  IA    7.0 125  P       19:27:54.3   0.1 A  1.0  ULSM 
+    PKSI  IA    7.6 125  P       19:28:02.2   0.5 A  1.0  PKSI 
+    EGSI  IA    7.7 137  P       19:28:02.0  -1.1 A  1.0  EGSI 
+
+24 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MNSI  IA    2.6  78  MLv     4.46 -0.04    3.30066     
+    TASI  IA    3.1 101  MLv     4.29 -0.22    1.15757     
+    SMSM  IA    3.1  95  MLv     4.44 -0.06    1.56098     
+    PPI   IA    3.4 102  MLv     4.04 -0.46   0.426669     
+    PLSI  IA    3.5  90  MLv     4.59  0.09     1.3653     
+    PDSI  IA    3.6 109  MLv     4.54  0.04    1.07769     
+    JPSI  IA    3.9 114  MLv     4.66  0.16    1.23144     
+    SDSI  IA    4.6 105  MLv     4.05 -0.45   0.205859     
+    SSSM  IA    4.6 113  MLv     4.56  0.06   0.661195     
+    JASI  IA    4.7 111  MLv     4.39 -0.12   0.401867     
+    SKSM  IA    4.8 117  MLv     4.52  0.02   0.509587     
+    MKBI  IA    5.0 123  MLv     4.52  0.02   0.471881     
+    KRJI  IA    5.0 118  mB      5.31  0.04    3049.77     
+    JMSI  IA    5.6 121  MLv     4.66  0.15   0.441696     
+    JMSI  IA    5.6 121  mB      4.86 -0.41    925.065     
+    JMSI  IA    5.6 121  mb      4.94 -0.04    81.0177 0.63
+    BMSI  IA    5.8 114  mB      5.64  0.37    5494.76     
+    BMSI  IA    5.8 114  mb      4.95 -0.03    97.6632 0.76
+    MASI  IA    6.2 123  MLv     4.75  0.25   0.399968     
+    ULSM  IA    7.0 125  MLv     4.68  0.18   0.214256     
+    ULSM  IA    7.0 125  mb      4.86 -0.12    41.1438 0.50
+    PKSI  IA    7.6 125  MLv     4.91  0.41   0.262241     
+    PKSI  IA    7.6 125  mb      4.93 -0.05    56.7806 0.63
+    EGSI  IA    7.7 137  mb      5.19  0.21    88.5175 0.55
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ykrc
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   08:51:42.9  +/-    0.3 s
+    Latitude                -4.32 deg  +/-      2 km
+    Longitude              103.45 deg  +/-      2 km
+    Depth                       5 km   +/-    2 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.49 s
+    Azimuthal gap             105 deg
+
+2 Network magnitudes:
+    MLv       3.04 +/- 0.23  12            
+    M         3.04           12 preferred  
+
+18 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MTSM  IA    0.2 160  P       08:51:46.4  -0.4 M  1.0  MTSM 
+    MTSM  IA    0.2 160  S       08:51:49.5  -0.2 M  1.0  MTSM 
+    LHSM  IA    0.2  42  P       08:51:47.2   0.0 M  1.0  LHSM 
+    LHSM  IA    0.2  42  S       08:51:50.1  -0.2 M  1.0  LHSM 
+    PKSI  IA    0.3 326  P       08:51:50.0   0.2 M  1.0  PKSI 
+    RMSM  IA    0.4 121  P       08:51:52.2   0.5 M  1.0  RMSM 
+    MNAI  IA    0.5 265  P       08:51:52.6  -0.2 M  1.0  MNAI 
+    MNAI  IA    0.5 265  S       08:52:00.3   0.4 M  1.0  MNAI 
+    UTSM  IA    0.8 288  P       08:51:57.1  -0.5 M  1.0  UTSM 
+    BOSM  IA    0.8 133  P       08:51:58.2   0.0 M  1.0  BOSM 
+    BOSM  IA    0.8 133  S       08:52:09.4   0.3 M  1.0  BOSM 
+    ULSM  IA    0.9 310  P       08:51:58.9  -0.6 M  1.0  ULSM 
+    LLSI  IA    1.2 333  P       08:52:05.6   0.9 M  1.0  LLSI 
+    UBSI  IA    1.3 295  P       08:52:07.6   0.9 M  1.0  UBSI 
+    BLSM  IA    1.3 331  P       08:52:07.8   0.4 M  1.0  BLSM 
+    ABSM  IA    1.5 307  P       08:52:08.6  -1.0 M  1.0  ABSM 
+    MASI  IA    1.7 314  P       08:52:12.5  -0.2 M  1.0  MASI 
+    PMBI  IA    1.9  42  P       08:52:15.4  -0.3 M  1.0  PMBI 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MTSM  IA    0.2 160  MLv     3.21  0.17    27.3845     
+    LHSM  IA    0.2  42  MLv     2.96 -0.08    13.6094     
+    PKSI  IA    0.3 326  MLv     2.88 -0.16    4.56073     
+    MNAI  IA    0.5 265  MLv     2.91 -0.13    1.73478     
+    UTSM  IA    0.8 288  MLv     2.81 -0.22   0.780778     
+    BOSM  IA    0.8 133  MLv     3.18  0.14    1.74113     
+    LLSI  IA    1.2 333  MLv     2.86 -0.18   0.516314     
+    UBSI  IA    1.3 295  MLv     3.23  0.20    1.02831     
+    BLSM  IA    1.3 331  MLv     2.90 -0.14   0.450714     
+    MASI  IA    1.7 314  MLv     3.43  0.39   0.984085     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ykro
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   09:05:16.0  +/-    0.5 s
+    Latitude                -4.33 deg  +/-      2 km
+    Longitude              103.37 deg  +/-      2 km
+    Depth                       3 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.36 s
+    Azimuthal gap              82 deg
+
+2 Network magnitudes:
+    MLv       2.33 +/- 0.17   6            
+    M         2.33            6 preferred  
+
+11 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MKSM  IA    0.2 184  P       09:05:19.6  -0.6 M  1.0  MKSM 
+    MKSM  IA    0.2 184  S       09:05:22.7  -0.1 M  1.0  MKSM 
+    MTSM  IA    0.2 138  P       09:05:20.4   0.2 M  1.0  MTSM 
+    MTSM  IA    0.2 138  S       09:05:23.4   0.6 M  1.0  MTSM 
+    LHSM  IA    0.3  53  P       09:05:21.6   0.4 M  1.0  LHSM 
+    LHSM  IA    0.3  53  S       09:05:24.0  -0.6 M  1.0  LHSM 
+    PKSI  IA    0.3 339  P       09:05:22.7   0.4 M  1.0  PKSI 
+    MNAI  IA    0.4 266  P       09:05:24.4   0.1 M  1.0  MNAI 
+    RMSM  IA    0.5 115  P       09:05:25.5  -0.2 M  1.0  RMSM 
+    UTSM  IA    0.7 291  P       09:05:29.2  -0.2 M  1.0  UTSM 
+    BOSM  IA    0.8 129  P       09:05:32.0  -0.1 M  1.0  BOSM 
+
+6 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MKSM  IA    0.2 184  MLv     2.14 -0.19    1.94846     
+    MTSM  IA    0.2 138  MLv     2.45  0.12    3.99402     
+    LHSM  IA    0.3  53  MLv     2.38  0.05    2.42171     
+    MNAI  IA    0.4 266  MLv     2.45  0.12   0.975064     
+    RMSM  IA    0.5 115  MLv     2.10 -0.23   0.271667     
+    BOSM  IA    0.8 129  MLv     2.46  0.13   0.314061     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ykrg
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   08:55:57.0  +/-    0.7 s
+    Latitude                -4.30 deg  +/-      3 km
+    Longitude              103.35 deg  +/-      4 km
+    Depth                       4 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.51 s
+    Azimuthal gap             203 deg
+
+2 Network magnitudes:
+    MLv       2.33 +/- 0.30   4            
+    M         2.33            4 preferred  
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MTSM  IA    0.2 139  P       08:56:02.3   0.2 M  1.0  MTSM 
+    MTSM  IA    0.2 139  S       08:56:05.5  -0.1 M  1.0  MTSM 
+    LHSM  IA    0.3  61  P       08:56:03.1   0.6 M  1.0  LHSM 
+    LHSM  IA    0.3  61  S       08:56:06.0  -0.3 M  1.0  LHSM 
+    PKSI  IA    0.3 341  P       08:56:01.8  -1.0 M  1.0  PKSI 
+    PKSI  IA    0.3 341  S       08:56:07.5   0.6 M  1.0  PKSI 
+    BOSM  IA    0.9 130  P       08:56:14.0   0.3 M  1.0  BOSM 
+    BOSM  IA    0.9 130  S       08:56:25.5  -0.2 M  1.0  BOSM 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MTSM  IA    0.2 139  MLv     2.43  0.11    3.06688     
+    LHSM  IA    0.3  61  MLv     2.44  0.11    2.70112     
+    PKSI  IA    0.3 341  MLv     1.77 -0.55   0.517614     
+    BOSM  IA    0.9 130  MLv     2.44  0.11   0.287803     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ykqx
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   08:45:38.9  +/-    0.6 s
+    Latitude                -4.32 deg  +/-      2 km
+    Longitude              103.47 deg  +/-      2 km
+    Depth                       5 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.70 s
+    Azimuthal gap              96 deg
+
+2 Network magnitudes:
+    MLv       2.64 +/- 0.19   6            
+    M         2.64            6 preferred  
+
+11 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MTSM  IA    0.2 166  P       08:45:42.4  -0.4 M  1.0  MTSM 
+    MTSM  IA    0.2 166  S       08:45:45.3  -0.3 M  1.0  MTSM 
+    LHSM  IA    0.2  38  P       08:45:42.7  -0.2 M  1.0  LHSM 
+    LHSM  IA    0.2  38  S       08:45:45.9  -0.0 M  1.0  LHSM 
+    MKSM  IA    0.2 207  P       08:45:44.4   0.3 M  1.0  MKSM 
+    PKSI  IA    0.3 324  P       08:45:46.7   0.8 M  1.0  PKSI 
+    MNAI  IA    0.5 265  P       08:45:50.2   1.1 M  1.0  MNAI 
+    MNAI  IA    0.5 265  S       08:45:56.5  -0.0 M  1.0  MNAI 
+    UTSM  IA    0.8 287  P       08:45:52.2  -1.7 M  1.0  UTSM 
+    BOSM  IA    0.8 134  P       08:45:54.0   0.1 M  1.0  BOSM 
+    BOSM  IA    0.8 134  S       08:46:05.2   0.4 M  1.0  BOSM 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MTSM  IA    0.2 166  MLv     2.72  0.07    9.00882     
+    LHSM  IA    0.2  38  MLv     2.50 -0.15    5.11018     
+    MNAI  IA    0.5 265  MLv     2.66  0.01   0.866229     
+    BOSM  IA    0.8 134  MLv     2.65  0.01   0.525538     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021yktb
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   09:51:21.7  +/-    0.3 s
+    Latitude                -4.36 deg  +/-      2 km
+    Longitude              103.50 deg  +/-      2 km
+    Depth                       4 km   +/-    1 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.75 s
+    Azimuthal gap              97 deg
+
+2 Network magnitudes:
+    MLv       2.84 +/- 0.18  13            
+    M         2.84           13 preferred  
+
+21 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MTSM  IA    0.1 176  P       09:51:24.0  -0.6 M  1.0  MTSM 
+    MTSM  IA    0.1 176  S       09:51:27.5   0.9 M  1.0  MTSM 
+    LHSM  IA    0.2  23  P       09:51:25.6  -0.5 M  1.0  LHSM 
+    LHSM  IA    0.2  23  S       09:51:29.3   0.2 M  1.0  LHSM 
+    MKSM  IA    0.2 219  P       09:51:26.3  -0.2 M  1.0  MKSM 
+    MKSM  IA    0.2 219  S       09:51:29.8   0.0 M  1.0  MKSM 
+    RMSM  IA    0.4 120  P       09:51:28.3  -1.0 M  1.0  RMSM 
+    PKSI  IA    0.4 324  P       09:51:28.7  -0.9 M  1.0  PKSI 
+    PKSI  IA    0.4 324  S       09:51:35.1  -0.2 M  1.0  PKSI 
+    MNAI  IA    0.5 270  P       09:51:31.1  -1.3 M  1.0  MNAI 
+    MNAI  IA    0.5 270  S       09:51:40.4   0.3 M  1.0  MNAI 
+    BOSM  IA    0.7 134  P       09:51:36.4   0.6 M  1.0  BOSM 
+    BOSM  IA    0.7 134  S       09:51:46.1   0.3 M  1.0  BOSM 
+    UTSM  IA    0.8 290  P       09:51:37.7   0.2 M  1.0  UTSM 
+    ULSM  IA    0.9 310  P       09:51:38.9  -0.5 M  1.0  ULSM 
+    KSI   IA    1.1 308  P       09:51:44.2   1.0 M  1.0  KSI  
+    UBSI  IA    1.4 296  P       09:51:47.5   0.9 M  1.0  UBSI 
+    BLSM  IA    1.4 330  P       09:51:47.0  -0.1 M  1.0  BLSM 
+    ABSM  IA    1.5 307  P       09:51:50.6   1.2 M  1.0  ABSM 
+    EGSI  IA    1.6 231  P       09:51:48.5  -1.3 M  1.0  EGSI 
+    MASI  IA    1.7 314  P       09:51:53.5   1.1 M  1.0  MASI 
+
+11 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MTSM  IA    0.1 176  MLv     2.72 -0.12    12.1456     
+    LHSM  IA    0.2  23  MLv     2.82 -0.02    9.48166     
+    MKSM  IA    0.2 219  MLv     2.61 -0.23    5.11321     
+    PKSI  IA    0.4 324  MLv     2.74 -0.10    2.23972     
+    MNAI  IA    0.5 270  MLv     2.88  0.04    1.20927     
+    BOSM  IA    0.7 134  MLv     2.71 -0.13   0.643163     
+    UTSM  IA    0.8 290  MLv     2.75 -0.09   0.628663     
+    KSI   IA    1.1 308  MLv     3.15  0.31    1.02234     
+    BLSM  IA    1.4 330  MLv     2.95  0.11   0.469654     
+    EGSI  IA    1.6 231  MLv     2.83 -0.00   0.290628     
+    MASI  IA    1.7 314  MLv     3.08  0.24   0.406752     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ykzd
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   12:54:50.2  +/-    0.2 s
+    Latitude                -4.32 deg  +/-      2 km
+    Longitude              103.43 deg  +/-      2 km
+    Depth                       1 km   +/-    1 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.49 s
+    Azimuthal gap              75 deg
+
+2 Network magnitudes:
+    MLv       3.19 +/- 0.17  15            
+    M         3.19           15 preferred  
+
+24 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MTSM  IA    0.2 155  P       12:54:53.1  -0.7 M  1.0  MTSM 
+    MTSM  IA    0.2 155  S       12:54:56.2   0.5 M  1.0  MTSM 
+    LHSM  IA    0.2  45  P       12:54:53.7  -0.5 M  1.0  LHSM 
+    LHSM  IA    0.2  45  S       12:54:56.9   0.4 M  1.0  LHSM 
+    MKSM  IA    0.2 199  P       12:54:55.1   0.5 M  1.0  MKSM 
+    PKSI  IA    0.3 329  P       12:54:57.1   0.6 M  1.0  PKSI 
+    PKSI  IA    0.3 329  S       12:54:59.9  -0.6 M  1.0  PKSI 
+    RMSM  IA    0.4 120  P       12:54:59.0   0.1 M  1.0  RMSM 
+    MNAI  IA    0.5 265  P       12:54:58.6  -0.9 M  1.0  MNAI 
+    MNAI  IA    0.5 265  S       12:55:05.8   0.3 M  1.0  MNAI 
+    UTSM  IA    0.7 288  P       12:55:04.7   0.2 M  1.0  UTSM 
+    BOSM  IA    0.8 132  P       12:55:04.7  -0.8 M  1.0  BOSM 
+    BOSM  IA    0.8 132  S       12:55:16.1   0.1 M  1.0  BOSM 
+    ULSM  IA    0.8 311  P       12:55:05.9  -0.6 M  1.0  ULSM 
+    KSI   IA    1.1 308  P       12:55:10.5   0.0 M  1.0  KSI  
+    LLSI  IA    1.2 333  P       12:55:12.4   0.5 M  1.0  LLSI 
+    UBSI  IA    1.3 296  P       12:55:13.0  -1.0 M  1.0  UBSI 
+    BLSM  IA    1.3 332  P       12:55:15.1   0.3 M  1.0  BLSM 
+    ABSM  IA    1.5 307  P       12:55:17.4   0.5 M  1.0  ABSM 
+    EGSI  IA    1.5 228  P       12:55:18.5   0.4 M  1.0  EGSI 
+    MASI  IA    1.7 314  P       12:55:20.2   0.2 M  1.0  MASI 
+    MBSM  IA    2.0 306  P       12:55:25.1   0.5 M  1.0  MBSM 
+    JMSI  IA    2.3 317  P       12:55:28.7  -0.1 M  1.0  JMSI 
+    BMSI  IA    2.5 334  P       12:55:32.1   0.2 M  1.0  BMSI 
+
+15 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MTSM  IA    0.2 155  MLv     3.39  0.20    40.3808     
+    LHSM  IA    0.2  45  MLv     3.26  0.06    25.2566     
+    MKSM  IA    0.2 199  MLv     3.20  0.01    19.5166     
+    PKSI  IA    0.3 329  MLv     2.90 -0.29    5.13917     
+    MNAI  IA    0.5 265  MLv     3.06 -0.13    2.74046     
+    UTSM  IA    0.7 288  MLv     3.04 -0.15    1.35365     
+    BOSM  IA    0.8 132  MLv     3.37  0.17    2.66276     
+    KSI   IA    1.1 308  MLv     3.08 -0.12   0.966354     
+    UBSI  IA    1.3 296  MLv     3.27  0.07    1.12879     
+    BLSM  IA    1.3 332  MLv     2.97 -0.23   0.534424     
+    ABSM  IA    1.5 307  MLv     3.48  0.29    1.46677     
+    EGSI  IA    1.5 228  MLv     3.16 -0.04   0.629459     
+    MASI  IA    1.7 314  MLv     3.19 -0.01   0.576608     
+    MBSM  IA    2.0 306  MLv     3.09 -0.11   0.310977     
+    JMSI  IA    2.3 317  MLv     3.47  0.28   0.510492     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ylby
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   14:19:59.0  +/-    1.3 s
+    Latitude                -4.21 deg  +/-      7 km
+    Longitude              103.68 deg  +/-      7 km
+    Depth                      10 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.71 s
+    Azimuthal gap             225 deg
+
+2 Network magnitudes:
+    MLv       2.23 +/- 0.47   6            
+    M         2.23            6 preferred  
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    LHSM  IA    0.1 288  P       14:20:04.1   1.4 M  1.0  LHSM 
+    MTSM  IA    0.3 213  P       14:20:06.6   0.3 M  1.0  MTSM 
+    RMSM  IA    0.4 157  P       14:20:06.3  -0.7 M  1.0  RMSM 
+    MKSM  IA    0.4 226  P       14:20:08.7   0.1 M  1.0  MKSM 
+    PKSI  IA    0.4 292  P       14:20:08.4  -0.2 M  1.0  PKSI 
+    PKSI  IA    0.4 292  S       14:20:14.4  -1.1 M  1.0  PKSI 
+    MNAI  IA    0.7 259  P       14:20:13.3  -0.3 M  1.0  MNAI 
+    UTSM  IA    1.0 278  P       14:20:17.8   0.3 M  1.0  UTSM 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    LHSM  IA    0.1 288  MLv     1.89 -0.34    1.89946     
+    MTSM  IA    0.3 213  MLv     2.50  0.28    2.12034     
+    PKSI  IA    0.4 292  MLv     1.97 -0.26   0.263524     
+    UTSM  IA    1.0 278  MLv     2.65  0.42   0.415629     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021yldd
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   14:56:27.3  +/-    0.9 s
+    Latitude                -4.69 deg  +/-     15 km
+    Longitude              102.82 deg  +/-     10 km
+    Depth                      66 km   +/-   13 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.91 s
+    Azimuthal gap             229 deg
+
+2 Network magnitudes:
+    MLv       2.81 +/- 0.07   6            
+    M         2.81            6 preferred  
+
+12 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MNAI  IA    0.4  23  P       14:56:40.1   0.1 M  1.0  MNAI 
+    MNAI  IA    0.4  23  S       14:56:48.4  -1.3 M  1.0  MNAI 
+    MKSM  IA    0.6  74  P       14:56:40.8  -1.1 M  1.0  MKSM 
+    MKSM  IA    0.6  74  S       14:56:53.7   0.7 M  1.0  MKSM 
+    UTSM  IA    0.6 352  P       14:56:43.3   1.1 M  1.0  UTSM 
+    UTSM  IA    0.6 352  S       14:56:54.0   0.4 M  1.0  UTSM 
+    MTSM  IA    0.7  73  P       14:56:43.0  -0.2 M  1.0  MTSM 
+    PKSI  IA    0.8  35  P       14:56:44.9   1.2 M  1.0  PKSI 
+    PKSI  IA    0.8  35  S       14:56:57.0   0.7 M  1.0  PKSI 
+    BOSM  IA    1.2  98  P       14:56:49.3   0.8 M  1.0  BOSM 
+    BOSM  IA    1.2  98  S       14:57:03.8  -0.9 M  1.0  BOSM 
+    MBSM  IA    1.8 327  P       14:56:55.1  -1.4 M  1.0  MBSM 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MKSM  IA    0.6  74  MLv     2.85  0.05    1.10068     
+    UTSM  IA    0.6 352  MLv     2.76 -0.05   0.835954     
+    BOSM  IA    1.2  98  MLv     2.79 -0.02   0.412004     
+    MBSM  IA    1.8 327  MLv     2.84  0.03   0.212341     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021yldd
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   14:56:27.3  +/-    0.6 s
+    Latitude                -4.69 deg  +/-      4 km
+    Longitude              102.83 deg  +/-      3 km
+    Depth                      63 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.90 s
+    Azimuthal gap             122 deg
+
+2 Network magnitudes:
+    MLv       2.77 +/- 0.11   7            
+    M         2.77            7 preferred  
+
+15 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MNAI  IA    0.4  21  P       14:56:40.1   0.4 M  1.0  MNAI 
+    MNAI  IA    0.4  21  S       14:56:48.4  -0.7 M  1.0  MNAI 
+    MKSM  IA    0.6  73  P       14:56:40.8  -0.7 M  1.0  MKSM 
+    MKSM  IA    0.6  73  S       14:56:53.7   1.3 M  1.0  MKSM 
+    UTSM  IA    0.6 351  P       14:56:42.9   0.9 M  1.0  UTSM 
+    UTSM  IA    0.6 351  S       14:56:53.5   0.2 M  1.0  UTSM 
+    MTSM  IA    0.7  73  P       14:56:43.0   0.1 M  1.0  MTSM 
+    MTSM  IA    0.7  73  S       14:56:52.8  -2.0 M  1.0  MTSM 
+    PKSI  IA    0.8  34  P       14:56:44.5   1.0 M  1.0  PKSI 
+    PKSI  IA    0.8  34  S       14:56:56.6   0.7 M  1.0  PKSI 
+    EGSI  IA    0.9 220  P       14:56:44.5   0.3 M  1.0  EGSI 
+    EGSI  IA    0.9 220  S       14:56:56.9  -0.2 M  1.0  EGSI 
+    BOSM  IA    1.2  98  P       14:56:48.8   0.6 M  1.0  BOSM 
+    BOSM  IA    1.2  98  S       14:57:03.8  -0.4 M  1.0  BOSM 
+    MBSM  IA    1.8 327  P       14:56:55.1  -1.4 M  1.0  MBSM 
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MNAI  IA    0.4  21  MLv     2.63 -0.14    2.23695     
+    MKSM  IA    0.6  73  MLv     2.85  0.08    1.10068     
+    UTSM  IA    0.6 351  MLv     2.76 -0.00   0.836976     
+    BOSM  IA    1.2  98  MLv     2.78  0.01   0.411842     
+    MBSM  IA    1.8 327  MLv     2.85  0.08   0.212341     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ylhy
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   17:22:11.2  +/-    0.4 s
+    Latitude                -4.31 deg  +/-      2 km
+    Longitude              103.44 deg  +/-      3 km
+    Depth                       1 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.61 s
+    Azimuthal gap              88 deg
+
+2 Network magnitudes:
+    MLv       3.23 +/- 0.10  11            
+    M         3.23           11 preferred  
+
+21 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MTSM  IA    0.2 158  P       17:22:13.7  -1.1 AX 0.0  MTSM 
+    MTSM  IA    0.2 158  S       17:22:16.9   0.3 M  1.0  MTSM 
+    LHSM  IA    0.2  45  P       17:22:14.3  -0.7 M  1.0  LHSM 
+    LHSM  IA    0.2  45  S       17:22:17.4   0.4 M  1.0  LHSM 
+    MKSM  IA    0.2 200  P       17:22:16.2   0.4 M  1.0  MKSM 
+    PKSI  IA    0.3 327  P       17:22:16.9  -0.6 M  1.0  PKSI 
+    MNAI  IA    0.5 264  P       17:22:20.3  -0.3 M  1.0  MNAI 
+    UTSM  IA    0.7 288  P       17:22:24.8  -0.8 M  1.0  UTSM 
+    BOSM  IA    0.8 133  P       17:22:25.7  -0.7 M  1.0  BOSM 
+    ULSM  IA    0.8 310  P       17:22:26.7  -0.8 M  1.0  ULSM 
+    KSI   IA    1.1 308  P       17:22:32.3   0.8 M  1.0  KSI  
+    LLSI  IA    1.2 333  P       17:22:33.8   1.0 M  1.0  LLSI 
+    BLSM  IA    1.3 332  P       17:22:36.0   0.3 M  1.0  BLSM 
+    ABSM  IA    1.5 307  P       17:22:39.1   1.1 AX 0.0  ABSM 
+    MASI  IA    1.7 314  P       17:22:41.3   0.2 M  1.0  MASI 
+    MBSM  IA    2.0 306  P       17:22:46.5   0.8 M  1.0  MBSM 
+    JMSI  IA    2.3 317  P       17:22:49.4  -0.4 M  1.0  JMSI 
+    KRJI  IA    3.0 318  P       17:22:58.5  -0.8 AX 0.0  KRJI 
+    MBBI  IA    3.1 334  P       17:22:41.9 -18.8 AX 0.0  MBBI 
+    SKSM  IA    3.1 318  P       17:23:15.7  13.8 AX 0.0  SKSM 
+    SSSM  IA    3.5 321  P       17:23:17.7  10.9 AX 0.0  SSSM 
+
+9 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    LHSM  IA    0.2  45  MLv     3.32  0.08    30.9354     
+    MKSM  IA    0.2 200  MLv     3.27  0.04    21.6695     
+    MNAI  IA    0.5 264  MLv     3.21 -0.02     3.6936     
+    UTSM  IA    0.7 288  MLv     3.12 -0.11    1.62397     
+    BOSM  IA    0.8 133  MLv     3.38  0.15    2.77217     
+    KSI   IA    1.1 308  MLv     3.16 -0.07    1.17123     
+    LLSI  IA    1.2 333  MLv     3.19 -0.04    1.12221     
+    BLSM  IA    1.3 332  MLv     3.12 -0.11   0.763142     
+    MBSM  IA    2.0 306  MLv     3.31  0.07    0.51219     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ylzd
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:03:25.5  +/-    0.4 s
+    Latitude                -4.86 deg  +/-      3 km
+    Longitude              103.13 deg  +/-      3 km
+    Depth                      33 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.59 s
+    Azimuthal gap             150 deg
+
+2 Network magnitudes:
+    MLv       3.87 +/- 0.14   9            
+    M         3.87            9 preferred  
+
+24 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MNAI  IA    0.5 341  P       02:03:37.4  -0.1 M  1.0  MNAI 
+    MNAI  IA    0.5 341  S       02:03:46.9   0.3 M  1.0  MNAI 
+    LHSM  IA    0.8  33  P       02:03:41.1   0.1 M  1.0  LHSM 
+    LHSM  IA    0.8  33  S       02:03:54.1   1.4 M  1.0  LHSM 
+    PKSI  IA    0.8   9  P       02:03:40.7  -0.5 M  1.0  PKSI 
+    PKSI  IA    0.8   9  S       02:03:52.9  -0.2 M  1.0  PKSI 
+    UTSM  IA    0.9 332  P       02:03:40.8  -0.9 M  1.0  UTSM 
+    UTSM  IA    0.9 332  S       02:03:53.7  -0.4 M  1.0  UTSM 
+    BOSM  IA    0.9  90  P       02:03:41.9  -0.1 M  1.0  BOSM 
+    BOSM  IA    0.9  90  S       02:03:54.1  -0.3 M  1.0  BOSM 
+    EGSI  IA    1.0 240  P       02:03:43.2   0.1 M  1.0  EGSI 
+    EGSI  IA    1.0 240  S       02:03:57.3   0.7 M  1.0  EGSI 
+    KSI   IA    1.3 336  P       02:03:47.3  -0.4 M  1.0  KSI  
+    LLSI  IA    1.6 352  P       02:03:51.7   0.2 M  1.0  LLSI 
+    ABSM  IA    1.7 329  P       02:03:51.4  -1.2 M  1.0  ABSM 
+    BLSM  IA    1.7 349  P       02:03:53.6   0.0 M  1.0  BLSM 
+    MASI  IA    1.9 332  P       02:03:56.9   0.9 M  1.0  MASI 
+    MASI  IA    1.9 332  S       02:04:20.3   0.5 M  1.0  MASI 
+    SLSI  IA    2.5 348  P       02:04:05.1   1.0 AX 0.0  SLSI 
+    JMSI  IA    2.5 331  P       02:04:04.2  -0.2 M  1.0  JMSI 
+    BMSI  IA    2.9 344  P       02:04:16.0   6.7 AX 0.0  BMSI 
+    RASM  IA    3.4 322  P       02:04:20.8   4.7 AX 0.0  RASM 
+    SKSM  IA    3.4 328  P       02:04:21.5   5.1 AX 0.0  SKSM 
+    SLSM  IA    4.7 328  P       02:04:19.4 -14.9 AX 0.0  SLSM 
+
+9 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    LHSM  IA    0.8  33  MLv     3.84 -0.03    7.71929     
+    PKSI  IA    0.8   9  MLv     3.88  0.01    8.29848     
+    UTSM  IA    0.9 332  MLv     4.05  0.18    11.6849     
+    BOSM  IA    0.9  90  MLv     3.65 -0.22    4.50952     
+    EGSI  IA    1.0 240  MLv     3.62 -0.25    3.72078     
+    KSI   IA    1.3 336  MLv     3.99  0.12    5.72141     
+    LLSI  IA    1.6 352  MLv     3.93  0.07    3.55032     
+    MASI  IA    1.9 332  MLv     3.83 -0.04    1.80171     
+    JMSI  IA    2.5 331  MLv     4.00  0.14    1.24805     
+
+stageofkepahiang
+Event:
+    Public ID              bmkg2021ylzy
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:28:07.9  +/-    0.9 s
+    Latitude                -0.24 deg  +/-      5 km
+    Longitude               98.66 deg  +/-      7 km
+    Depth                      42 km   +/-   18 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.73 s
+    Azimuthal gap             137 deg
+
+2 Network magnitudes:
+    MLv       3.58 +/- 0.31   7            
+    M         3.58            7 preferred  
+
+12 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PBSI  IA    0.4 295  P       02:28:19.1  -0.0 M  1.0  PBSI 
+    PBSI  IA    0.4 295  S       02:28:27.8   0.1 M  1.0  PBSI 
+    SISI  IA    1.2 158  P       02:28:27.5  -0.2 M  1.0  SISI 
+    PABI  IA    1.3  73  P       02:28:28.0  -1.1 M  1.0  PABI 
+    MNSI  IA    1.4  42  P       02:28:30.7   0.0 M  1.0  MNSI 
+    SMSM  IA    1.5  81  P       02:28:32.8   0.1 M  1.0  SMSM 
+    SMSM  IA    1.5  81  S       02:28:51.4  -0.5 M  1.0  SMSM 
+    MPSM  IA    1.7  61  P       02:28:34.9  -0.0 M  1.0  MPSM 
+    PPI   IA    1.7  97  P       02:28:36.4   0.7 M  1.0  PPI  
+    PLSI  IA    2.0  76  P       02:28:38.8   0.3 M  1.0  PLSI 
+    JPSI  IA    2.2 120  P       02:28:43.9   1.7 M  1.0  JPSI 
+    PPSI  IA    2.9 152  P       02:28:49.7  -1.2 M  1.0  PPSI 
+
+7 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PBSI  IA    0.4 295  MLv     3.33 -0.25    7.11725     
+    PABI  IA    1.3  73  MLv     3.47 -0.10    1.87742     
+    MNSI  IA    1.4  42  MLv     3.88  0.30    4.08948     
+    SMSM  IA    1.5  81  MLv     3.67  0.09    2.09014     
+    PPI   IA    1.7  97  MLv     3.17 -0.41   0.498143     
+    PLSI  IA    2.0  76  MLv     3.47 -0.11   0.765149     
+    PPSI  IA    2.9 152  MLv     4.08  0.50    0.98395     
+
+stageofkepahiang

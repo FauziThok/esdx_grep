@@ -1,0 +1,1794 @@
+Event:
+    Public ID              bmkg2021yist
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   07:25:03.3  +/-    0.7 s
+    Latitude                -9.45 deg  +/-      5 km
+    Longitude              118.58 deg  +/-      2 km
+    Depth                      50 km   +/-   15 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.59 s
+    Azimuthal gap             189 deg
+
+2 Network magnitudes:
+    MLv       2.68 +/- 0.23   7            
+    M         2.68            7 preferred  
+
+13 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    WBSI  IA    0.8 104  P       07:25:19.3   0.1 M  1.0  WBSI 
+    WBSI  IA    0.8 104  S       07:25:31.2  -0.1 M  1.0  WBSI 
+    LBNFM IA    0.9  27  P       07:25:22.0   1.6 M  1.0  LBNFM
+    PLAI  IA    1.0 308  P       07:25:20.9  -0.3 M  1.0  PLAI 
+    PLAI  IA    1.0 308  S       07:25:34.0  -0.7 M  1.0  PLAI 
+    DBNFM IA    1.0   1  P       07:25:20.9  -0.4 M  1.0  DBNFM
+    DBNFM IA    1.0   1  S       07:25:35.6   0.6 M  1.0  DBNFM
+    OMBFM IA    1.4  59  P       07:25:26.6  -0.4 M  1.0  OMBFM
+    OMBFM IA    1.4  59  S       07:25:44.6  -0.6 M  1.0  OMBFM
+    TWSI  IA    1.8 293  P       07:25:32.5   0.3 M  1.0  TWSI 
+    TWSI  IA    1.8 293  S       07:25:54.6  -0.1 M  1.0  TWSI 
+    RNFM  IA    2.6  67  P       07:25:43.4   0.3 M  1.0  RNFM 
+    RNFM  IA    2.6  67  S       07:26:13.9  -0.4 M  1.0  RNFM 
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PLAI  IA    1.0 308  MLv     2.63 -0.05    0.36992     
+    DBNFM IA    1.0   1  MLv     2.47 -0.20   0.254466     
+    OMBFM IA    1.4  59  MLv     2.91  0.23   0.410312     
+    TWSI  IA    1.8 293  MLv     2.69  0.01   0.149998     
+    RNFM  IA    2.6  67  MLv     2.61 -0.07   0.0450889     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yisn
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   07:17:55.5  +/-    0.9 s
+    Latitude                -8.07 deg  +/-      8 km
+    Longitude              117.95 deg  +/-      3 km
+    Depth                      34 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.37 s
+    Azimuthal gap             231 deg
+
+2 Network magnitudes:
+    MLv       2.04 +/- 0.45   4            
+    M         2.04            4 preferred  
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PDLI  IA    0.1 248  P       07:18:01.4  -0.5 M  1.0  PDLI 
+    PDLI  IA    0.1 248  S       07:18:07.1   0.4 M  1.0  PDLI 
+    DBNFM IA    0.7 118  P       07:18:10.5   0.5 M  1.0  DBNFM
+    DBNFM IA    0.7 118  S       07:18:20.9  -0.1 M  1.0  DBNFM
+    PLAI  IA    0.8 193  P       07:18:09.9  -0.6 M  1.0  PLAI 
+    PLAI  IA    0.8 193  S       07:18:21.9   0.1 M  1.0  PLAI 
+    TWSI  IA    1.2 238  P       07:18:16.9   0.2 M  1.0  TWSI 
+    TWSI  IA    1.2 238  S       07:18:32.8   0.0 M  1.0  TWSI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PDLI  IA    0.1 248  MLv     1.28 -0.76    0.58452     
+    DBNFM IA    0.7 118  MLv     2.37  0.33   0.291795     
+    PLAI  IA    0.8 193  MLv     2.01 -0.03   0.120414     
+    TWSI  IA    1.2 238  MLv     2.30  0.25   0.127163     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yiyg
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   10:11:56.7  +/-    0.4 s
+    Latitude                -8.50 deg  +/-      3 km
+    Longitude              116.90 deg  +/-      2 km
+    Depth                       0 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.11 s
+    Azimuthal gap             157 deg
+
+2 Network magnitudes:
+    MLv       2.57 +/- 0.40   5            
+    M         2.57            5 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    TWSI  IA    0.2 184  P       10:12:00.5  -0.8 M  1.0  TWSI 
+    TWSI  IA    0.2 184  S       10:12:03.9   0.1 M  1.0  TWSI 
+    PLAI  IA    0.9 110  P       10:12:13.8  -0.7 M  1.0  PLAI 
+    PLAI  IA    0.9 110  S       10:12:26.7   0.0 M  1.0  PLAI 
+    PDLI  IA    1.0  68  P       10:12:14.9  -1.7 M  1.0  PDLI 
+    PDLI  IA    1.0  68  S       10:12:29.8  -0.7 M  1.0  PDLI 
+    DBNFM IA    1.7  87  P       10:12:27.5   0.7 M  1.0  DBNFM
+    DBNFM IA    1.7  87  S       10:12:51.6   2.4 M  1.0  DBNFM
+    RTBI  IA    1.9 271  P       10:12:30.2  -0.5 M  1.0  RTBI 
+    RTBI  IA    1.9 271  S       10:12:57.3   1.1 M  1.0  RTBI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PLAI  IA    0.9 110  MLv     2.24 -0.33     0.1686     
+    PDLI  IA    1.0  68  MLv     2.65  0.08    0.37335     
+    DBNFM IA    1.7  87  MLv     2.74  0.17    0.20244     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yiyg
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   10:11:56.6  +/-    0.4 s
+    Latitude                -8.50 deg  +/-      3 km
+    Longitude              116.90 deg  +/-      2 km
+    Depth                       0 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.10 s
+    Azimuthal gap             156 deg
+
+2 Network magnitudes:
+    MLv       2.71 +/- 0.44   6            
+    M         2.71            6 preferred  
+
+11 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    TWSI  IA    0.2 184  P       10:12:00.5  -0.7 M  1.0  TWSI 
+    TWSI  IA    0.2 184  S       10:12:03.9   0.2 M  1.0  TWSI 
+    PLAI  IA    0.9 110  P       10:12:13.8  -0.6 M  1.0  PLAI 
+    PLAI  IA    0.9 110  S       10:12:26.7   0.1 M  1.0  PLAI 
+    PDLI  IA    1.0  68  P       10:12:14.9  -1.7 M  1.0  PDLI 
+    PDLI  IA    1.0  68  S       10:12:29.8  -0.6 M  1.0  PDLI 
+    DBNFM IA    1.7  87  P       10:12:27.5   0.8 M  1.0  DBNFM
+    DBNFM IA    1.7  87  S       10:12:51.6   2.5 M  1.0  DBNFM
+    RTBI  IA    1.9 271  P       10:12:30.2  -0.5 M  1.0  RTBI 
+    RTBI  IA    1.9 271  S       10:12:57.3   1.2 M  1.0  RTBI 
+    WBSI  IA    2.7 115  P       10:12:40.4  -0.9 M  1.0  WBSI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PLAI  IA    0.9 110  MLv     2.24 -0.47     0.1686     
+    PDLI  IA    1.0  68  MLv     2.65 -0.06    0.37335     
+    DBNFM IA    1.7  87  MLv     2.74  0.03    0.20244     
+    WBSI  IA    2.7 115  MLv     3.23  0.52   0.166843     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yiyg
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   10:11:57.1  +/-    0.4 s
+    Latitude                -8.60 deg  +/-      3 km
+    Longitude              116.92 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.57 s
+    Azimuthal gap             149 deg
+
+2 Network magnitudes:
+    MLv       2.69 +/- 0.47   6            
+    M         2.69            6 preferred  
+
+11 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    TWSI  IA    0.1 195  P       10:12:00.5  -0.9 M  1.0  TWSI 
+    TWSI  IA    0.1 195  S       10:12:03.9  -0.7 M  1.0  TWSI 
+    PLAI  IA    0.9 105  P       10:12:13.8  -0.3 M  1.0  PLAI 
+    PLAI  IA    0.9 105  S       10:12:26.7   0.1 M  1.0  PLAI 
+    PDLI  IA    1.1  63  P       10:12:14.9  -2.4 M  1.0  PDLI 
+    PDLI  IA    1.1  63  S       10:12:29.8  -2.2 M  1.0  PDLI 
+    DBNFM IA    1.7  84  P       10:12:27.5   1.3 M  1.0  DBNFM
+    DBNFM IA    1.7  84  S       10:12:51.6   3.3 M  1.0  DBNFM
+    RTBI  IA    2.0 274  P       10:12:30.2  -0.2 M  1.0  RTBI 
+    RTBI  IA    2.0 274  S       10:12:57.3   1.4 M  1.0  RTBI 
+    WBSI  IA    2.7 113  P       10:12:40.4   0.5 M  1.0  WBSI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PLAI  IA    0.9 105  MLv     2.22 -0.47     0.1686     
+    PDLI  IA    1.1  63  MLv     2.66 -0.02    0.37335     
+    DBNFM IA    1.7  84  MLv     2.73  0.04    0.20244     
+    WBSI  IA    2.7 113  MLv     3.20  0.51   0.166843     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yjqb
+    Description
+      region name: Sumba Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   19:11:54.1  +/-    0.6 s
+    Latitude                -9.68 deg  +/-      4 km
+    Longitude              119.37 deg  +/-      3 km
+    Depth                       8 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.54 s
+    Azimuthal gap             201 deg
+
+2 Network magnitudes:
+    MLv       2.88 +/- 0.18  10            
+    M         2.88           10 preferred  
+
+16 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    WBSI  IA    0.0  34  P       19:11:56.1  -0.0 M  1.0  WBSI 
+    WBSI  IA    0.0  34  S       19:11:57.8   0.2 M  1.0  WBSI 
+    USTI  IA    0.4  87  P       19:12:02.5  -0.3 M  1.0  USTI 
+    USTI  IA    0.4  87  S       19:12:09.4   0.2 M  1.0  USTI 
+    WSI   IA    0.9  90  P       19:12:11.6  -0.2 M  1.0  WSI  
+    WSI   IA    0.9  90  S       19:12:24.6   0.0 M  1.0  WSI  
+    OMBFM IA    1.1  25  P       19:12:14.0  -0.5 M  1.0  OMBFM
+    OMBFM IA    1.1  25  S       19:12:28.9  -0.4 M  1.0  OMBFM
+    LBNFM IA    1.1 342  P       19:12:14.9  -0.2 M  1.0  LBNFM
+    DBNFM IA    1.5 328  P       19:12:20.7   0.4 M  1.0  DBNFM
+    LMTI  IA    1.5  46  P       19:12:21.9   0.6 M  1.0  LMTI 
+    PLAI  IA    1.8 298  P       19:12:23.8  -1.3 M  1.0  PLAI 
+    RNFM  IA    2.1  53  P       19:12:28.8  -0.2 M  1.0  RNFM 
+    PDLI  IA    2.1 316  P       19:12:31.6   1.3 M  1.0  PDLI 
+    TWSI  IA    2.6 291  P       19:12:37.1   0.2 M  1.0  TWSI 
+    BSSI  IA    3.7  18  P       19:12:51.4   0.0 M  1.0  BSSI 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    WBSI  IA    0.0  34  MLv     2.97  0.09    35.9456     
+    USTI  IA    0.4  87  MLv     2.61 -0.27    1.44093     
+    WSI   IA    0.9  90  MLv     3.06  0.18    1.12166     
+    OMBFM IA    1.1  25  MLv     3.08  0.20     0.9417     
+    LBNFM IA    1.1 342  MLv     3.09  0.21   0.911116     
+    DBNFM IA    1.5 328  MLv     2.89  0.01   0.377949     
+    LMTI  IA    1.5  46  MLv     2.72 -0.16   0.231656     
+    PLAI  IA    1.8 298  MLv     2.61 -0.27   0.131533     
+    PDLI  IA    2.1 316  MLv     2.76 -0.11   0.115921     
+    TWSI  IA    2.6 291  MLv     2.96  0.08   0.0996983     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yjxa
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   22:43:22.4  +/-    0.4 s
+    Latitude                -8.89 deg  +/-      4 km
+    Longitude              118.34 deg  +/-      2 km
+    Depth                       1 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.92 s
+    Azimuthal gap             150 deg
+
+2 Network magnitudes:
+    MLv       2.82 +/- 0.33   7            
+    M         2.82            7 preferred  
+
+11 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    DBNFM IA    0.5  28  P       22:43:31.6  -1.1 M  1.0  DBNFM
+    PLAI  IA    0.6 277  P       22:43:33.8   0.5 M  1.0  PLAI 
+    LBNFM IA    0.7  66  S       22:43:45.0  -1.0 M  1.0  LBNFM
+    PDLI  IA    0.9 330  P       22:43:39.8  -0.1 M  1.0  PDLI 
+    PDLI  IA    0.9 330  S       22:43:53.5   1.5 M  1.0  PDLI 
+    WBSI  IA    1.3 126  P       22:43:46.3   0.2 M  1.0  WBSI 
+    TWSI  IA    1.4 276  P       22:43:48.7  -0.1 M  1.0  TWSI 
+    TWSI  IA    1.4 276  S       22:44:07.2  -1.0 M  1.0  TWSI 
+    OMBFM IA    1.5  82  P       22:43:50.7   1.4 M  1.0  OMBFM
+    OMBFM IA    1.5  82  S       22:44:10.0   0.8 M  1.0  OMBFM
+    BSSI  IA    3.5  38  P       22:44:16.4  -1.0 M  1.0  BSSI 
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    DBNFM IA    0.5  28  MLv     3.07  0.25    1.93827     
+    PLAI  IA    0.6 277  MLv     2.58 -0.24   0.586083     
+    WBSI  IA    1.3 126  MLv     2.60 -0.22    0.24562     
+    TWSI  IA    1.4 276  MLv     2.58 -0.24   0.186282     
+    OMBFM IA    1.5  82  MLv     3.23  0.41   0.807377     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yjxa
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   22:43:22.3  +/-    0.4 s
+    Latitude                -8.88 deg  +/-      3 km
+    Longitude              118.36 deg  +/-      2 km
+    Depth                       2 km   +/-    3 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.82 s
+    Azimuthal gap             148 deg
+
+2 Network magnitudes:
+    MLv       2.90 +/- 0.35   6            
+    M         2.90            6 preferred  
+
+14 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    DBNFM IA    0.5  27  P       22:43:31.6  -0.6 M  1.0  DBNFM
+    DBNFM IA    0.5  27  S       22:43:38.6  -0.4 M  1.0  DBNFM
+    PLAI  IA    0.6 275  P       22:43:33.8   0.2 M  1.0  PLAI 
+    PLAI  IA    0.6 275  S       22:43:41.6   0.3 M  1.0  PLAI 
+    LBNFM IA    0.7  67  P       22:43:35.4  -0.5 M  1.0  LBNFM
+    LBNFM IA    0.7  67  S       22:43:44.9  -0.4 M  1.0  LBNFM
+    PDLI  IA    0.9 328  P       22:43:39.8   0.0 M  1.0  PDLI 
+    PDLI  IA    0.9 328  S       22:43:53.5   1.5 M  1.0  PDLI 
+    WBSI  IA    1.3 127  P       22:43:46.3   0.4 M  1.0  WBSI 
+    OMBFM IA    1.5  83  P       22:43:50.7   1.8 M  1.0  OMBFM
+    OMBFM IA    1.5  83  S       22:44:08.4  -0.1 M  1.0  OMBFM
+    TWSI  IA    1.5 275  P       22:43:48.7  -0.2 M  1.0  TWSI 
+    TWSI  IA    1.5 275  S       22:44:07.2  -1.5 M  1.0  TWSI 
+    BSSI  IA    3.4  38  P       22:44:16.4  -0.5 M  1.0  BSSI 
+
+6 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    DBNFM IA    0.5  27  MLv     3.01  0.11    1.93827     
+    PLAI  IA    0.6 275  MLv     2.59 -0.31   0.586083     
+    LBNFM IA    0.7  67  MLv     3.37  0.48    3.03342     
+    WBSI  IA    1.3 127  MLv     2.60 -0.30    0.24562     
+    OMBFM IA    1.5  83  MLv     3.22  0.32   0.807377     
+    TWSI  IA    1.5 275  MLv     2.58 -0.31   0.186282     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021yjzs
+    Description
+      region name: Flores Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   00:04:57.2  +/-    0.9 s
+    Latitude                -8.90 deg  +/-      5 km
+    Longitude              121.64 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.06 s
+    Azimuthal gap             228 deg
+
+2 Network magnitudes:
+    MLv       1.97 +/- 1.09   3 preferred  
+    M         1.97            3            
+
+5 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    EDFI  IA    0.2  20  P       00:05:01.7   0.1 M  1.0  EDFI 
+    EDFI  IA    0.2  20  S       00:05:04.8  -0.1 M  1.0  EDFI 
+    RNFM  IA    0.8 307  P       00:05:12.1  -0.1 M  1.0  RNFM 
+    RNFM  IA    0.8 307  S       00:05:23.2   0.0 M  1.0  RNFM 
+    USTI  IA    2.0 247  P       00:05:30.7  -0.0 M  1.0  USTI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    EDFI  IA    0.2  20  MLv     1.18 -0.80   0.276933     
+    RNFM  IA    0.8 307  MLv     1.52 -0.45   0.0396141     
+    USTI  IA    2.0 247  MLv     3.22  1.25   0.415702     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykau
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   00:37:33.7  +/-    1.1 s
+    Latitude                -8.41 deg  +/-      4 km
+    Longitude              116.80 deg  +/-      6 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.33 s
+    Azimuthal gap             268 deg
+
+2 Network magnitudes:
+    MLv       2.27 +/- 0.17   5            
+    M         2.27            5 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    TWSI  IA    0.3 166  P       00:37:41.2  -0.1 M  1.0  TWSI 
+    TWSI  IA    0.3 166  S       00:37:45.4  -1.5 M  1.0  TWSI 
+    PLAI  IA    1.1 113  P       00:37:54.4   0.8 M  1.0  PLAI 
+    PLAI  IA    1.1 113  S       00:38:09.6   1.4 M  1.0  PLAI 
+    PDLI  IA    1.1  74  P       00:37:53.3  -1.1 M  1.0  PDLI 
+    PDLI  IA    1.1  74  S       00:38:07.2  -2.5 M  1.0  PDLI 
+    DBNI  IA    1.5  94  P       00:38:00.7   0.4 M  1.0  DBNI 
+    DBNI  IA    1.5  94  S       00:38:20.4   0.0 M  1.0  DBNI 
+    DBNFM IA    1.8  91  P       00:38:06.6   2.2 M  1.0  DBNFM
+    DBNFM IA    1.8  91  S       00:38:28.0   0.3 M  1.0  DBNFM
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PLAI  IA    1.1 113  MLv     2.16 -0.11    0.11896     
+    PDLI  IA    1.1  74  MLv     2.45  0.18   0.216138     
+    DBNI  IA    1.5  94  MLv     2.23 -0.04   0.0785784     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykbr
+    Description
+      region name: Flores Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   01:03:45.9  +/-    0.9 s
+    Latitude                -8.41 deg  +/-      6 km
+    Longitude              119.85 deg  +/-      3 km
+    Depth                     167 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.31 s
+    Azimuthal gap             182 deg
+
+2 Network magnitudes:
+    MLv       2.58 +/- 0.26   7            
+    M         2.58            7 preferred  
+
+13 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    OMBFM IA    0.3 186  P       01:04:09.3   0.1 M  1.0  OMBFM
+    OMBFM IA    0.3 186  S       01:04:27.5  -0.0 M  1.0  OMBFM
+    RNFM  IA    1.2  91  P       01:04:14.0   0.2 M  1.0  RNFM 
+    RNFM  IA    1.2  91  S       01:04:35.2  -0.4 M  1.0  RNFM 
+    DBNFM IA    1.2 269  P       01:04:15.1   0.6 M  1.0  DBNFM
+    WBSI  IA    1.3 200  P       01:04:15.5   0.3 M  1.0  WBSI 
+    WBSI  IA    1.3 200  S       01:04:37.8  -0.2 M  1.0  WBSI 
+    DBNI  IA    1.5 266  P       01:04:17.2  -0.0 M  1.0  DBNI 
+    DBNI  IA    1.5 266  S       01:04:41.9   0.2 M  1.0  DBNI 
+    BASI  IA    1.9 158  S       01:04:49.4   0.1 M  1.0  BASI 
+    PLAI  IA    2.1 258  P       01:04:23.2  -0.1 M  1.0  PLAI 
+    PLAI  IA    2.1 258  S       01:04:52.4  -0.1 M  1.0  PLAI 
+    TWSI  IA    3.0 263  P       01:04:32.7  -0.7 M  1.0  TWSI 
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    RNFM  IA    1.2  91  MLv     2.24 -0.34   0.124148     
+    DBNFM IA    1.2 269  MLv     2.64  0.05   0.278121     
+    WBSI  IA    1.3 200  MLv     2.61  0.03   0.238807     
+    DBNI  IA    1.5 266  MLv     2.61  0.03   0.184171     
+    PLAI  IA    2.1 258  MLv     2.82  0.24   0.144032     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykbr
+    Description
+      region name: Flores Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   01:03:45.8  +/-    0.7 s
+    Latitude                -8.39 deg  +/-      4 km
+    Longitude              119.85 deg  +/-      2 km
+    Depth                     167 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.33 s
+    Azimuthal gap             108 deg
+
+2 Network magnitudes:
+    MLv       2.56 +/- 0.27   7            
+    M         2.56            7 preferred  
+
+17 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    OMBFM IA    0.3 186  P       01:04:09.3   0.1 M  1.0  OMBFM
+    OMBFM IA    0.3 186  S       01:04:27.5  -0.0 M  1.0  OMBFM
+    RNFM  IA    1.2  92  P       01:04:14.0   0.3 M  1.0  RNFM 
+    RNFM  IA    1.2  92  S       01:04:35.2  -0.2 M  1.0  RNFM 
+    DBNFM IA    1.2 268  P       01:04:15.1   0.7 M  1.0  DBNFM
+    WBSI  IA    1.3 200  P       01:04:15.5   0.3 M  1.0  WBSI 
+    WBSI  IA    1.3 200  S       01:04:37.8  -0.4 M  1.0  WBSI 
+    WSI   IA    1.3 161  S       01:04:38.3  -0.2 M  1.0  WSI  
+    DBNI  IA    1.5 266  P       01:04:17.2   0.1 M  1.0  DBNI 
+    DBNI  IA    1.5 266  S       01:04:41.9   0.3 M  1.0  DBNI 
+    EDFI  IA    1.9 101  P       01:04:20.6   0.2 M  1.0  EDFI 
+    EDFI  IA    1.9 101  S       01:04:47.8   0.2 M  1.0  EDFI 
+    BASI  IA    2.0 159  S       01:04:49.4  -0.1 M  1.0  BASI 
+    PLAI  IA    2.1 258  P       01:04:23.2   0.0 M  1.0  PLAI 
+    PLAI  IA    2.1 258  S       01:04:52.4  -0.1 M  1.0  PLAI 
+    BSSI  IA    2.3  16  P       01:04:25.1  -0.6 M  1.0  BSSI 
+    TWSI  IA    3.0 263  P       01:04:32.7  -0.6 M  1.0  TWSI 
+
+7 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    RNFM  IA    1.2  92  MLv     2.24 -0.32   0.124148     
+    DBNFM IA    1.2 268  MLv     2.64  0.08   0.278121     
+    WBSI  IA    1.3 200  MLv     2.62  0.06   0.238807     
+    DBNI  IA    1.5 266  MLv     2.62  0.05   0.184171     
+    EDFI  IA    1.9 101  MLv     2.13 -0.43   0.0399368     
+    PLAI  IA    2.1 258  MLv     2.83  0.26   0.144032     
+    BSSI  IA    2.3  16  MLv     2.84  0.28    0.11155     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykbv
+    Description
+      region name: Flores Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   01:08:49.4  +/-    1.0 s
+    Latitude                -8.88 deg  +/-      6 km
+    Longitude              121.63 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.29 s
+    Azimuthal gap             252 deg
+
+2 Network magnitudes:
+    MLv       2.61 +/- 1.46   4            
+    M         2.61            4 preferred  
+
+6 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    EDFI  IA    0.1  24  P       01:08:53.5  -0.0 M  1.0  EDFI 
+    EDFI  IA    0.1  24  S       01:08:56.6   0.1 M  1.0  EDFI 
+    RNFM  IA    0.7 306  P       01:09:03.8  -0.3 M  1.0  RNFM 
+    RNFM  IA    0.7 306  S       01:09:15.0   0.1 M  1.0  RNFM 
+    OMBFM IA    1.8 276  P       01:09:20.9   0.5 M  1.0  OMBFM
+    LBNFM IA    2.6 276  P       01:09:31.3  -0.3 M  1.0  LBNFM
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    EDFI  IA    0.1  24  MLv     1.36 -1.25     0.4717     
+    RNFM  IA    0.7 306  MLv     1.56 -1.04   0.0445332     
+    OMBFM IA    1.8 276  MLv     3.29  0.68    0.62313     
+    LBNFM IA    2.6 276  MLv     4.58  1.97    4.30585     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykdq
+    Description
+      region name: Flores Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   02:02:54.6  +/-    1.3 s
+    Latitude                -8.01 deg  +/-     10 km
+    Longitude              120.68 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.32 s
+    Azimuthal gap             255 deg
+
+2 Network magnitudes:
+    MLv       2.38 +/- 0.74   3 preferred  
+    M         2.38            3            
+
+6 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    0.5 141  P       02:03:04.5  -1.2 M  1.0  RNFM 
+    RNFM  IA    0.5 141  S       02:03:14.3   0.4 M  1.0  RNFM 
+    OMBFM IA    1.1 231  P       02:03:17.2   2.2 M  1.0  OMBFM
+    OMBFM IA    1.1 231  S       02:03:28.9  -1.1 M  1.0  OMBFM
+    EDFI  IA    1.2 127  P       02:03:16.1  -1.3 M  1.0  EDFI 
+    EDFI  IA    1.2 127  S       02:03:35.3   1.0 M  1.0  EDFI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    RNFM  IA    0.5 141  MLv     1.81 -0.56    0.10271     
+    OMBFM IA    1.1 231  MLv     3.21  0.84    1.27664     
+    EDFI  IA    1.2 127  MLv     2.10 -0.27   0.0813042     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykhb
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   03:47:01.2  +/-    0.3 s
+    Latitude                -7.50 deg  +/-      2 km
+    Longitude              121.76 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.01 s
+    Azimuthal gap              81 deg
+
+2 Network magnitudes:
+    MLv       5.04 +/- 0.13  13            
+    M         5.04           13 preferred  
+
+27 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.2 218  P       03:47:22.8  -0.2 M  1.0  RNFM 
+    RNFM  IA    1.2 218  S       03:47:38.1  -1.0 M  1.0  RNFM 
+    MMRI  IA    1.2 157  P       03:47:24.7   1.0 M  1.0  MMRI 
+    MMRI  IA    1.2 157  S       03:47:43.1   2.8 MX 0.0  MMRI 
+    EDFI  IA    1.2 183  P       03:47:23.8  -0.2 M  1.0  EDFI 
+    EDFI  IA    1.2 183  S       03:47:40.6  -0.3 M  1.0  EDFI 
+    BNTI  IA    1.5 211  P       03:47:29.3   1.6 M  1.0  BNTI 
+    BNTI  IA    1.5 211  S       03:47:48.3   0.5 M  1.0  BNTI 
+    LMTI  IA    1.7 229  P       03:47:30.2  -0.2 M  1.0  LMTI 
+    LMTI  IA    1.7 229  S       03:47:49.9  -2.7 M  1.0  LMTI 
+    IBTI  IA    1.7 121  P       03:47:30.6  -0.6 M  1.0  IBTI 
+    IBTI  IA    1.7 121  S       03:47:45.9  -8.1 MX 0.0  IBTI 
+    BSSI  IA    1.9 317  P       03:47:33.1   0.2 M  1.0  BSSI 
+    BSSI  IA    1.9 317  S       03:47:56.8  -0.4 M  1.0  BSSI 
+    BBSI  IA    2.2  22  P       03:47:36.9  -0.3 M  1.0  BBSI 
+    OMBFM IA    2.3 238  P       03:47:39.7   1.2 M  1.0  OMBFM
+    OMBFM IA    2.3 238  S       03:48:07.2  -0.1 M  1.0  OMBFM
+    WSI   IA    2.6 214  P       03:47:45.5   2.2 M  1.0  WSI  
+    ALKI  IA    2.9 103  P       03:47:46.3  -0.9 M  1.0  ALKI 
+    USTI  IA    2.9 222  P       03:47:48.3   0.9 M  1.0  USTI 
+    BASI  IA    2.9 203  P       03:47:48.5   0.4 M  1.0  BASI 
+    WBSI  IA    3.2 228  P       03:47:50.4  -0.7 M  1.0  WBSI 
+    DBNFM IA    3.3 254  P       03:47:52.1  -0.5 M  1.0  DBNFM
+    ATNI  IA    3.4 117  P       03:47:54.3  -0.7 M  1.0  ATNI 
+    DBNI  IA    3.6 254  P       03:47:56.1  -0.5 M  1.0  DBNI 
+    KTTI  IA    3.7 132  P       03:48:03.2   4.6 MX 0.0  KTTI 
+    PDLI  IA    3.9 261  P       03:48:02.5   1.3 M  1.0  PDLI 
+
+13 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.2 157  MLv     5.02 -0.02     69.127     
+    EDFI  IA    1.2 183  MLv     4.80 -0.24    40.1178     
+    BNTI  IA    1.5 211  MLv     4.85 -0.19    32.5363     
+    LMTI  IA    1.7 229  MLv     5.11  0.07    47.0647     
+    IBTI  IA    1.7 121  MLv     5.23  0.19    58.7173     
+    BSSI  IA    1.9 317  MLv     5.01 -0.03    30.3631     
+    BBSI  IA    2.2  22  MLv     4.96 -0.08    17.9943     
+    OMBFM IA    2.3 238  MLv     4.91 -0.13    14.4856     
+    WSI   IA    2.6 214  MLv     5.15  0.11    15.8675     
+    BASI  IA    2.9 203  MLv     5.16  0.12    10.4878     
+    WBSI  IA    3.2 228  MLv     5.06  0.02     6.2524     
+    ATNI  IA    3.4 117  MLv     5.14  0.10    5.31466     
+    DBNI  IA    3.6 254  MLv     5.11  0.07    4.32821     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykka
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   05:16:30.3  +/-    0.4 s
+    Latitude                -7.35 deg  +/-      2 km
+    Longitude              121.24 deg  +/-      2 km
+    Depth                      68 km   +/-   11 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.04 s
+    Azimuthal gap             136 deg
+
+2 Network magnitudes:
+    MLv       3.76 +/- 0.18  11            
+    M         3.76           11 preferred  
+
+28 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.1 191  P       05:16:49.5  -0.5 M  1.0  RNFM 
+    RNFM  IA    1.1 191  S       05:17:03.8  -1.3 M  1.0  RNFM 
+    BSSI  IA    1.4 328  P       05:16:53.9  -0.2 M  1.0  BSSI 
+    BSSI  IA    1.4 328  S       05:17:13.7   1.2 M  1.0  BSSI 
+    LMTI  IA    1.5 211  P       05:16:54.5  -0.2 M  1.0  LMTI 
+    LMTI  IA    1.5 211  S       05:17:14.0   0.3 M  1.0  LMTI 
+    EDFI  IA    1.5 162  P       05:16:55.1   0.3 M  1.0  EDFI 
+    MMRI  IA    1.6 142  P       05:16:59.6   2.8 MX 0.0  MMRI 
+    MMRI  IA    1.6 142  S       05:17:17.8   0.5 M  1.0  MMRI 
+    OMBFM IA    1.9 226  P       05:17:00.6  -0.5 M  1.0  OMBFM
+    OMBFM IA    1.9 226  S       05:17:25.1   0.1 M  1.0  OMBFM
+    IBTI  IA    2.3 117  P       05:17:05.8   0.4 M  1.0  IBTI 
+    LBNFM IA    2.5 240  P       05:17:09.7   0.5 M  1.0  LBNFM
+    LBNFM IA    2.5 240  S       05:17:38.6  -1.0 M  1.0  LBNFM
+    USTI  IA    2.7 212  P       05:17:13.7   2.2 M  1.0  USTI 
+    USTI  IA    2.7 212  S       05:17:43.8   0.0 M  1.0  USTI 
+    DBNFM IA    2.8 248  P       05:17:13.6   0.4 M  1.0  DBNFM
+    DBNFM IA    2.8 248  S       05:17:46.1  -0.8 M  1.0  DBNFM
+    BASI  IA    2.9 193  P       05:17:17.1   2.6 MX 0.0  BASI 
+    BASI  IA    2.9 193  S       05:17:51.3   2.1 M  1.0  BASI 
+    DBNI  IA    3.1 248  P       05:17:17.6   0.4 M  1.0  DBNI 
+    DBNI  IA    3.1 248  S       05:17:52.7  -1.2 M  1.0  DBNI 
+    ALKI  IA    3.4 104  P       05:17:18.2  -2.9 M  1.0  ALKI 
+    ALKI  IA    3.4 104  S       05:17:45.9 -15.1 MX 0.0  ALKI 
+    PLAI  IA    3.7 247  P       05:17:26.3   0.7 M  1.0  PLAI 
+    PLAI  IA    3.7 247  S       05:18:09.0   0.1 M  1.0  PLAI 
+    TWSI  IA    4.5 252  P       05:17:36.8   0.3 M  1.0  TWSI 
+    TWSI  IA    4.5 252  S       05:18:27.6  -1.0 M  1.0  TWSI 
+
+9 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    BSSI  IA    1.4 328  MLv     3.79  0.04    3.21794     
+    LMTI  IA    1.5 211  MLv     3.93  0.17    4.12743     
+    OMBFM IA    1.9 226  MLv     3.62 -0.14    1.08484     
+    IBTI  IA    2.3 117  MLv     3.91  0.15     1.4191     
+    USTI  IA    2.7 212  MLv     3.90  0.14   0.769013     
+    DBNFM IA    2.8 248  MLv     3.87  0.11   0.623327     
+    DBNI  IA    3.1 248  MLv     3.53 -0.22    0.19901     
+    ALKI  IA    3.4 104  MLv     3.59 -0.17   0.154627     
+    PLAI  IA    3.7 247  MLv     3.76 -0.00   0.166217     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykke
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   05:21:56.6  +/-    0.8 s
+    Latitude                -7.55 deg  +/-      2 km
+    Longitude              121.77 deg  +/-      2 km
+    Depth                      27 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.04 s
+    Azimuthal gap             145 deg
+
+2 Network magnitudes:
+    MLv       3.78 +/- 0.21   9            
+    M         3.78            9 preferred  
+
+28 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.1 220  P       05:22:15.8  -1.0 M  1.0  RNFM 
+    RNFM  IA    1.1 220  S       05:22:31.3  -0.8 M  1.0  RNFM 
+    MMRI  IA    1.2 157  P       05:22:17.2  -0.1 M  1.0  MMRI 
+    MMRI  IA    1.2 157  S       05:22:32.9  -0.1 M  1.0  MMRI 
+    EDFI  IA    1.2 184  P       05:22:17.0  -0.5 M  1.0  EDFI 
+    EDFI  IA    1.2 184  S       05:22:33.9   0.4 M  1.0  EDFI 
+    LMTI  IA    1.7 230  P       05:22:23.4  -0.4 M  1.0  LMTI 
+    LMTI  IA    1.7 230  S       05:22:44.6  -0.2 M  1.0  LMTI 
+    IBTI  IA    1.7 120  P       05:22:25.3   0.7 M  1.0  IBTI 
+    IBTI  IA    1.7 120  S       05:22:46.3   0.1 M  1.0  IBTI 
+    BSSI  IA    1.9 318  P       05:22:26.8  -0.2 M  1.0  BSSI 
+    BSSI  IA    1.9 318  S       05:22:51.7   1.2 M  1.0  BSSI 
+    OMBFM IA    2.2 239  P       05:22:32.5   0.6 M  1.0  OMBFM
+    OMBFM IA    2.2 239  S       05:23:00.3   1.1 M  1.0  OMBFM
+    ALKI  IA    2.9 102  P       05:22:38.5  -2.0 M  1.0  ALKI 
+    ALKI  IA    2.9 102  S       05:23:13.4  -1.4 M  1.0  ALKI 
+    USTI  IA    2.9 223  P       05:22:41.2   0.6 M  1.0  USTI 
+    BASI  IA    2.9 204  P       05:22:41.6   0.5 M  1.0  BASI 
+    BASI  IA    2.9 204  S       05:23:16.5   0.7 M  1.0  BASI 
+    LBNFM IA    2.9 249  P       05:22:41.0  -0.3 M  1.0  LBNFM
+    DBNFM IA    3.3 254  P       05:22:45.3  -0.6 M  1.0  DBNFM
+    DBNFM IA    3.3 254  S       05:23:23.4  -1.2 M  1.0  DBNFM
+    DBNI  IA    3.5 254  P       05:22:49.3  -0.7 M  1.0  DBNI 
+    DBNI  IA    3.5 254  S       05:23:30.2  -1.6 M  1.0  DBNI 
+    KTTI  IA    3.7 132  P       05:22:54.9   3.2 M  1.0  KTTI 
+    PDLI  IA    3.9 262  P       05:22:56.0   1.3 M  1.0  PDLI 
+    PLAI  IA    4.1 252  P       05:22:58.1  -0.1 M  1.0  PLAI 
+    PLAI  IA    4.1 252  S       05:23:47.5   0.9 M  1.0  PLAI 
+
+9 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.2 157  MLv     3.75 -0.03    3.91552     
+    EDFI  IA    1.2 184  MLv     3.61 -0.17    2.73934     
+    LMTI  IA    1.7 230  MLv     3.81  0.03    2.42845     
+    IBTI  IA    1.7 120  MLv     3.95  0.17      3.195     
+    BSSI  IA    1.9 318  MLv     3.84  0.07    1.97092     
+    OMBFM IA    2.2 239  MLv     3.60 -0.18   0.716769     
+    ALKI  IA    2.9 102  MLv     3.42 -0.36     0.2132     
+    USTI  IA    2.9 223  MLv     4.22  0.44    1.33562     
+    BASI  IA    2.9 204  MLv     3.84  0.06    0.51789     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ykkg
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   05:23:47.9  +/-    0.8 s
+    Latitude                -7.65 deg  +/-      5 km
+    Longitude              122.37 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.83 s
+    Azimuthal gap             247 deg
+
+2 Network magnitudes:
+    MLv       3.63 +/- 0.31   5            
+    M         3.63            5 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MMRI  IA    1.0 188  P       05:24:07.3   0.4 M  1.0  MMRI 
+    MMRI  IA    1.0 188  S       05:24:21.2   0.4 M  1.0  MMRI 
+    IBTI  IA    1.2 130  P       05:24:10.0   0.6 M  1.0  IBTI 
+    IBTI  IA    1.2 130  S       05:24:23.8  -1.4 M  1.0  IBTI 
+    EDFI  IA    1.3 212  P       05:24:12.3   0.8 M  1.0  EDFI 
+    EDFI  IA    1.3 212  S       05:24:29.3   0.4 M  1.0  EDFI 
+    RNFM  IA    1.5 240  P       05:24:15.7   0.5 M  1.0  RNFM 
+    RNFM  IA    1.5 240  S       05:24:34.9  -0.9 M  1.0  RNFM 
+    LMTI  IA    2.1 243  P       05:24:23.8   0.6 M  1.0  LMTI 
+    LMTI  IA    2.1 243  S       05:24:48.9  -1.4 M  1.0  LMTI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.0 188  MLv     3.38 -0.25    2.12426     
+    EDFI  IA    1.3 212  MLv     3.69  0.05    2.92978     
+    LMTI  IA    2.1 243  MLv     3.89  0.26    1.67284     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylkj
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   18:35:42.0  +/-    1.4 s
+    Latitude                -7.53 deg  +/-      4 km
+    Longitude              121.72 deg  +/-      3 km
+    Depth                      12 km   +/-   12 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.41 s
+    Azimuthal gap              80 deg
+
+2 Network magnitudes:
+    MLv       3.44 +/- 0.17  10            
+    M         3.44           10 preferred  
+
+17 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.1 218  P       18:36:02.4  -0.7 M  1.0  RNFM 
+    RNFM  IA    1.1 218  S       18:36:18.4  -0.2 M  1.0  RNFM 
+    EDFI  IA    1.2 182  P       18:36:04.5   0.2 M  1.0  EDFI 
+    BNTI  IA    1.5 210  P       18:36:08.7   0.9 M  1.0  BNTI 
+    LMTI  IA    1.6 229  P       18:36:10.3  -0.0 M  1.0  LMTI 
+    IBTI  IA    1.8 119  P       18:36:12.4   0.3 M  1.0  IBTI 
+    BSSI  IA    1.8 318  P       18:36:13.8   0.5 M  1.0  BSSI 
+    BBSI  IA    2.2  23  P       18:36:17.8  -0.4 M  1.0  BBSI 
+    OMBFM IA    2.2 238  P       18:36:18.5   0.0 M  1.0  OMBFM
+    WSI   IA    2.6 213  P       18:36:22.7  -0.6 M  1.0  WSI  
+    LBNFM IA    2.9 248  P       18:36:27.8  -0.0 M  1.0  LBNFM
+    ALKI  IA    2.9 102  P       18:36:27.8  -0.3 M  1.0  ALKI 
+    WBSI  IA    3.1 227  P       18:36:31.3   0.3 M  1.0  WBSI 
+    DBNFM IA    3.2 254  P       18:36:32.1  -0.4 M  1.0  DBNFM
+    ATNI  IA    3.5 117  P       18:36:34.7  -1.2 MX 0.0  ATNI 
+    PDLI  IA    3.9 261  P       18:36:43.4   2.2 MX 0.0  PDLI 
+    PLAI  IA    4.1 251  P       18:36:44.9   0.1 M  1.0  PLAI 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    EDFI  IA    1.2 182  MLv     2.94 -0.49   0.578569     
+    LMTI  IA    1.6 229  MLv     3.55  0.12    1.39204     
+    BBSI  IA    2.2  23  MLv     3.39 -0.05   0.462467     
+    OMBFM IA    2.2 238  MLv     3.32 -0.12   0.388714     
+    WSI   IA    2.6 213  MLv     3.56  0.13   0.434058     
+    LBNFM IA    2.9 248  MLv     3.56  0.12   0.284592     
+    ALKI  IA    2.9 102  MLv     3.26 -0.18   0.139991     
+    WBSI  IA    3.1 227  MLv     3.49  0.05   0.177188     
+    DBNFM IA    3.2 254  MLv     3.55  0.11    0.18063     
+    PLAI  IA    4.1 251  MLv     3.55  0.12   0.0839961     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylmi
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   19:35:19.2  +/-    1.1 s
+    Latitude                -7.36 deg  +/-      2 km
+    Longitude              121.12 deg  +/-      3 km
+    Depth                      15 km   +/-   10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.58 s
+    Azimuthal gap              86 deg
+
+2 Network magnitudes:
+    MLv       3.66 +/- 0.19  11            
+    M         3.66           11 preferred  
+
+17 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.1 185  P       19:35:39.3   0.1 M  1.0  RNFM 
+    RNFM  IA    1.1 185  S       19:35:53.1  -0.8 M  1.0  RNFM 
+    BSSI  IA    1.4 333  P       19:35:43.4  -0.0 M  1.0  BSSI 
+    BSSI  IA    1.4 333  S       19:36:01.6  -0.1 M  1.0  BSSI 
+    LMTI  IA    1.4 207  P       19:35:44.0   0.2 M  1.0  LMTI 
+    LMTI  IA    1.4 207  S       19:36:01.8  -0.5 M  1.0  LMTI 
+    BNTI  IA    1.4 186  P       19:35:45.3   0.9 M  1.0  BNTI 
+    EDFI  IA    1.5 158  P       19:35:45.2  -0.1 M  1.0  EDFI 
+    OMBFM IA    1.8 224  P       19:35:50.1  -0.2 M  1.0  OMBFM
+    BBSI  IA    2.4  38  P       19:35:57.3   0.0 M  1.0  BBSI 
+    IBTI  IA    2.4 116  P       19:35:57.3  -0.1 M  1.0  IBTI 
+    LBNFM IA    2.4 239  P       19:35:57.8  -0.6 M  1.0  LBNFM
+    WSI   IA    2.4 199  P       19:36:00.0   1.5 M  1.0  WSI  
+    DBNFM IA    2.7 247  P       19:36:01.9  -0.4 M  1.0  DBNFM
+    WBSI  IA    2.8 217  P       19:36:04.6   0.6 M  1.0  WBSI 
+    SOEI  IA    3.9 128  P       19:36:35.3  16.4 AX 0.0  SOEI 
+    ATNI  IA    4.1 115  P       19:36:20.6  -0.6 M  1.0  ATNI 
+
+9 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    BSSI  IA    1.4 333  MLv     3.90  0.24    4.38009     
+    LMTI  IA    1.4 207  MLv     3.78  0.12    3.17086     
+    BNTI  IA    1.4 186  MLv     3.57 -0.09    1.86079     
+    OMBFM IA    1.8 224  MLv     3.63 -0.03    1.27918     
+    IBTI  IA    2.4 116  MLv     3.59 -0.07   0.598886     
+    LBNFM IA    2.4 239  MLv     3.77  0.11   0.828145     
+    WSI   IA    2.4 199  MLv     3.83  0.17   0.929663     
+    WBSI  IA    2.8 217  MLv     3.50 -0.16   0.260749     
+    ATNI  IA    4.1 115  MLv     3.38 -0.28   0.0568896     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylrd
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   22:01:42.9  +/-    0.3 s
+    Latitude                -7.50 deg  +/-      3 km
+    Longitude              121.59 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.38 s
+    Azimuthal gap              76 deg
+
+2 Network magnitudes:
+    MLv       4.47 +/- 0.19  13            
+    M         4.47           13 preferred  
+
+20 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.1 211  P       22:02:02.8  -0.5 M  1.0  RNFM 
+    RNFM  IA    1.1 211  S       22:02:17.6  -0.6 M  1.0  RNFM 
+    EDFI  IA    1.2 176  P       22:02:04.9  -0.9 M  1.0  EDFI 
+    EDFI  IA    1.2 176  S       22:02:21.7  -1.0 M  1.0  EDFI 
+    BNTI  IA    1.4 205  P       22:02:08.7   0.4 M  1.0  BNTI 
+    LMTI  IA    1.6 225  P       22:02:10.1  -0.2 M  1.0  LMTI 
+    LMTI  IA    1.6 225  S       22:02:31.2   0.1 M  1.0  LMTI 
+    BSSI  IA    1.7 321  P       22:02:13.8   0.8 M  1.0  BSSI 
+    IBTI  IA    1.9 118  P       22:02:13.3  -1.7 M  1.0  IBTI 
+    OMBFM IA    2.1 236  P       22:02:18.6   0.3 M  1.0  OMBFM
+    BBSI  IA    2.2  26  P       22:02:18.5  -1.4 M  1.0  BBSI 
+    BASI  IA    2.9 200  P       22:02:28.7  -0.2 M  1.0  BASI 
+    ALKI  IA    3.0 102  P       22:02:28.5  -2.5 M  1.0  ALKI 
+    WBSI  IA    3.0 226  P       22:02:30.8  -0.3 M  1.0  WBSI 
+    DBNFM IA    3.1 253  P       22:02:32.0   0.0 M  1.0  DBNFM
+    BATI  IA    3.4 143  P       22:02:39.0   3.3 M  1.0  BATI 
+    SOEI  IA    3.5 130  P       22:02:38.6   1.7 M  1.0  SOEI 
+    PDLI  IA    3.7 261  P       22:02:42.3   1.6 M  1.0  PDLI 
+    KTTI  IA    3.8 131  P       22:02:44.2   2.3 M  1.0  KTTI 
+    PLAI  IA    4.0 251  P       22:02:43.0  -1.3 M  1.0  PLAI 
+
+13 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    EDFI  IA    1.2 176  MLv     4.22 -0.25    10.5665     
+    BNTI  IA    1.4 205  MLv     4.24 -0.24     8.7713     
+    LMTI  IA    1.6 225  MLv     4.66  0.19    19.6015     
+    BSSI  IA    1.7 321  MLv     4.73  0.26    18.1372     
+    IBTI  IA    1.9 118  MLv     4.46 -0.01    8.25668     
+    OMBFM IA    2.1 236  MLv     4.41 -0.06    5.43312     
+    BBSI  IA    2.2  26  MLv     4.26 -0.21    3.31858     
+    ALKI  IA    3.0 102  MLv     4.22 -0.25    1.07613     
+    WBSI  IA    3.0 226  MLv     4.57  0.10     2.3468     
+    BATI  IA    3.4 143  MLv     4.62  0.15    1.73732     
+    SOEI  IA    3.5 130  MLv     4.43 -0.04    1.00068     
+    PDLI  IA    3.7 261  MLv     4.72  0.24    1.51982     
+    PLAI  IA    4.0 251  MLv     4.59  0.12   0.983063     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylrr
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   22:17:05.6  +/-    0.3 s
+    Latitude                -7.61 deg  +/-      3 km
+    Longitude              122.37 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.36 s
+    Azimuthal gap              98 deg
+
+5 Network magnitudes:
+    mb        4.87 +/- 0.00   1            
+    mB        5.01 +/- 0.00   1            
+    Mw(mB)    4.34 +/- 0.40   1            
+    MLv       4.75 +/- 0.20  18            
+    M         4.79           18 preferred  
+
+25 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MMRI  IA    1.0 187  P       22:17:24.6  -0.6 M  1.0  MMRI 
+    MMRI  IA    1.0 187  S       22:17:38.8  -0.7 M  1.0  MMRI 
+    IBTI  IA    1.2 131  P       22:17:27.1  -0.4 M  1.0  IBTI 
+    IBTI  IA    1.2 131  S       22:17:42.3  -1.3 M  1.0  IBTI 
+    EDFI  IA    1.3 211  P       22:17:29.1  -0.4 M  1.0  EDFI 
+    RNFM  IA    1.6 238  P       22:17:31.7  -1.4 M  1.0  RNFM 
+    BNTI  IA    1.8 230  P       22:17:37.2   0.5 M  1.0  BNTI 
+    LMTI  IA    2.1 242  P       22:17:40.1  -1.0 M  1.0  LMTI 
+    BBSI  IA    2.1   5  P       22:17:40.9  -0.2 M  1.0  BBSI 
+    ALKI  IA    2.3 104  P       22:17:41.9  -1.3 M  1.0  ALKI 
+    BSSI  IA    2.4 308  P       22:17:44.9   0.4 M  1.0  BSSI 
+    OMBFM IA    2.7 247  P       22:17:49.2  -0.4 M  1.0  OMBFM
+    SOEI  IA    2.8 139  P       22:17:54.0   3.0 M  1.0  SOEI 
+    ATNI  IA    2.9 121  P       22:17:49.0  -2.5 M  1.0  ATNI 
+    BATI  IA    2.9 154  P       22:17:53.3   1.7 M  1.0  BATI 
+    WSI   IA    2.9 225  P       22:17:53.5   1.7 M  1.0  WSI  
+    SBNI  IA    2.9 190  P       22:17:51.1  -0.8 M  1.0  SBNI 
+    BASI  IA    3.1 214  P       22:17:56.1   1.0 M  1.0  BASI 
+    KTTI  IA    3.2 138  P       22:17:59.0   2.9 M  1.0  KTTI 
+    LBNFM IA    3.5 253  P       22:18:01.3   1.6 M  1.0  LBNFM
+    WBSI  IA    3.6 235  P       22:18:00.6  -0.5 M  1.0  WBSI 
+    DBNFM IA    3.8 258  P       22:18:03.2  -1.4 M  1.0  DBNFM
+    PDLI  IA    4.5 263  P       22:18:14.8   1.2 M  1.0  PDLI 
+    PLAI  IA    4.7 255  P       22:18:16.4  -0.3 M  1.0  PLAI 
+    TWSI  IA    5.5 258  P       22:18:27.3  -1.0 M  1.0  TWSI 
+
+18 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.0 187  MLv     4.82  0.07    56.3339     
+    EDFI  IA    1.3 211  MLv     4.87  0.12    42.7624     
+    BNTI  IA    1.8 230  MLv     4.87  0.12    22.8598     
+    BBSI  IA    2.1   5  MLv     4.62 -0.13    8.69512     
+    BSSI  IA    2.4 308  MLv     4.79  0.04    9.33644     
+    OMBFM IA    2.7 247  MLv     4.96  0.21    8.74069     
+    SOEI  IA    2.8 139  MLv     4.74 -0.01    4.50912     
+    BATI  IA    2.9 154  MLv     4.43 -0.33    2.07468     
+    SBNI  IA    2.9 190  MLv     4.63 -0.12    3.20757     
+    BASI  IA    3.1 214  MLv     4.98  0.23     5.3579     
+    KTTI  IA    3.2 138  MLv     4.31 -0.44    1.04205     
+    WBSI  IA    3.6 235  MLv     5.00  0.25    3.24943     
+    DBNFM IA    3.8 258  MLv     4.92  0.17    2.29509     
+    PDLI  IA    4.5 263  MLv     4.63 -0.12   0.810521     
+    PLAI  IA    4.7 255  MLv     4.75  0.00   0.942393     
+    TWSI  IA    5.5 258  MLv     4.75 -0.00   0.576586     
+    TWSI  IA    5.5 258  mB      5.01  0.00    1361.37     
+    TWSI  IA    5.5 258  mb      4.87  0.00    78.4904 0.70
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylse
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-14
+    Time                   22:31:57.7  +/-    0.5 s
+    Latitude                -7.65 deg  +/-      3 km
+    Longitude              122.27 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.05 s
+    Azimuthal gap             152 deg
+
+2 Network magnitudes:
+    MLv       2.86 +/- 0.15   6            
+    M         2.86            6 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MMRI  IA    1.0 182  P       22:32:17.2   0.6 M  1.0  MMRI 
+    MMRI  IA    1.0 182  S       22:32:31.0   0.6 M  1.0  MMRI 
+    IBTI  IA    1.2 127  P       22:32:20.8   0.5 M  1.0  IBTI 
+    IBTI  IA    1.2 127  S       22:32:36.8  -0.3 M  1.0  IBTI 
+    EDFI  IA    1.2 208  P       22:32:21.1   0.6 M  1.0  EDFI 
+    EDFI  IA    1.2 208  S       22:32:37.8   0.5 M  1.0  EDFI 
+    RNFM  IA    1.5 238  P       22:32:23.5  -0.2 M  1.0  RNFM 
+    RNFM  IA    1.5 238  S       22:32:41.3  -2.1 M  1.0  RNFM 
+    BSSI  IA    2.3 310  P       22:32:37.4   1.4 M  1.0  BSSI 
+    ALKI  IA    2.3 102  P       22:32:34.7  -1.7 M  1.0  ALKI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.0 182  MLv     2.80 -0.05   0.561991     
+    EDFI  IA    1.2 208  MLv     2.86  0.00   0.461204     
+    BSSI  IA    2.3 310  MLv     2.90  0.04   0.128592     
+    ALKI  IA    2.3 102  MLv     2.93  0.07   0.133009     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylue
+    Description
+      region name: Flores Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   23:32:42.3  +/-    0.4 s
+    Latitude                -8.00 deg  +/-      3 km
+    Longitude              122.42 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.73 s
+    Azimuthal gap             140 deg
+
+2 Network magnitudes:
+    MLv       3.58 +/- 0.22   7            
+    M         3.58            7 preferred  
+
+12 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MMRI  IA    0.7 196  P       23:32:56.0   0.6 M  1.0  MMRI 
+    MMRI  IA    0.7 196  S       23:33:04.2  -0.9 M  1.0  MMRI 
+    IBTI  IA    0.9 115  P       23:33:00.5   0.5 M  1.0  IBTI 
+    EDFI  IA    1.0 224  P       23:33:02.2   0.2 M  1.0  EDFI 
+    EDFI  IA    1.0 224  S       23:33:15.8  -0.6 M  1.0  EDFI 
+    RNFM  IA    1.4 253  P       23:33:08.7   0.6 M  1.0  RNFM 
+    RNFM  IA    1.4 253  S       23:33:27.3  -0.2 M  1.0  RNFM 
+    ALKI  IA    2.2  94  P       23:33:17.7  -0.6 M  1.0  ALKI 
+    OMBFM IA    2.7 255  P       23:33:26.4   1.2 M  1.0  OMBFM
+    BSSI  IA    2.7 314  P       23:33:23.8  -1.5 M  1.0  BSSI 
+    DBNFM IA    3.8 263  P       23:33:41.0  -0.1 M  1.0  DBNFM
+    PLAI  IA    4.7 260  P       23:33:53.4   0.6 M  1.0  PLAI 
+
+7 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    0.7 196  MLv     3.73  0.15    7.34343     
+    IBTI  IA    0.9 115  MLv     3.69  0.11    4.79346     
+    EDFI  IA    1.0 224  MLv     3.72  0.14    4.36943     
+    ALKI  IA    2.2  94  MLv     3.17 -0.41   0.297386     
+    OMBFM IA    2.7 255  MLv     3.64  0.05   0.455567     
+    BSSI  IA    2.7 314  MLv     3.36 -0.23   0.237292     
+    DBNFM IA    3.8 263  MLv     3.74  0.16   0.154433     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylvf
+    Description
+      region name: South of Bali, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   00:04:58.6  +/-    0.7 s
+    Latitude                -9.70 deg  +/-      4 km
+    Longitude              114.13 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.99 s
+    Azimuthal gap             254 deg
+
+5 Network magnitudes:
+    MLv       4.27 +/- 0.19   8            
+    M         4.83            8 preferred  
+    mb        5.96 +/- 0.00   1            
+    mB        6.50 +/- 0.00   1            
+    Mw(mB)    6.26 +/- 0.40   1            
+
+18 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RTBI  IA    1.5  33  P       00:05:25.2   0.4 M  1.0  RTBI 
+    RTBI  IA    1.5  33  S       00:05:43.8  -0.7 M  1.0  RTBI 
+    DNP   IA    1.5  46  P       00:05:24.9   0.1 M  1.0  DNP  
+    DNP   IA    1.5  46  S       00:05:45.0   0.4 M  1.0  DNP  
+    GMJI  IA    1.6 334  P       00:05:25.6  -0.7 M  1.0  GMJI 
+    GMJI  IA    1.6 334  S       00:05:45.5  -1.7 M  1.0  GMJI 
+    SRBI  IA    1.9  34  P       00:05:31.9   0.5 M  1.0  SRBI 
+    KMMI  IA    2.7 355  P       00:05:43.4   1.9 M  1.0  KMMI 
+    KMMI  IA    2.7 355  S       00:06:15.8   1.3 M  1.0  KMMI 
+    TWSI  IA    2.9  71  P       00:05:43.7  -0.8 M  1.0  TWSI 
+    TWSI  IA    2.9  71  S       00:06:20.2   0.0 M  1.0  TWSI 
+    PLAI  IA    3.7  77  P       00:05:55.5  -0.4 M  1.0  PLAI 
+    PLAI  IA    3.7  77  S       00:06:40.4  -0.2 M  1.0  PLAI 
+    PDLI  IA    4.0  67  P       00:05:58.4  -1.9 M  1.0  PDLI 
+    PDLI  IA    4.0  67  S       00:06:48.5   0.1 M  1.0  PDLI 
+    DBNFM IA    4.6  74  P       00:06:09.4   1.3 M  1.0  DBNFM
+    DBNFM IA    4.6  74  S       00:07:01.8  -0.6 M  1.0  DBNFM
+    OMBFM IA    5.7  80  P       00:06:24.4   0.9 M  1.0  OMBFM
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    RTBI  IA    1.5  33  MLv     4.19 -0.09    7.40021     
+    DNP   IA    1.5  46  MLv     4.57  0.30    17.8805     
+    GMJI  IA    1.6 334  MLv     4.38  0.11    10.1223     
+    SRBI  IA    1.9  34  MLv     3.96 -0.31    2.44864     
+    TWSI  IA    2.9  71  MLv     4.06 -0.21   0.913039     
+    PLAI  IA    3.7  77  MLv     4.23 -0.04   0.505531     
+    PDLI  IA    4.0  67  MLv     4.33  0.06   0.527413     
+    DBNFM IA    4.6  74  MLv     4.46  0.19   0.515709     
+    OMBFM IA    5.7  80  mB      6.50  0.00    39647.5     
+    OMBFM IA    5.7  80  mb      5.96  0.00    681.957 0.51
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylxn
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   01:14:24.6  +/-    1.4 s
+    Latitude                -7.63 deg  +/-      5 km
+    Longitude              121.86 deg  +/-      5 km
+    Depth                      12 km   +/-   13 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.66 s
+    Azimuthal gap             202 deg
+
+2 Network magnitudes:
+    MLv       3.09 +/- 0.26   5            
+    M         3.09            5 preferred  
+
+9 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MMRI  IA    1.1 159  P       01:14:46.1   1.4 M  1.0  MMRI 
+    MMRI  IA    1.1 159  S       01:14:59.3  -0.2 M  1.0  MMRI 
+    EDFI  IA    1.1 188  P       01:14:44.6  -1.0 M  1.0  EDFI 
+    EDFI  IA    1.1 188  S       01:15:00.9  -0.1 M  1.0  EDFI 
+    RNFM  IA    1.1 226  P       01:14:45.7  -0.2 M  1.0  RNFM 
+    RNFM  IA    1.1 226  S       01:15:02.2   0.6 M  1.0  RNFM 
+    BSSI  IA    2.0 317  P       01:14:57.9  -0.5 M  1.0  BSSI 
+    BSSI  IA    2.0 317  S       01:15:24.8   0.5 M  1.0  BSSI 
+    DBNFM IA    3.3 256  P       01:15:16.1  -0.4 M  1.0  DBNFM
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.1 159  MLv     2.99 -0.10   0.780657     
+    EDFI  IA    1.1 188  MLv     3.28  0.18    1.40544     
+    BSSI  IA    2.0 317  MLv     3.04 -0.06   0.261621     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylya
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   01:29:09.7  +/-    0.7 s
+    Latitude                -7.54 deg  +/-      5 km
+    Longitude              122.13 deg  +/-      3 km
+    Depth                      71 km   +/-   22 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.50 s
+    Azimuthal gap             154 deg
+
+2 Network magnitudes:
+    MLv       3.16 +/- 0.22   7            
+    M         3.16            7 preferred  
+
+12 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MMRI  IA    1.1 175  P       01:29:29.4  -0.1 M  1.0  MMRI 
+    MMRI  IA    1.1 175  S       01:29:45.4   0.8 M  1.0  MMRI 
+    EDFI  IA    1.3 200  P       01:29:31.9   0.1 M  1.0  EDFI 
+    EDFI  IA    1.3 200  S       01:29:48.7  -0.2 M  1.0  EDFI 
+    IBTI  IA    1.4 127  P       01:29:33.8   0.4 M  1.0  IBTI 
+    RNFM  IA    1.4 231  P       01:29:33.7   0.1 M  1.0  RNFM 
+    RNFM  IA    1.4 231  S       01:29:51.2  -0.7 M  1.0  RNFM 
+    BSSI  IA    2.1 310  P       01:29:44.3   1.0 M  1.0  BSSI 
+    BSSI  IA    2.1 310  S       01:30:09.0  -0.5 M  1.0  BSSI 
+    ALKI  IA    2.5 104  P       01:29:48.1  -0.1 M  1.0  ALKI 
+    ALKI  IA    2.5 104  S       01:30:17.6  -0.7 M  1.0  ALKI 
+    OMBFM IA    2.6 243  P       01:29:48.8  -0.1 M  1.0  OMBFM
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.1 175  MLv     3.09 -0.08   0.945492     
+    EDFI  IA    1.3 200  MLv     3.33  0.17    1.30616     
+    BSSI  IA    2.1 310  MLv     3.25  0.09   0.359526     
+    ALKI  IA    2.5 104  MLv     2.85 -0.32   0.0900107     
+    OMBFM IA    2.6 243  MLv     3.29  0.13   0.235294     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylye
+    Description
+      region name: Bali Sea
+Origin:
+    Date                   2021-12-15
+    Time                   01:34:16.6  +/-    1.2 s
+    Latitude                -7.82 deg  +/-      7 km
+    Longitude              117.32 deg  +/-      3 km
+    Depth                       5 km   +/-    5 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.11 s
+    Azimuthal gap             270 deg
+
+2 Network magnitudes:
+    MLv       2.37 +/- 0.16   4            
+    M         2.37            4 preferred  
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PDLI  IA    0.6 117  P       01:34:28.8  -0.0 M  1.0  PDLI 
+    PDLI  IA    0.6 117  S       01:34:37.7   0.1 M  1.0  PDLI 
+    TWSI  IA    1.0 205  P       01:34:35.9  -0.0 M  1.0  TWSI 
+    TWSI  IA    1.0 205  S       01:34:50.1   0.2 M  1.0  TWSI 
+    PLAI  IA    1.1 156  P       01:34:37.3  -0.1 M  1.0  PLAI 
+    PLAI  IA    1.1 156  S       01:34:52.4  -0.2 M  1.0  PLAI 
+    DBNFM IA    1.4 115  P       01:34:42.0  -0.0 M  1.0  DBNFM
+    DBNFM IA    1.4 115  S       01:35:01.2   0.1 M  1.0  DBNFM
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PDLI  IA    0.6 117  MLv     2.45  0.08   0.402117     
+    TWSI  IA    1.0 205  MLv     2.08 -0.29   0.104631     
+    PLAI  IA    1.1 156  MLv     2.45  0.08   0.215445     
+    DBNFM IA    1.4 115  MLv     2.39  0.02   0.130298     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylys
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   01:49:58.1  +/-    1.0 s
+    Latitude                -7.33 deg  +/-      3 km
+    Longitude              121.28 deg  +/-      3 km
+    Depth                      20 km   +/-    9 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.68 s
+    Azimuthal gap             178 deg
+
+2 Network magnitudes:
+    MLv       3.20 +/- 0.34   6            
+    M         3.20            6 preferred  
+
+17 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.1 193  P       01:50:18.0  -0.5 M  1.0  RNFM 
+    RNFM  IA    1.1 193  S       01:50:33.7  -0.1 M  1.0  RNFM 
+    BSSI  IA    1.4 326  P       01:50:22.6  -0.1 M  1.0  BSSI 
+    BSSI  IA    1.4 326  S       01:50:42.0   0.7 M  1.0  BSSI 
+    EDFI  IA    1.5 164  P       01:50:23.6   0.2 M  1.0  EDFI 
+    EDFI  IA    1.5 164  S       01:50:42.6  -0.1 M  1.0  EDFI 
+    LMTI  IA    1.5 212  P       01:50:24.1   0.3 M  1.0  LMTI 
+    LMTI  IA    1.5 212  S       01:50:44.2   1.0 M  1.0  LMTI 
+    MMRI  IA    1.6 144  P       01:50:25.0  -0.4 M  1.0  MMRI 
+    MMRI  IA    1.6 144  S       01:50:46.1  -0.1 M  1.0  MMRI 
+    OMBFM IA    2.0 227  P       01:50:30.9   0.4 M  1.0  OMBFM
+    OMBFM IA    2.0 227  S       01:50:57.0   1.6 M  1.0  OMBFM
+    DBNFM IA    2.9 248  P       01:50:42.6  -0.3 M  1.0  DBNFM
+    DBNFM IA    2.9 248  S       01:51:16.2  -1.5 M  1.0  DBNFM
+    PLAI  IA    3.8 247  S       01:51:39.2  -0.8 M  1.0  PLAI 
+    TWSI  IA    4.6 252  P       01:51:05.8  -0.4 M  1.0  TWSI 
+    TWSI  IA    4.6 252  S       01:51:59.7  -0.1 M  1.0  TWSI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    RNFM  IA    1.1 193  MLv     2.76 -0.44    0.43038     
+    BSSI  IA    1.4 326  MLv     3.46  0.26     1.4674     
+    LMTI  IA    1.5 212  MLv     3.45  0.25    1.31283     
+    MMRI  IA    1.6 144  MLv     3.15 -0.05   0.570161     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ylzp
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   02:17:39.6  +/-    0.4 s
+    Latitude                -7.43 deg  +/-      3 km
+    Longitude              121.06 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.57 s
+    Azimuthal gap             138 deg
+
+2 Network magnitudes:
+    MLv       3.42 +/- 0.21   5            
+    M         3.42            5 preferred  
+
+9 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    BSSI  IA    1.4 336  P       02:18:02.3  -2.4 M  1.0  BSSI 
+    BSSI  IA    1.4 336  S       02:18:25.9   2.4 M  1.0  BSSI 
+    MMRI  IA    1.7 136  P       02:18:09.3   0.5 M  1.0  MMRI 
+    OMBFM IA    1.8 224  P       02:18:09.2  -0.8 M  1.0  OMBFM
+    OMBFM IA    1.8 224  S       02:18:35.3   2.2 M  1.0  OMBFM
+    IBTI  IA    2.4 114  P       02:18:19.2   0.5 M  1.0  IBTI 
+    IBTI  IA    2.4 114  S       02:18:48.9  -0.0 M  1.0  IBTI 
+    DBNFM IA    2.6 248  P       02:18:20.2  -2.0 M  1.0  DBNFM
+    DBNFM IA    2.6 248  S       02:18:54.8  -0.3 M  1.0  DBNFM
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    BSSI  IA    1.4 336  MLv     3.35 -0.08     1.1794     
+    MMRI  IA    1.7 136  MLv     3.53  0.11    1.26893     
+    DBNFM IA    2.6 248  MLv     3.41 -0.02    0.27595     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ymaz
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:59:15.3  +/-    0.5 s
+    Latitude                -8.21 deg  +/-      3 km
+    Longitude              117.71 deg  +/-      2 km
+    Depth                       2 km   +/-    2 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.46 s
+    Azimuthal gap             181 deg
+
+2 Network magnitudes:
+    MLv       2.80 +/- 0.21   4            
+    M         2.80            4 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PDLI  IA    0.2  58  P       02:59:18.7  -0.6 M  1.0  PDLI 
+    PDLI  IA    0.2  58  S       02:59:21.5  -0.1 M  1.0  PDLI 
+    PLAI  IA    0.6 174  P       02:59:26.8  -0.5 M  1.0  PLAI 
+    PLAI  IA    0.6 174  S       02:59:35.2  -0.3 M  1.0  PLAI 
+    DBNFM IA    0.9 104  P       02:59:32.9   0.3 M  1.0  DBNFM
+    DBNFM IA    0.9 104  S       02:59:45.5   0.8 M  1.0  DBNFM
+    TWSI  IA    1.0 237  P       02:59:34.1   0.1 M  1.0  TWSI 
+    TWSI  IA    1.0 237  S       02:59:47.5   0.5 M  1.0  TWSI 
+    OMBFM IA    2.1 103  P       02:59:52.6   0.5 M  1.0  OMBFM
+    WBSI  IA    2.2 131  P       02:59:52.1  -0.6 M  1.0  WBSI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PDLI  IA    0.2  58  MLv     3.08  0.28    17.5753     
+    PLAI  IA    0.6 174  MLv     2.75 -0.05   0.804303     
+    DBNFM IA    0.9 104  MLv     2.85  0.05   0.711672     
+    TWSI  IA    1.0 237  MLv     2.50 -0.30   0.289411     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ymaz
+    Description
+      region name: Sumbawa Region, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:59:14.8  +/-    0.5 s
+    Latitude                -8.19 deg  +/-      3 km
+    Longitude              117.72 deg  +/-      3 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.12 s
+    Azimuthal gap             184 deg
+
+2 Network magnitudes:
+    MLv       2.88 +/- 0.15   6            
+    M         2.88            6 preferred  
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PDLI  IA    0.2  61  P       02:59:18.7  -0.9 M  1.0  PDLI 
+    PDLI  IA    0.2  61  S       02:59:21.5  -1.7 M  1.0  PDLI 
+    PLAI  IA    0.6 175  P       02:59:26.8  -0.7 M  1.0  PLAI 
+    PLAI  IA    0.6 175  S       02:59:35.2  -1.6 M  1.0  PLAI 
+    DBNFM IA    0.9 105  P       02:59:32.9   0.8 M  1.0  DBNFM
+    DBNFM IA    0.9 105  S       02:59:45.5   0.7 M  1.0  DBNFM
+    TWSI  IA    1.0 237  P       02:59:34.1   0.4 M  1.0  TWSI 
+    TWSI  IA    1.0 237  S       02:59:47.5   0.1 M  1.0  TWSI 
+    OMBFM IA    2.1 104  P       02:59:52.6   2.0 M  1.0  OMBFM
+    WBSI  IA    2.2 131  P       02:59:52.1   0.8 M  1.0  WBSI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PLAI  IA    0.6 175  MLv     2.76 -0.12   0.804303     
+    DBNFM IA    0.9 105  MLv     2.85 -0.02   0.711672     
+    OMBFM IA    2.1 104  MLv     2.93  0.05   0.173237     
+    WBSI  IA    2.2 131  MLv     3.01  0.14   0.196255     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ymbi
+    Description
+      region name: Bali Sea
+Origin:
+    Date                   2021-12-15
+    Time                   03:09:17.9  +/-    1.2 s
+    Latitude                -7.81 deg  +/-      7 km
+    Longitude              117.21 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.52 s
+    Azimuthal gap             275 deg
+
+2 Network magnitudes:
+    MLv       2.92 +/- 0.15   4            
+    M         2.92            4 preferred  
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PDLI  IA    0.7 114  P       03:09:31.6  -0.5 M  1.0  PDLI 
+    PDLI  IA    0.7 114  S       03:09:41.8  -0.8 M  1.0  PDLI 
+    TWSI  IA    1.0 199  P       03:09:36.4  -0.2 M  1.0  TWSI 
+    TWSI  IA    1.0 199  S       03:09:50.2   0.0 M  1.0  TWSI 
+    PLAI  IA    1.2 151  P       03:09:39.3  -0.1 M  1.0  PLAI 
+    PLAI  IA    1.2 151  S       03:09:55.5   0.2 M  1.0  PLAI 
+    DBNFM IA    1.5 114  P       03:09:45.1   0.6 M  1.0  DBNFM
+    DBNFM IA    1.5 114  S       03:10:05.5   0.9 M  1.0  DBNFM
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PDLI  IA    0.7 114  MLv     3.01  0.09    1.28097     
+    TWSI  IA    1.0 199  MLv     2.88 -0.04   0.679276     
+    PLAI  IA    1.2 151  MLv     2.70 -0.23   0.354565     
+    DBNFM IA    1.5 114  MLv     3.06  0.14   0.528709     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ymeq
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   04:49:56.2  +/-    0.3 s
+    Latitude                -7.56 deg  +/-      2 km
+    Longitude              121.65 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.14 s
+    Azimuthal gap             141 deg
+
+2 Network magnitudes:
+    MLv       3.81 +/- 0.18  10            
+    M         3.81           10 preferred  
+
+25 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.1 215  P       04:50:15.8  -0.4 M  1.0  RNFM 
+    RNFM  IA    1.1 215  S       04:50:30.3  -0.6 M  1.0  RNFM 
+    EDFI  IA    1.2 178  P       04:50:17.4  -0.6 M  1.0  EDFI 
+    EDFI  IA    1.2 178  S       04:50:34.0  -0.2 M  1.0  EDFI 
+    MMRI  IA    1.2 151  P       04:50:17.8  -0.8 M  1.0  MMRI 
+    MMRI  IA    1.2 151  S       04:50:34.7  -0.6 M  1.0  MMRI 
+    BNTI  IA    1.4 209  P       04:50:20.7  -0.4 M  1.0  BNTI 
+    BNTI  IA    1.4 209  S       04:50:42.1   2.3 M  1.0  BNTI 
+    LMTI  IA    1.6 228  P       04:50:23.6   0.1 M  1.0  LMTI 
+    LMTI  IA    1.6 228  S       04:50:44.7   0.4 M  1.0  LMTI 
+    IBTI  IA    1.8 117  P       04:50:29.3   2.1 M  1.0  IBTI 
+    IBTI  IA    1.8 117  S       04:50:52.3   1.4 M  1.0  IBTI 
+    BSSI  IA    1.8 321  P       04:50:27.5   0.0 M  1.0  BSSI 
+    BSSI  IA    1.8 321  S       04:50:52.2   0.9 M  1.0  BSSI 
+    OMBFM IA    2.1 238  P       04:50:32.8   1.0 M  1.0  OMBFM
+    OMBFM IA    2.1 238  S       04:51:01.4   2.4 M  1.0  OMBFM
+    BASI  IA    2.8 202  P       04:50:41.0  -0.7 M  1.0  BASI 
+    BASI  IA    2.8 202  S       04:51:16.5  -0.4 M  1.0  BASI 
+    ALKI  IA    3.0 101  P       04:50:40.9  -2.5 M  1.0  ALKI 
+    DBNFM IA    3.1 254  P       04:50:45.5  -0.3 M  1.0  DBNFM
+    DBNFM IA    3.1 254  S       04:51:23.1  -1.2 M  1.0  DBNFM
+    DBNI  IA    3.4 254  P       04:50:49.5  -0.2 M  1.0  DBNI 
+    DBNI  IA    3.4 254  S       04:51:30.0  -1.5 M  1.0  DBNI 
+    PLAI  IA    4.0 252  P       04:50:58.2   0.2 M  1.0  PLAI 
+    PLAI  IA    4.0 252  S       04:51:45.9  -0.5 M  1.0  PLAI 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    EDFI  IA    1.2 178  MLv     3.77 -0.05    4.09012     
+    MMRI  IA    1.2 151  MLv     4.01  0.20    6.89057     
+    BNTI  IA    1.4 209  MLv     3.77 -0.04    3.14733     
+    LMTI  IA    1.6 228  MLv     3.81 -0.00    2.81885     
+    BSSI  IA    1.8 321  MLv     4.13  0.32    4.21104     
+    OMBFM IA    2.1 238  MLv     3.72 -0.09    1.10093     
+    BASI  IA    2.8 202  MLv     3.94  0.12   0.715875     
+    ALKI  IA    3.0 101  MLv     3.30 -0.51   0.141888     
+    DBNI  IA    3.4 254  MLv     3.82  0.01   0.258234     
+    PLAI  IA    4.0 252  MLv     3.76 -0.05   0.141386     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ymwb
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   13:37:38.4  +/-    1.3 s
+    Latitude                -7.55 deg  +/-      2 km
+    Longitude              122.12 deg  +/-      2 km
+    Depth                      30 km   +/-   11 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.19 s
+    Azimuthal gap              91 deg
+
+2 Network magnitudes:
+    MLv       3.08 +/- 0.13   6            
+    M         3.08            6 preferred  
+
+15 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    MMRI  IA    1.1 174  P       13:37:57.6   0.1 M  1.0  MMRI 
+    MMRI  IA    1.1 174  S       13:38:12.7   0.7 M  1.0  MMRI 
+    EDFI  IA    1.3 200  P       13:37:59.6  -0.4 M  1.0  EDFI 
+    EDFI  IA    1.3 200  S       13:38:17.0   0.4 M  1.0  EDFI 
+    RNFM  IA    1.4 231  P       13:38:00.9  -0.9 M  1.0  RNFM 
+    RNFM  IA    1.4 231  S       13:38:18.2  -1.5 M  1.0  RNFM 
+    IBTI  IA    1.4 126  P       13:38:05.0   2.9 M  1.0  IBTI 
+    IBTI  IA    1.4 126  S       13:38:20.9   0.7 M  1.0  IBTI 
+    BBSI  IA    2.1  12  P       13:38:10.8  -0.8 M  1.0  BBSI 
+    BBSI  IA    2.1  12  S       13:38:37.0  -0.4 M  1.0  BBSI 
+    BSSI  IA    2.1 311  P       13:38:12.7   0.6 M  1.0  BSSI 
+    BSSI  IA    2.1 311  S       13:38:40.0   1.7 M  1.0  BSSI 
+    ALKI  IA    2.5 104  P       13:38:15.6  -1.8 M  1.0  ALKI 
+    ALKI  IA    2.5 104  S       13:38:46.8  -1.0 M  1.0  ALKI 
+    DBNFM IA    3.6 256  P       13:38:31.7  -0.4 M  1.0  DBNFM
+
+6 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    MMRI  IA    1.1 174  MLv     3.17  0.09     1.1741     
+    EDFI  IA    1.3 200  MLv     3.22  0.14    1.02816     
+    IBTI  IA    1.4 126  MLv     3.13  0.05   0.704832     
+    BBSI  IA    2.1  12  MLv     3.04 -0.04    0.23317     
+    BSSI  IA    2.1 311  MLv     3.08 -0.00   0.241672     
+    ALKI  IA    2.5 104  MLv     2.84 -0.24   0.0863282     
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ynkb
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   20:43:04.3  +/-    0.8 s
+    Latitude                -7.51 deg  +/-      2 km
+    Longitude              121.84 deg  +/-      2 km
+    Depth                       9 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.28 s
+    Azimuthal gap              83 deg
+
+3 Network magnitudes:
+    mb        4.05 +/- 0.00   1            
+    MLv       3.59 +/- 0.16  13            
+    M         3.74           13 preferred  
+
+28 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.2 221  P       20:43:26.1  -0.7 M  1.0  RNFM 
+    RNFM  IA    1.2 221  S       20:43:41.3  -2.1 M  1.0  RNFM 
+    EDFI  IA    1.2 187  P       20:43:26.7  -0.4 M  1.0  EDFI 
+    EDFI  IA    1.2 187  S       20:43:43.4  -0.7 M  1.0  EDFI 
+    BNTI  IA    1.5 214  P       20:43:31.5   0.0 M  1.0  BNTI 
+    BNTI  IA    1.5 214  S       20:43:52.6   0.6 M  1.0  BNTI 
+    IBTI  IA    1.7 122  P       20:43:32.3  -1.1 M  1.0  IBTI 
+    IBTI  IA    1.7 122  S       20:43:55.1  -0.4 M  1.0  IBTI 
+    LMTI  IA    1.7 231  P       20:43:34.1  -0.3 M  1.0  LMTI 
+    LMTI  IA    1.7 231  S       20:43:55.8  -1.5 M  1.0  LMTI 
+    BSSI  IA    1.9 315  P       20:43:37.3   0.3 M  1.0  BSSI 
+    BSSI  IA    1.9 315  S       20:44:02.5   0.6 M  1.0  BSSI 
+    BBSI  IA    2.1  20  P       20:43:39.3  -0.9 M  1.0  BBSI 
+    BBSI  IA    2.1  20  S       20:44:05.9  -1.8 M  1.0  BBSI 
+    OMBFM IA    2.3 239  P       20:43:43.2   0.6 M  1.0  OMBFM
+    OMBFM IA    2.3 239  S       20:44:11.3  -0.9 M  1.0  OMBFM
+    WSI   IA    2.6 215  P       20:43:47.8   0.8 M  1.0  WSI  
+    ALKI  IA    2.8 103  P       20:43:47.6  -1.8 M  1.0  ALKI 
+    SBNI  IA    3.0 180  P       20:43:51.2  -0.4 M  1.0  SBNI 
+    LBNFM IA    3.0 249  P       20:43:54.1   2.0 M  1.0  LBNFM
+    WBSI  IA    3.2 229  P       20:43:54.9  -0.1 M  1.0  WBSI 
+    BATI  IA    3.2 146  P       20:43:56.2   0.9 M  1.0  BATI 
+    SOEI  IA    3.3 133  P       20:43:59.7   3.8 M  1.0  SOEI 
+    DBNFM IA    3.3 254  P       20:43:55.9  -0.8 M  1.0  DBNFM
+    KTTI  IA    3.6 133  P       20:44:02.2   1.2 M  1.0  KTTI 
+    PDLI  IA    4.0 261  P       20:44:07.5   2.0 M  1.0  PDLI 
+    PLAI  IA    4.2 252  P       20:44:09.6   0.6 M  1.0  PLAI 
+    TWSI  IA    5.1 256  P       20:44:20.9   0.5 M  1.0  TWSI 
+
+12 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    EDFI  IA    1.2 187  MLv     3.62  0.03    2.68817     
+    BNTI  IA    1.5 214  MLv     3.61  0.02    1.82207     
+    LMTI  IA    1.7 231  MLv     3.77  0.17    2.00517     
+    BSSI  IA    1.9 315  MLv     3.79  0.20    1.70302     
+    BBSI  IA    2.1  20  MLv     3.37 -0.23   0.472433     
+    OMBFM IA    2.3 239  MLv     3.59 -0.00   0.640221     
+    WSI   IA    2.6 215  MLv     3.76  0.16    0.61735     
+    ALKI  IA    2.8 103  MLv     3.36 -0.24   0.200763     
+    SBNI  IA    3.0 180  MLv     3.58 -0.01   0.266146     
+    WBSI  IA    3.2 229  MLv     3.65  0.05   0.230248     
+    SOEI  IA    3.3 133  MLv     3.44 -0.16   0.129011     
+    TWSI  IA    5.1 256  mb      4.05  0.00    10.8615 0.57
+
+stageofwaingapu
+Event:
+    Public ID              bmkg2021ynnk
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   22:24:03.2  +/-    1.0 s
+    Latitude                -7.22 deg  +/-      3 km
+    Longitude              121.21 deg  +/-      3 km
+    Depth                      23 km   +/-   10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.45 s
+    Azimuthal gap             154 deg
+
+5 Network magnitudes:
+    mb        5.07 +/- 0.03   2            
+    mB        5.85 +/- 0.00   1            
+    Mw(mB)    5.42 +/- 0.40   1            
+    MLv       4.45 +/- 0.22  12            
+    M         4.66           12 preferred  
+
+26 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    RNFM  IA    1.2 189  P       22:24:23.8  -1.0 M  1.0  RNFM 
+    RNFM  IA    1.2 189  S       22:24:40.1  -0.9 M  1.0  RNFM 
+    BSSI  IA    1.3 326  P       22:24:24.7  -0.9 M  1.0  BSSI 
+    BSSI  IA    1.3 326  S       22:24:42.8   0.2 M  1.0  BSSI 
+    LMTI  IA    1.6 208  P       22:24:28.7  -0.7 M  1.0  LMTI 
+    LMTI  IA    1.6 208  S       22:24:49.7   0.2 M  1.0  LMTI 
+    BNTI  IA    1.6 188  P       22:24:30.0   0.3 M  1.0  BNTI 
+    BNTI  IA    1.6 188  S       22:24:52.6   2.5 M  1.0  BNTI 
+    EDFI  IA    1.6 163  P       22:24:29.3  -0.7 M  1.0  EDFI 
+    EDFI  IA    1.6 163  S       22:24:49.1  -1.4 M  1.0  EDFI 
+    MMRI  IA    1.7 144  P       22:24:32.2   0.2 M  1.0  MMRI 
+    MMRI  IA    1.7 144  S       22:24:54.0  -0.1 M  1.0  MMRI 
+    OMBFM IA    2.0 223  P       22:24:35.6  -0.0 M  1.0  OMBFM
+    OMBFM IA    2.0 223  S       22:25:01.2   0.4 M  1.0  OMBFM
+    BBSI  IA    2.2  38  P       22:24:38.8   0.7 M  1.0  BBSI 
+    BBSI  IA    2.2  38  S       22:25:05.4   0.2 M  1.0  BBSI 
+    IBTI  IA    2.3 120  P       22:24:41.3   1.0 M  1.0  IBTI 
+    DBNFM IA    2.9 245  P       22:24:47.1  -0.3 M  1.0  DBNFM
+    DBNFM IA    2.9 245  S       22:25:20.2  -1.6 M  1.0  DBNFM
+    BASI  IA    3.1 192  P       22:24:51.2   1.2 M  1.0  BASI 
+    SBNI  IA    3.3 169  P       22:24:55.5   1.8 M  1.0  SBNI 
+    PDLI  IA    3.4 255  P       22:24:57.6   2.5 M  1.0  PDLI 
+    ALKI  IA    3.5 106  P       22:24:56.2   0.3 M  1.0  ALKI 
+    KTTI  IA    4.3 131  P       22:25:10.7   3.5 M  1.0  KTTI 
+    SRBI  IA    6.0 261  P       22:25:32.1   1.4 M  1.0  SRBI 
+    KMMI  IA    7.2 271  P       22:25:51.2   3.6 M  1.0  KMMI 
+
+15 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    LMTI  IA    1.6 208  MLv     4.59  0.14    16.8188     
+    BNTI  IA    1.6 188  MLv     4.36 -0.09    9.50474     
+    MMRI  IA    1.7 144  MLv     4.17 -0.28    4.97016     
+    OMBFM IA    2.0 223  MLv     4.58  0.13    9.15508     
+    BBSI  IA    2.2  38  MLv     4.36 -0.09    4.39913     
+    DBNFM IA    2.9 245  MLv     4.61  0.16    3.32232     
+    BASI  IA    3.1 192  MLv     4.79  0.34    3.84382     
+    SBNI  IA    3.3 169  MLv     4.21 -0.24   0.720593     
+    PDLI  IA    3.4 255  MLv     4.58  0.13    1.51536     
+    ALKI  IA    3.5 106  MLv     4.23 -0.22   0.632752     
+    KTTI  IA    4.3 131  MLv     4.21 -0.24   0.340079     
+    SRBI  IA    6.0 261  MLv     4.71  0.26   0.401354     
+    SRBI  IA    6.0 261  mB      5.85  0.00    8587.24     
+    SRBI  IA    6.0 261  mb      5.09  0.02    92.3908 0.53
+    KMMI  IA    7.2 271  mb      5.05 -0.02    104.102 0.80
+
+stageofwaingapu

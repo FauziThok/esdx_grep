@@ -1,0 +1,41 @@
+Event:
+    Public ID              bmkg2021ynkn
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   20:56:25.2  +/-    1.4 s
+    Latitude                -3.08 deg  +/-      9 km
+    Longitude              131.06 deg  +/-      9 km
+    Depth                      15 km   +/-   15 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.93 s
+    Azimuthal gap             298 deg
+
+2 Network magnitudes:
+    MLv       3.64 +/- 0.34   3 preferred  
+    M         3.64            3            
+
+11 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    FAKI  IA    1.2  83  P       20:56:46.3  -1.0 M  1.0  FAKI 
+    FAKI  IA    1.2  83  S       20:57:04.6   0.8 M  1.0  FAKI 
+    TSPI  IA    1.9  33  P       20:56:55.7  -1.3 M  1.0  TSPI 
+    TSPI  IA    1.9  33  S       20:57:21.0  -0.4 M  1.0  TSPI 
+    SWI   IA    2.2   5  P       20:57:07.2   5.9 MX 0.0  SWI  
+    SWI   IA    2.2   5  S       20:57:27.5  -1.7 MX 0.0  SWI  
+    KMPI  IA    2.7 102  P       20:57:03.8  -4.3 MX 0.0  KMPI 
+    STPI  IA    2.8  22  P       20:57:11.1   1.6 M  1.0  STPI 
+    MBPI  IA    2.9  69  P       20:57:11.1   0.8 M  1.0  MBPI 
+    IWPI  IA    3.5  85  P       20:57:18.4  -0.2 M  1.0  IWPI 
+    IWPI  IA    3.5  85  S       20:58:00.1  -0.2 M  1.0  IWPI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    FAKI  IA    1.2  83  MLv     3.25 -0.40    1.18084     
+    STPI  IA    2.8  22  MLv     3.87  0.23   0.650867     
+    MBPI  IA    2.9  69  MLv     3.81  0.17   0.524949     
+
+stageofsorong

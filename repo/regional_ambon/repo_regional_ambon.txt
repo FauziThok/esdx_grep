@@ -1,0 +1,1237 @@
+Event:
+    Public ID              bmkg2021yivx
+    Description
+      region name: Banda Sea
+Origin:
+    Date                   2021-12-13
+    Time                   09:00:48.9  +/-    1.0 s
+    Latitude                -6.80 deg  +/-    4 km
+    Longitude              129.95 deg  +/-    6 km
+    Depth                     206 km   +/-   20 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.51 s
+    Azimuthal gap             111 deg
+
+7 Network magnitudes:
+    mBc       5.55            2            
+    Mw(mBc)   4.66            2            
+    mb        4.39 +/- 0.15   4            
+    mB        4.51            2            
+    Mw(mB)    3.68            2            
+    MLv       4.39 +/- 0.17  12 preferred  
+    M         4.67           12            
+
+16 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SAUI  IA    1.8 131  P       09:01:25.6  -0.3 M  1.0  SAUI 
+    KTMI  IA    1.8 118  P       09:01:25.7  -0.6 M  1.0  KTMI 
+    KKMI  IA    3.0  68  P       09:01:39.4   0.9 M  1.0  KKMI 
+    TLE2  IA    3.0  69  P       09:01:40.7   2.0 M  1.0  TLE2 
+    TMTMM IA    3.5 353  P       09:01:44.0  -1.0 M  1.0  TMTMM
+    MSAI  IA    3.6 343  P       09:01:44.4  -1.5 M  1.0  MSAI 
+    TAMI  IA    3.6 329  P       09:01:44.7  -1.5 M  1.0  TAMI 
+    KRAI  IA    3.8 336  P       09:01:48.4  -0.1 M  1.0  KRAI 
+    SRMI  IA    3.9 349  P       09:01:51.9   2.0 M  1.0  SRMI 
+    NSBMM IA    4.1 335  P       09:01:57.9   5.9 MX 0.0  NSBMM
+    FAKI  IA    4.5  31  P       09:01:54.6  -2.6 M  1.0  FAKI 
+    NLAI  IA    4.5 321  P       09:02:01.2   3.6 M  1.0  NLAI 
+    ATNI  IA    5.5 245  P       09:02:09.7  -0.5 M  1.0  ATNI 
+    OBMI  IA    5.9 337  P       09:02:14.7  -0.3 M  1.0  OBMI 
+    SANI  IA    6.2 320  P       09:02:18.2  -0.2 M  1.0  SANI 
+    SOEI  IA    6.3 242  P       09:02:20.7  -0.0 M  1.0  SOEI 
+
+22 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SAUI  IA    1.8 131  MLv     4.41  0.02    8.30576      
+    KTMI  IA    1.8 118  MLv     4.44  0.05    8.32174      
+    KKMI  IA    3.0  68  MLv     4.66  0.27    3.24917      
+    TLE2  IA    3.0  69  MLv     4.45  0.06    1.95592      
+    TMTMM IA    3.5 353  MLv     3.88 -0.51   0.263147      
+    MSAI  IA    3.6 343  MLv     4.46  0.07   0.915553      
+    TAMI  IA    3.6 329  MLv     4.08 -0.31   0.373676      
+    KRAI  IA    3.8 336  MLv     4.38 -0.01   0.677482      
+    SRMI  IA    3.9 349  MLv     3.94 -0.45   0.226728      
+    FAKI  IA    4.5  31  MLv     4.72  0.33   0.973633      
+    NLAI  IA    4.5 321  MLv     4.37 -0.02   0.431313      
+    ATNI  IA    5.5 245  mB      4.54  0.04    969.569      
+    ATNI  IA    5.5 245  mBc     5.42 -0.12        N/A  N/A 
+    ATNI  IA    5.5 245  mb      4.45  0.06    39.6896 0.44 
+    OBMI  IA    5.9 337  MLv     4.34 -0.05   0.183931      
+    OBMI  IA    5.9 337  mB      4.47 -0.04    810.623      
+    OBMI  IA    5.9 337  mBc     5.67  0.12        N/A  N/A 
+    OBMI  IA    5.9 337  mb      4.22 -0.17    43.7545 0.82 
+    SANI  IA    6.2 320  MLv     4.34 -0.05   0.155303      
+    SANI  IA    6.2 320  mb      4.30 -0.08    55.2621 0.89 
+    SOEI  IA    6.3 242  MLv     5.06  0.67   0.737517      
+    SOEI  IA    6.3 242  mb      4.59  0.20    94.3485 0.80 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021yjch
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   12:14:08.7  +/-    0.3 s
+    Latitude                -3.24 deg  +/-    4 km
+    Longitude              129.49 deg  +/-    3 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.74 s
+    Azimuthal gap             103 deg
+
+5 Network magnitudes:
+    Mjma      2.84 +/- 0.18   7            
+    ML        2.96 +/- 0.16   8            
+    MLv       2.59 +/- 0.22   8 preferred  
+    Ms(BB)    2.71            1            
+    M         2.74            8            
+
+11 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    TMTMM IA    0.1 149  P       12:14:10.4  -1.3 M  1.0  TMTMM
+    SRMI  IA    0.4 313  P       12:14:17.6  -0.3 M  1.0  SRMI 
+    SEMI  IA    0.5  46  P       12:14:17.4  -1.0 M  1.0  SEMI 
+    WSTMM IA    0.5 113  P       12:14:19.1  -0.8 M  1.0  WSTMM
+    MSAI  IA    0.6 259  P       12:14:20.1  -0.4 M  1.0  MSAI 
+    BSMI  IA    1.0  83  P       12:14:34.4   6.5 MX 0.0  BSMI 
+    KRAI  IA    1.1 266  P       12:14:32.4   3.0 M  1.0  KRAI 
+    NSBMM IA    1.3 277  P       12:14:29.3  -3.0 M  1.0  NSBMM
+    SSMI  IA    1.4 110  P       12:14:36.8   2.6 M  1.0  SSMI 
+    TAMI  IA    1.4 252  P       12:14:34.4  -0.1 M  1.0  TAMI 
+    OBMI  IA    2.6 316  P       12:14:52.6   1.2 M  1.0  OBMI 
+
+30 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    TMTMM IA    0.1 149  ML      3.21  0.25    51.6769      
+    TMTMM IA    0.1 149  MLv     2.89  0.31    25.1383      
+    SRMI  IA    0.4 313  ML      2.70 -0.26    1.59272      
+    SRMI  IA    0.4 313  MLv     2.31 -0.28   0.647417      
+    SRMI  IA    0.4 313  Mjma    2.56 -0.28        N/A  N/A 
+    SEMI  IA    0.5  46  ML      2.94 -0.02    2.33878      
+    SEMI  IA    0.5  46  MLv     2.70  0.12    1.35176      
+    SEMI  IA    0.5  46  Mjma    2.77 -0.08        N/A  N/A 
+    WSTMM IA    0.5 113  ML      2.91 -0.05    1.27641      
+    WSTMM IA    0.5 113  MLv     2.28 -0.31   0.297366      
+    WSTMM IA    0.5 113  Mjma    2.28 -0.56        N/A  N/A 
+    MSAI  IA    0.6 259  ML      3.19  0.24    2.37138      
+    MSAI  IA    0.6 259  MLv     2.75  0.16   0.849163      
+    MSAI  IA    0.6 259  Mjma    2.67 -0.17        N/A  N/A 
+    KRAI  IA    1.1 266  ML      2.72 -0.23   0.408828      
+    KRAI  IA    1.1 266  MLv     2.33 -0.25   0.166865      
+    KRAI  IA    1.1 266  Mjma    2.95  0.11        N/A  N/A 
+    NSBMM IA    1.3 277  ML      3.21  0.25    0.97712      
+    NSBMM IA    1.3 277  MLv     2.86  0.27    0.43946      
+    NSBMM IA    1.3 277  Mjma    2.92  0.07        N/A  N/A 
+    SSMI  IA    1.4 110  ML      2.91 -0.05   0.414272      
+    SSMI  IA    1.4 110  MLv     2.62  0.03   0.214263      
+    SSMI  IA    1.4 110  Mjma    3.12  0.28        N/A  N/A 
+    TAMI  IA    1.4 252  ML      2.86 -0.10   0.360327      
+    TAMI  IA    1.4 252  MLv     2.33 -0.25   0.106785      
+    TAMI  IA    1.4 252  Mjma    2.91  0.06        N/A  N/A 
+    OBMI  IA    2.6 316  ML      2.93 -0.03   0.0903098      
+    OBMI  IA    2.6 316  MLv     2.78  0.20   0.0645394      
+    OBMI  IA    2.6 316  Mjma    3.37  0.53        N/A  N/A 
+    OBMI  IA    2.6 316  Ms(BB)  2.71  0.00   3.17891e-07 3.54 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021yjof
+    Description
+      region name: Ceram Sea
+Origin:
+    Date                   2021-12-13
+    Time                   18:16:07.6  +/-    0.5 s
+    Latitude                -2.85 deg  +/-    6 km
+    Longitude              128.81 deg  +/-    3 km
+    Depth                      12 km   +/-    6 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.71 s
+    Azimuthal gap             142 deg
+
+4 Network magnitudes:
+    Mjma      2.49 +/- 0.32   6            
+    ML        2.34 +/- 0.27   6            
+    MLv       2.11 +/- 0.19   6 preferred  
+    M         2.26            6            
+
+9 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SRMI  IA    0.4 104  P       18:16:15.8  -0.4 M  1.0  SRMI 
+    MSAI  IA    0.5 167  P       18:16:18.2  -0.2 M  1.0  MSAI 
+    KRAI  IA    0.6 222  P       18:16:19.8  -0.6 M  1.0  KRAI 
+    NSBMM IA    0.6 249  P       18:16:22.2   1.5 M  1.0  NSBMM
+    TMTMM IA    0.8 122  P       18:16:24.1   0.0 M  1.0  TMTMM
+    AAII  IA    1.0 216  P       18:16:26.7  -0.6 M  1.0  AAII 
+    TAMI  IA    1.1 220  P       18:16:27.8  -0.1 M  1.0  TAMI 
+    WSTMM IA    1.3 117  P       18:16:32.5   1.0 M  1.0  WSTMM
+    OBMI  IA    1.9 322  P       18:16:39.2  -0.5 M  1.0  OBMI 
+
+24 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SRMI  IA    0.4 104  ML      2.13 -0.20   0.594773      
+    SRMI  IA    0.4 104  MLv     1.85 -0.26   0.307053      
+    SRMI  IA    0.4 104  Mjma    2.10 -0.39        N/A  N/A 
+    MSAI  IA    0.5 167  ML      2.71  0.37   0.974493      
+    MSAI  IA    0.5 167  MLv     2.36  0.25   0.432847      
+    MSAI  IA    0.5 167  Mjma    2.31 -0.18        N/A  N/A 
+    KRAI  IA    0.6 222  ML      2.54  0.21   0.494479      
+    KRAI  IA    0.6 222  MLv     2.22  0.11   0.234479      
+    KRAI  IA    0.6 222  Mjma    2.43 -0.06        N/A  N/A 
+    NSBMM IA    0.6 249  ML      2.80  0.46   0.864902      
+    NSBMM IA    0.6 249  MLv     2.50  0.39   0.438818      
+    NSBMM IA    0.6 249  Mjma    2.35 -0.13        N/A  N/A 
+    TMTMM IA    0.8 122  ML      2.18 -0.15   0.163614      
+    TMTMM IA    0.8 122  MLv     2.04 -0.08     0.1161      
+    TMTMM IA    0.8 122  Mjma    2.84  0.35        N/A  N/A 
+    AAII  IA    1.0 216  ML      1.21 -1.12   0.0135894      
+    AAII  IA    1.0 216  MLv     1.18 -0.93   0.0127403      
+    AAII  IA    1.0 216  Mjma    1.40 -1.09        N/A  N/A 
+    WSTMM IA    1.3 117  ML      2.02 -0.32   0.0600876      
+    WSTMM IA    1.3 117  MLv     1.97 -0.14   0.0543349      
+    WSTMM IA    1.3 117  Mjma    2.91  0.42        N/A  N/A 
+    OBMI  IA    1.9 322  ML      2.43  0.10   0.0747248      
+    OBMI  IA    1.9 322  MLv     2.23  0.12   0.0470042      
+    OBMI  IA    1.9 322  Mjma    3.10  0.62        N/A  N/A 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021yjpe
+    Description
+      region name: Banda Sea
+Origin:
+    Date                   2021-12-13
+    Time                   18:45:29.7  +/-    1.1 s
+    Latitude                -6.91 deg  +/-    3 km
+    Longitude              128.65 deg  +/-    2 km
+    Depth                      25 km   +/-   11 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.85 s
+    Azimuthal gap             124 deg
+
+10 Network magnitudes:
+    mBc       6.02            1            
+    Mw(mBc)   5.24            1            
+    mb        4.31 +/- 0.26   6            
+    mB        4.73            1            
+    Mw(mB)    3.97            1            
+    Mjma      3.99 +/- 0.19  14            
+    ML        4.03 +/- 0.15  14            
+    MLv       3.88 +/- 0.13  14 preferred  
+    Ms(BB)    3.48 +/- 0.16  14            
+    M         4.35           14            
+
+23 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    BNDI  IA    2.7  28  P       18:46:09.8  -1.6 M  1.0  BNDI 
+    SAUI  IA    2.8 112  P       18:46:13.7   0.2 M  1.0  SAUI 
+    KTMI  IA    3.0 104  P       18:46:15.7  -0.0 M  1.0  KTMI 
+    AAII  IA    3.2 352  P       18:46:18.2  -0.8 M  1.0  AAII 
+    MSAI  IA    3.6   5  P       18:46:19.5  -3.9 MX 0.0  MSAI 
+    KRAI  IA    3.6 356  P       18:46:24.0   0.3 M  1.0  KRAI 
+    WSTMM IA    3.7  21  P       18:46:24.1  -1.1 M  1.0  WSTMM
+    TMTMM IA    3.7  14  P       18:46:24.4  -0.9 M  1.0  TMTMM
+    SRMI  IA    4.0   8  P       18:46:31.2   1.9 M  1.0  SRMI 
+    ALKI  IA    4.2 253  P       18:46:31.3  -0.9 M  1.0  ALKI 
+    KKMI  IA    4.2  74  P       18:46:33.2   0.7 M  1.0  KKMI 
+    TLE2  IA    4.2  74  P       18:46:35.1   2.3 M  1.0  TLE2 
+    ATNI  IA    4.3 240  P       18:46:35.0   1.1 M  1.0  ATNI 
+    SOEI  IA    5.2 237  P       18:46:48.4   2.8 M  1.0  SOEI 
+    FAKI  IA    5.4  42  P       18:45:57.3 -50.9 MX 0.0  FAKI 
+    SANI  IA    5.5 331  P       18:46:52.1   1.8 M  1.0  SANI 
+    OBMI  IA    5.6 350  P       18:46:52.9   1.1 M  1.0  OBMI 
+    ARMI  IA    5.7  79  P       18:46:49.5  -2.7 M  1.0  ARMI 
+    LRTI  IA    5.8 256  P       18:46:48.7  -4.9 M  1.0  LRTI 
+    BATI  IA    5.9 236  P       18:46:56.5   0.7 M  1.0  BATI 
+    BBSI  IA    6.2 283  P       18:47:02.0   2.2 MX 0.0  BBSI 
+    LBMI  IA    6.3 350  P       18:47:05.9   4.2 MX 0.0  LBMI 
+    EDFI  IA    7.1 255  P       18:47:15.0   2.5 MX 0.0  EDFI 
+
+80 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    BNDI  IA    2.7  28  ML      4.07  0.04    1.17571      
+    BNDI  IA    2.7  28  MLv     3.77 -0.11   0.590047      
+    BNDI  IA    2.7  28  Mjma    4.09  0.10        N/A  N/A 
+    BNDI  IA    2.7  28  Ms(BB)  3.61  0.14   2.49386e-06 1.76 
+    SAUI  IA    2.8 112  ML      4.22  0.19    1.39122      
+    SAUI  IA    2.8 112  MLv     3.96  0.08   0.757994      
+    SAUI  IA    2.8 112  Mjma    3.98 -0.01        N/A  N/A 
+    SAUI  IA    2.8 112  Ms(BB)  3.62  0.14   2.30154e-06 0.12 
+    KTMI  IA    3.0 104  ML      4.20  0.17    1.08501      
+    KTMI  IA    3.0 104  MLv     4.05  0.17      0.763      
+    KTMI  IA    3.0 104  Mjma    3.86 -0.13        N/A  N/A 
+    KTMI  IA    3.0 104  Ms(BB)  3.96  0.48   4.58628e-06 0.12 
+    AAII  IA    3.2 352  ML      2.58 -1.45   0.0187009      
+    AAII  IA    3.2 352  MLv     2.78 -1.10   0.0293876      
+    AAII  IA    3.2 352  Mjma    2.42 -1.57        N/A  N/A 
+    AAII  IA    3.2 352  Ms(BB)  2.44 -1.04   1.2232e-07 0.33 
+    KRAI  IA    3.6 356  ML      4.17  0.14   0.470125      
+    KRAI  IA    3.6 356  MLv     3.82 -0.06   0.209592      
+    KRAI  IA    3.6 356  Mjma    3.82 -0.17        N/A  N/A 
+    KRAI  IA    3.6 356  Ms(BB)  3.39 -0.09   9.10055e-07 0.23 
+    WSTMM IA    3.7  21  ML      3.54 -0.49   0.101989      
+    WSTMM IA    3.7  21  MLv     3.41 -0.47    0.07592      
+    WSTMM IA    3.7  21  Mjma    3.67 -0.32        N/A  N/A 
+    WSTMM IA    3.7  21  Ms(BB)  3.17 -0.31   5.30879e-07 7.56 
+    TMTMM IA    3.7  14  ML      3.95 -0.08   0.263234      
+    TMTMM IA    3.7  14  MLv     3.85 -0.03   0.207541      
+    TMTMM IA    3.7  14  Mjma    3.77 -0.22        N/A  N/A 
+    TMTMM IA    3.7  14  Ms(BB)  3.45 -0.03   1.00772e-06 0.05 
+    SRMI  IA    4.0   8  ML      3.84 -0.20    0.17131      
+    SRMI  IA    4.0   8  MLv     3.68 -0.20   0.120531      
+    SRMI  IA    4.0   8  Mjma    3.96 -0.03        N/A  N/A 
+    SRMI  IA    4.0   8  Ms(BB)  3.30 -0.18   6.23701e-07 2.84 
+    ALKI  IA    4.2 253  ML      4.06  0.03   0.258777      
+    ALKI  IA    4.2 253  MLv     3.72 -0.16   0.117047      
+    ALKI  IA    4.2 253  Mjma    3.74 -0.25        N/A  N/A 
+    ALKI  IA    4.2 253  Ms(BB)  3.25 -0.23   5.13285e-07 25.18 
+    KKMI  IA    4.2  74  ML      4.04  0.01   0.244211      
+    KKMI  IA    4.2  74  MLv     4.10  0.22   0.278083      
+    KKMI  IA    4.2  74  Mjma    4.39  0.40        N/A  N/A 
+    KKMI  IA    4.2  74  Ms(BB)  3.75  0.27   1.61954e-06 2.34 
+    TLE2  IA    4.2  74  ML      4.01 -0.02   0.224836      
+    TLE2  IA    4.2  74  MLv     3.97  0.09    0.20142      
+    TLE2  IA    4.2  74  Mjma    4.39  0.40        N/A  N/A 
+    TLE2  IA    4.2  74  Ms(BB)  3.62  0.14   1.18168e-06 4.95 
+    ATNI  IA    4.3 240  ML      3.89 -0.14   0.161568      
+    ATNI  IA    4.3 240  MLv     3.84 -0.04   0.143929      
+    ATNI  IA    4.3 240  Mjma    3.81 -0.18        N/A  N/A 
+    ATNI  IA    4.3 240  Ms(BB)  3.27 -0.21   5.16574e-07 1.35 
+    SOEI  IA    5.2 237  ML      4.35  0.32   0.282886      
+    SOEI  IA    5.2 237  MLv     4.05  0.17   0.142213      
+    SOEI  IA    5.2 237  Mjma    4.15  0.16        N/A  N/A 
+    SOEI  IA    5.2 237  Ms(BB)  3.48 -0.00   6.13531e-07 3.73 
+    SOEI  IA    5.2 237  mb      4.41  0.10    42.8488 1.01 
+    SANI  IA    5.5 331  ML      3.75 -0.28   0.0581805      
+    SANI  IA    5.5 331  MLv     3.71 -0.17   0.0526719      
+    SANI  IA    5.5 331  Mjma    4.04  0.05        N/A  N/A 
+    SANI  IA    5.5 331  Ms(BB)  3.39 -0.09   4.46638e-07 0.76 
+    SANI  IA    5.5 331  mb      3.73 -0.58    5.15737 0.62 
+    OBMI  IA    5.6 350  ML      3.85 -0.18   0.0684887      
+    OBMI  IA    5.6 350  MLv     3.85 -0.03   0.0690087      
+    OBMI  IA    5.6 350  Mjma    4.00  0.01        N/A  N/A 
+    OBMI  IA    5.6 350  Ms(BB)  3.34 -0.14   3.8743e-07 2.01 
+    OBMI  IA    5.6 350  mb      4.31 -0.00    19.7991 0.65 
+    ARMI  IA    5.7  79  ML      4.60  0.57   0.385704      
+    ARMI  IA    5.7  79  MLv     4.72  0.84   0.513195      
+    ARMI  IA    5.7  79  Mjma    4.49  0.50        N/A  N/A 
+    ARMI  IA    5.7  79  Ms(BB)  4.07  0.60   2.10603e-06 1.94 
+    ARMI  IA    5.7  79  mb      4.74  0.43    122.508 1.49 
+    LRTI  IA    5.8 256  ML      4.20  0.17   0.145131      
+    LRTI  IA    5.8 256  MLv     3.96  0.08   0.0834644      
+    LRTI  IA    5.8 256  Mjma    3.94 -0.05        N/A  N/A 
+    LRTI  IA    5.8 256  Ms(BB)  3.60  0.12   6.89427e-07 0.16 
+    LRTI  IA    5.8 256  mB      4.73  0.00    689.427      
+    LRTI  IA    5.8 256  mBc     6.02  0.00        N/A  N/A 
+    LRTI  IA    5.8 256  mb      4.05 -0.25    17.9472 1.07 
+    BATI  IA    5.9 236  ML      4.14  0.11   0.114619      
+    BATI  IA    5.9 236  MLv     4.16  0.28   0.120159      
+    BATI  IA    5.9 236  Mjma    4.34  0.35        N/A  N/A 
+    BATI  IA    5.9 236  Ms(BB)  3.65  0.17   7.387e-07 4.64 
+    BATI  IA    5.9 236  mb      4.50  0.19    34.7304 0.78 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021yjty
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   21:09:02.1  +/-    0.3 s
+    Latitude                -2.82 deg  +/-    4 km
+    Longitude              129.28 deg  +/-    2 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.25 s
+    Azimuthal gap             131 deg
+
+5 Network magnitudes:
+    Mjma      3.46 +/- 0.24  11            
+    ML        3.75 +/- 0.21  12            
+    MLv       3.46 +/- 0.20  12 preferred  
+    Ms(BB)    3.29 +/- 0.14   4            
+    M         3.48           12            
+
+15 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SRMI  IA    0.2 221  P       21:09:05.9  -0.7 M  1.0  SRMI 
+    TMTMM IA    0.5 153  P       21:09:12.6  -0.5 M  1.0  TMTMM
+    SEMI  IA    0.5 100  P       21:09:10.7  -2.5 M  1.0  SEMI 
+    MSAI  IA    0.6 214  P       21:09:13.3  -1.5 M  1.0  MSAI 
+    WSTMM IA    0.9 132  P       21:09:20.6   0.3 M  1.0  WSTMM
+    KRAI  IA    1.0 241  P       21:09:20.7  -0.8 M  1.0  KRAI 
+    NSBMM IA    1.1 256  P       21:09:23.8   1.0 M  1.0  NSBMM
+    BSMI  IA    1.2 103  P       21:09:26.9   2.1 M  1.0  BSMI 
+    AAII  IA    1.4 232  P       21:09:27.6   0.6 M  1.0  AAII 
+    BNDI  IA    1.8 160  P       21:09:35.5   2.4 M  1.0  BNDI 
+    OBMI  IA    2.2 312  P       21:09:38.3  -0.5 M  1.0  OBMI 
+    NLAI  IA    2.2 259  P       21:09:39.3   0.3 M  1.0  NLAI 
+    LBMI  IA    2.8 321  P       21:09:47.4   0.4 M  1.0  LBMI 
+    FAKI  IA    3.0  92  P       21:09:48.9  -0.5 M  1.0  FAKI 
+    KKMI  IA    4.5 130  P       21:09:44.6 -25.2 MX 0.0  KKMI 
+
+45 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SRMI  IA    0.2 221  ML      3.92  0.17    150.886      
+    SRMI  IA    0.2 221  MLv     3.40 -0.06    45.1792      
+    TMTMM IA    0.5 153  ML      3.76  0.01    9.41339      
+    TMTMM IA    0.5 153  MLv     3.70  0.24    8.10535      
+    TMTMM IA    0.5 153  Mjma    3.49  0.02        N/A  N/A 
+    SEMI  IA    0.5 100  ML      3.73 -0.03    8.38333      
+    SEMI  IA    0.5 100  MLv     3.21 -0.25    2.56915      
+    SEMI  IA    0.5 100  Mjma    3.02 -0.44        N/A  N/A 
+    MSAI  IA    0.6 214  ML      4.26  0.51    25.6375      
+    MSAI  IA    0.6 214  MLv     3.86  0.40    10.0904      
+    MSAI  IA    0.6 214  Mjma    3.53  0.06        N/A  N/A 
+    WSTMM IA    0.9 132  ML      3.17 -0.58    1.39848      
+    WSTMM IA    0.9 132  MLv     2.97 -0.49   0.868297      
+    WSTMM IA    0.9 132  Mjma    2.92 -0.55        N/A  N/A 
+    KRAI  IA    1.0 241  ML      3.88  0.13    6.54264      
+    KRAI  IA    1.0 241  MLv     3.63  0.17    3.65429      
+    KRAI  IA    1.0 241  Mjma    3.62  0.16        N/A  N/A 
+    NSBMM IA    1.1 256  ML      4.11  0.36    9.93204      
+    NSBMM IA    1.1 256  MLv     3.87  0.41    5.69713      
+    NSBMM IA    1.1 256  Mjma    3.87  0.41        N/A  N/A 
+    BSMI  IA    1.2 103  ML      3.59 -0.17    2.49032      
+    BSMI  IA    1.2 103  MLv     3.52  0.06    2.13107      
+    BSMI  IA    1.2 103  Mjma    3.56  0.09        N/A  N/A 
+    AAII  IA    1.4 232  ML      2.43 -1.32   0.143482      
+    AAII  IA    1.4 232  MLv     2.37 -1.09   0.124754      
+    AAII  IA    1.4 232  Mjma    2.17 -1.30        N/A  N/A 
+    BNDI  IA    1.8 160  ML      3.70 -0.06    1.55171      
+    BNDI  IA    1.8 160  MLv     3.42 -0.04   0.816649      
+    BNDI  IA    1.8 160  Mjma    3.63  0.17        N/A  N/A 
+    OBMI  IA    2.2 312  ML      4.12  0.37    2.46593      
+    OBMI  IA    2.2 312  MLv     3.63  0.17   0.798526      
+    OBMI  IA    2.2 312  Mjma    3.36 -0.10        N/A  N/A 
+    OBMI  IA    2.2 312  Ms(BB)  3.55  0.26   2.98222e-06 0.34 
+    NLAI  IA    2.2 259  ML      3.56 -0.20   0.662866      
+    NLAI  IA    2.2 259  MLv     3.32 -0.14   0.381966      
+    NLAI  IA    2.2 259  Mjma    3.31 -0.15        N/A  N/A 
+    NLAI  IA    2.2 259  Ms(BB)  3.25 -0.04   1.47116e-06 0.17 
+    LBMI  IA    2.8 321  ML      3.84  0.09   0.596352      
+    LBMI  IA    2.8 321  MLv     3.58  0.13   0.330173      
+    LBMI  IA    2.8 321  Mjma    3.73  0.26        N/A  N/A 
+    LBMI  IA    2.8 321  Ms(BB)  3.24 -0.04   9.89437e-07 0.51 
+    FAKI  IA    3.0  92  ML      3.50 -0.26   0.219642      
+    FAKI  IA    3.0  92  MLv     3.21 -0.24   0.114819      
+    FAKI  IA    3.0  92  Mjma    3.83  0.36        N/A  N/A 
+    FAKI  IA    3.0  92  Ms(BB)  3.21 -0.08   8.32876e-07 2.35 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ylho
+    Description
+      region name: Banda Sea
+Origin:
+    Date                   2021-12-14
+    Time                   17:09:59.2  +/-    0.3 s
+    Latitude                -7.28 deg  +/-    5 km
+    Longitude              128.52 deg  +/-    2 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.81 s
+    Azimuthal gap             135 deg
+
+10 Network magnitudes:
+    mBc       7.05            1            
+    Mw(mBc)   6.49            1            
+    mb        5.05 +/- 2.09   4            
+    mB        5.48            1            
+    Mw(mB)    4.94            1            
+    Mjma      4.25 +/- 0.12   6            
+    ML        4.33 +/- 0.13   6            
+    MLv       4.14 +/- 0.15   6 preferred  
+    Ms(BB)    3.71 +/- 0.17   6            
+    M         4.89            6            
+
+14 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SAUI  IA    2.8 104  P       17:10:47.1   2.5 M  1.0  SAUI 
+    SAUI  IA    2.8 104  S       17:11:17.4  -2.4 M  1.0  SAUI 
+    KTMI  IA    3.1  97  P       17:10:49.5   1.9 M  1.0  KTMI 
+    KTMI  IA    3.1  97  S       17:11:24.1  -1.1 M  1.0  KTMI 
+    ATNI  IA    4.0 243  P       17:11:02.0   0.8 M  1.0  ATNI 
+    KKMI  IA    4.5  70  P       17:11:09.0   2.1 M  1.0  KKMI 
+    TLE2  IA    4.5  70  P       17:11:10.2   3.0 M  1.0  TLE2 
+    TLE2  IA    4.5  70  S       17:11:58.3  -2.0 M  1.0  TLE2 
+    SOEI  IA    4.9 239  P       17:11:13.6   0.9 M  1.0  SOEI 
+    SOEI  IA    4.9 239  S       17:12:07.9  -2.3 M  1.0  SOEI 
+    BATI  IA    5.6 238  P       17:11:22.5  -0.3 M  1.0  BATI 
+    FAKI  IA    5.7  41  P       17:11:23.7  -0.5 M  1.0  FAKI 
+    ARMI  IA    5.9  76  P       17:11:25.3  -0.9 M  1.0  ARMI 
+    RAPI  IA    7.2  19  P       17:11:42.7  -1.9 M  1.0  RAPI 
+
+38 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SAUI  IA    2.8 104  ML      4.25 -0.08    1.48474      
+    SAUI  IA    2.8 104  MLv     3.99 -0.14   0.820204      
+    SAUI  IA    2.8 104  Mjma    4.12 -0.13        N/A  N/A 
+    SAUI  IA    2.8 104  Ms(BB)  3.85  0.14   3.89417e-06 0.07 
+    ATNI  IA    4.0 243  ML      4.08 -0.25   0.293007      
+    ATNI  IA    4.0 243  MLv     3.77 -0.36   0.145268      
+    ATNI  IA    4.0 243  Mjma    3.87 -0.39        N/A  N/A 
+    ATNI  IA    4.0 243  Ms(BB)  3.26 -0.45   5.60284e-07 0.45 
+    KKMI  IA    4.5  70  ML      4.51  0.18   0.625279      
+    KKMI  IA    4.5  70  MLv     4.35  0.21   0.428062      
+    KKMI  IA    4.5  70  Mjma    4.46  0.20        N/A  N/A 
+    KKMI  IA    4.5  70  Ms(BB)  3.98  0.27   2.50728e-06 1.62 
+    TLE2  IA    4.5  70  ML      4.23 -0.10   0.324747      
+    TLE2  IA    4.5  70  MLv     4.20  0.06    0.30056      
+    TLE2  IA    4.5  70  Mjma    4.32  0.07        N/A  N/A 
+    TLE2  IA    4.5  70  Ms(BB)  3.69 -0.02   1.26892e-06 2.14 
+    SOEI  IA    4.9 239  ML      4.33 -0.00   0.323868      
+    SOEI  IA    4.9 239  MLv     4.08 -0.05   0.183131      
+    SOEI  IA    4.9 239  Mjma    4.18 -0.08        N/A  N/A 
+    SOEI  IA    4.9 239  Ms(BB)  3.51 -0.20   7.3433e-07 2.77 
+    BATI  IA    5.6 238  ML      4.46  0.13   0.285975      
+    BATI  IA    5.6 238  MLv     4.25  0.11   0.173891      
+    BATI  IA    5.6 238  Mjma    4.23 -0.02        N/A  N/A 
+    BATI  IA    5.6 238  Ms(BB)  3.63 -0.07   7.71681e-07 1.41 
+    BATI  IA    5.6 238  mb      4.23 -0.82    14.9113 0.59 
+    FAKI  IA    5.7  41  ML      4.21 -0.12   0.149645      
+    FAKI  IA    5.7  41  MLv     3.96 -0.18   0.083829      
+    FAKI  IA    5.7  41  Mjma    4.22 -0.03        N/A  N/A 
+    FAKI  IA    5.7  41  Ms(BB)  3.59 -0.12   6.70752e-07 0.72 
+    FAKI  IA    5.7  41  mb      4.20 -0.84    15.3779 0.66 
+    ARMI  IA    5.9  76  mB      5.48  0.00    3690.23      
+    ARMI  IA    5.9  76  mBc     7.05  0.00        N/A  N/A 
+    ARMI  IA    5.9  76  mb      4.38 -0.66    45.1186 1.33 
+    RAPI  IA    7.2  19  ML      4.79  0.45   0.236881      
+    RAPI  IA    7.2  19  MLv     8.90  4.76    3083.91      
+    RAPI  IA    7.2  19  Mjma    8.20  3.95        N/A  N/A 
+    RAPI  IA    7.2  19  Ms(BB)  7.92  4.22   0.0098828 0.30 
+    RAPI  IA    7.2  19  mb      8.85  3.80     714871 0.91 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ylpi
+    Description
+      region name: Banda Sea
+Origin:
+    Date                   2021-12-14
+    Time                   21:06:18.6  +/-    0.8 s
+    Latitude                -4.77 deg  +/-    5 km
+    Longitude              129.92 deg  +/-    7 km
+    Depth                      15 km   +/-    6 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.35 s
+    Azimuthal gap             175 deg
+
+5 Network magnitudes:
+    Mjma      3.45 +/- 0.31   7            
+    ML        3.31 +/- 0.20   6            
+    MLv       3.18 +/- 0.31   6 preferred  
+    Ms(BB)    3.25            3            
+    M         3.27            7            
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    BNDI  IA    0.2 357  P       21:06:25.3   0.1 M  1.0  BNDI 
+    WSTMM IA    1.3   3  P       21:06:41.8  -0.2 M  1.0  WSTMM
+    SSMI  IA    1.4  42  P       21:06:42.5  -0.4 M  1.0  SSMI 
+    TMTMM IA    1.5 345  P       21:06:45.0   0.0 M  1.0  TMTMM
+    MSAI  IA    1.7 325  P       21:06:48.2   0.3 M  1.0  MSAI 
+    KKMI  IA    2.9 108  P       21:07:05.4   0.7 M  1.0  KKMI 
+    FAKI  IA    3.0  52  P       21:07:05.3   0.1 M  1.0  FAKI 
+    KTMI  IA    3.3 150  P       21:07:09.4  -0.5 M  1.0  KTMI 
+
+26 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    BNDI  IA    0.2 357  ML      3.59  0.28    40.4015      
+    BNDI  IA    0.2 357  MLv     3.25  0.07    18.1861      
+    WSTMM IA    1.3   3  ML      3.05 -0.26   0.656212      
+    WSTMM IA    1.3   3  MLv     2.60 -0.58   0.231311      
+    WSTMM IA    1.3   3  Mjma    2.92 -0.53        N/A  N/A 
+    SSMI  IA    1.4  42  ML      3.48  0.17    1.66015      
+    SSMI  IA    1.4  42  MLv     3.17 -0.01   0.803324      
+    SSMI  IA    1.4  42  Mjma    3.16 -0.29        N/A  N/A 
+    TMTMM IA    1.5 345  ML      2.67 -0.65   0.208878      
+    TMTMM IA    1.5 345  MLv     2.34 -0.84   0.0986596      
+    TMTMM IA    1.5 345  Mjma    3.18 -0.28        N/A  N/A 
+    MSAI  IA    1.7 325  ML      3.39  0.08   0.848823      
+    MSAI  IA    1.7 325  MLv     3.75  0.57    1.94278      
+    MSAI  IA    1.7 325  Mjma    3.46  0.00        N/A  N/A 
+    KKMI  IA    2.9 108  ML      3.38  0.07   0.177359      
+    KKMI  IA    2.9 108  MLv     3.47  0.29    0.21577      
+    KKMI  IA    2.9 108  Mjma    4.12  0.67        N/A  N/A 
+    KKMI  IA    2.9 108  Ms(BB)  3.48  0.23   1.57588e-06 5.22 
+    FAKI  IA    3.0  52  ML      3.08 -0.23   0.0838901      
+    FAKI  IA    3.0  52  MLv     3.20  0.03   0.111243      
+    FAKI  IA    3.0  52  Mjma    3.70  0.25        N/A  N/A 
+    FAKI  IA    3.0  52  Ms(BB)  3.08 -0.17   6.1671e-07 4.53 
+    KTMI  IA    3.3 150  ML      3.48  0.17   0.135493      
+    KTMI  IA    3.3 150  MLv     3.38  0.20   0.106326      
+    KTMI  IA    3.3 150  Mjma    3.75  0.30        N/A  N/A 
+    KTMI  IA    3.3 150  Ms(BB)  3.19 -0.06   6.61123e-07 6.43 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ylqy
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   21:55:15.1  +/-    0.5 s
+    Latitude                -3.30 deg  +/-    7 km
+    Longitude              128.76 deg  +/-    2 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.59 s
+    Azimuthal gap             159 deg
+
+4 Network magnitudes:
+    Mjma      2.03 +/- 0.64   4            
+    ML        2.24 +/- 0.53   5            
+    MLv       2.03 +/- 0.52   5 preferred  
+    M         2.09            5            
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MSAI  IA    0.2 106  P       21:55:19.4  -0.5 M  1.0  MSAI 
+    KRAI  IA    0.4 266  P       21:55:24.1   1.0 M  1.0  KRAI 
+    KRAI  IA    0.4 266  S       21:55:29.3   0.3 M  1.0  KRAI 
+    NSBMM IA    0.6 291  S       21:55:35.1  -0.6 M  1.0  NSBMM
+    AAII  IA    0.7 235  P       21:55:27.9  -0.8 M  1.0  AAII 
+    TAMI  IA    0.7 240  P       21:55:30.1   0.2 M  1.0  TAMI 
+    TMTMM IA    0.8  90  P       21:55:30.7   0.4 M  1.0  TMTMM
+
+14 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MSAI  IA    0.2 106  ML      2.25  0.01    2.82736      
+    MSAI  IA    0.2 106  MLv     2.22  0.18    2.64772      
+    KRAI  IA    0.4 266  ML      2.64  0.40    2.15637      
+    KRAI  IA    0.4 266  MLv     2.22  0.19   0.818968      
+    KRAI  IA    0.4 266  Mjma    2.06  0.03        N/A  N/A 
+    AAII  IA    0.7 235  ML      1.04 -1.20   0.0143123      
+    AAII  IA    0.7 235  MLv     0.77 -1.26   0.00776338      
+    AAII  IA    0.7 235  Mjma    0.94 -1.10        N/A  N/A 
+    TAMI  IA    0.7 240  ML      2.66  0.42   0.554444      
+    TAMI  IA    0.7 240  MLv     2.48  0.45   0.368058      
+    TAMI  IA    0.7 240  Mjma    2.28  0.24        N/A  N/A 
+    TMTMM IA    0.8  90  ML      2.13 -0.11   0.157721      
+    TMTMM IA    0.8  90  MLv     1.97 -0.07   0.109652      
+    TMTMM IA    0.8  90  Mjma    2.59  0.55        N/A  N/A 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ylvh
+    Description
+      region name: Ceram Sea
+Origin:
+    Date                   2021-12-15
+    Time                   00:06:31.0  +/-    0.3 s
+    Latitude                -2.67 deg  +/-    3 km
+    Longitude              126.74 deg  +/-    4 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.09 s
+    Azimuthal gap             127 deg
+
+2 Network magnitudes:
+    MLv       2.99 +/- 0.40   7            
+    M         2.99            7 preferred  
+
+9 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    NLAI  IA    0.7 147  P       00:06:43.7  -0.5 M  1.0  NLAI 
+    NLAI  IA    0.7 147  S       00:06:52.4  -1.6 M  1.0  NLAI 
+    SANI  IA    1.0 309  P       00:06:49.5  -0.2 M  1.0  SANI 
+    SANI  IA    1.0 309  S       00:07:02.4  -0.8 M  1.0  SANI 
+    NBMI  IA    1.2 182  P       00:06:54.5   1.8 M  1.0  NBMI 
+    OBMI  IA    1.6  34  P       00:06:58.0  -1.0 M  1.0  OBMI 
+    TAMI  IA    1.7 126  P       00:07:00.4   0.0 M  1.0  TAMI 
+    AAII  IA    1.8 125  P       00:07:02.5   1.0 M  1.0  AAII 
+    LBMI  IA    2.2  21  P       00:07:08.4   1.4 M  1.0  LBMI 
+
+7 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    NLAI  IA    0.7 147  MLv     3.96  0.97    12.2757      
+    SANI  IA    1.0 309  MLv     2.66 -0.33   0.412735      
+    NBMI  IA    1.2 182  MLv     3.40  0.41    1.73929      
+    OBMI  IA    1.6  34  MLv     2.73 -0.25   0.218892      
+    TAMI  IA    1.7 126  MLv     3.11  0.12   0.459648      
+    AAII  IA    1.8 125  MLv     1.76 -1.22   0.0190675      
+    LBMI  IA    2.2  21  MLv     3.08  0.09   0.236157      
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ylwt
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   00:50:39.3  +/-    0.3 s
+    Latitude                -3.03 deg  +/-    2 km
+    Longitude              129.94 deg  +/-    2 km
+    Depth                      12 km   +/-    2 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.18 s
+    Azimuthal gap              68 deg
+
+2 Network magnitudes:
+    MLv       3.86 +/- 0.19  12            
+    M         3.86           12 preferred  
+
+18 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SEMI  IA    0.2 316  P       00:50:43.5  -0.7 M  1.0  SEMI 
+    SEMI  IA    0.2 316  S       00:50:49.2   1.4 M  1.0  SEMI 
+    WSTMM IA    0.4 172  P       00:50:47.0  -1.5 M  1.0  WSTMM
+    WSTMM IA    0.4 172  S       00:50:54.7  -0.6 M  1.0  WSTMM
+    TMTMM IA    0.5 237  P       00:50:48.3  -1.3 M  1.0  TMTMM
+    BSMI  IA    0.6  97  P       00:50:51.5   0.5 M  1.0  BSMI 
+    SRMI  IA    0.8 277  P       00:50:55.3   1.0 M  1.0  SRMI 
+    SSMI  IA    1.1 128  P       00:51:02.3   2.0 M  1.0  SSMI 
+    BNDI  IA    1.5 181  P       00:51:05.6   0.2 M  1.0  BNDI 
+    AAII  IA    1.9 249  P       00:51:11.8   1.0 M  1.0  AAII 
+    TAMI  IA    1.9 251  P       00:51:13.1   1.3 M  1.0  TAMI 
+    FAKI  IA    2.3  87  P       00:51:15.4  -2.0 M  1.0  FAKI 
+    RAPI  IA    2.8  19  P       00:51:22.5  -0.8 M  1.0  RAPI 
+    NLAI  IA    2.8 266  P       00:51:24.3  -0.1 M  1.0  NLAI 
+    OBMI  IA    2.8 306  P       00:51:23.1  -1.4 M  1.0  OBMI 
+    KKMI  IA    3.8 134  P       00:51:39.0   0.9 M  1.0  KKMI 
+    TLE2  IA    3.9 134  P       00:51:39.7   1.4 M  1.0  TLE2 
+    SANI  IA    4.1 284  P       00:51:40.0  -1.3 M  1.0  SANI 
+
+16 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SEMI  IA    0.2 316  MLv     3.68 -0.18    84.0885      
+    WSTMM IA    0.4 172  MLv     3.69 -0.17    16.4613      
+    TMTMM IA    0.5 237  MLv     3.55 -0.31    8.12821      
+    BSMI  IA    0.6  97  MLv     4.48  0.62     46.624      
+    SRMI  IA    0.8 277  MLv     3.82 -0.04    7.87123      
+    SSMI  IA    1.1 128  MLv     4.20  0.34    11.7427      
+    BNDI  IA    1.5 181  MLv     4.16  0.31    6.85391      
+    AAII  IA    1.9 249  MLv     2.60 -1.26   0.116192      
+    TAMI  IA    1.9 251  MLv     3.74 -0.11    1.48239      
+    FAKI  IA    2.3  87  MLv     3.65 -0.21   0.710566      
+    RAPI  IA    2.8  19  MLv     7.50  3.65    2922.75      
+    NLAI  IA    2.8 266  MLv     3.86 -0.00   0.600197      
+    OBMI  IA    2.8 306  MLv     3.77 -0.09   0.482538      
+    KKMI  IA    3.8 134  MLv     4.02  0.16   0.285538      
+    TLE2  IA    3.9 134  MLv     3.98  0.12   0.259748      
+    SANI  IA    4.1 284  MLv     3.73 -0.13   0.129097      
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ylxb
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   01:00:45.5  +/-    0.4 s
+    Latitude                -3.03 deg  +/-    4 km
+    Longitude              129.90 deg  +/-    3 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.44 s
+    Azimuthal gap             132 deg
+
+2 Network magnitudes:
+    MLv       3.34 +/- 0.34   6            
+    M         3.34            6 preferred  
+
+9 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SEMI  IA    0.1 326  P       01:00:49.5  -0.1 M  1.0  SEMI 
+    WSTMM IA    0.4 167  P       01:00:52.7  -2.1 M  1.0  WSTMM
+    TMTMM IA    0.5 234  P       01:00:54.5  -0.6 M  1.0  TMTMM
+    BSMI  IA    0.6  97  P       01:00:57.3  -0.4 M  1.0  BSMI 
+    SRMI  IA    0.7 277  P       01:01:01.8   2.0 M  1.0  SRMI 
+    SSMI  IA    1.2 127  P       01:01:09.5   2.2 M  1.0  SSMI 
+    BNDI  IA    1.5 180  P       01:01:12.3   0.3 M  1.0  BNDI 
+    TAMI  IA    1.9 250  P       01:01:18.6   0.7 M  1.0  TAMI 
+    OBMI  IA    2.8 307  P       01:01:28.5  -2.0 M  1.0  OBMI 
+
+8 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    WSTMM IA    0.4 167  MLv     3.04 -0.30    3.38309      
+    TMTMM IA    0.5 234  MLv     3.06 -0.28    3.14964      
+    BSMI  IA    0.6  97  MLv     3.88  0.54    11.1402      
+    SRMI  IA    0.7 277  MLv     3.05 -0.29    1.42993      
+    SSMI  IA    1.2 127  MLv     4.07  0.73    8.38602      
+    BNDI  IA    1.5 180  MLv     3.62  0.28    1.94983      
+    TAMI  IA    1.9 250  MLv     3.17 -0.17   0.414943      
+    OBMI  IA    2.8 307  MLv     3.26 -0.08   0.157779      
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ylxi
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   01:08:14.0  +/-    0.4 s
+    Latitude                -3.18 deg  +/-    5 km
+    Longitude              129.93 deg  +/-    4 km
+    Depth                      21 km   +/-    5 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.01 s
+    Azimuthal gap             106 deg
+
+2 Network magnitudes:
+    MLv       2.46 +/- 0.49   7            
+    M         2.46            7 preferred  
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    WSTMM IA    0.3 167  P       01:08:21.6  -0.2 M  1.0  WSTMM
+    SEMI  IA    0.3 337  P       01:08:21.0  -1.0 M  1.0  SEMI 
+    TMTMM IA    0.4 254  P       01:08:23.4  -0.5 M  1.0  TMTMM
+    BSMI  IA    0.6  82  P       01:08:27.3   1.2 M  1.0  BSMI 
+    SRMI  IA    0.8 288  P       01:08:31.3   1.9 M  1.0  SRMI 
+    NSBMM IA    1.7 273  P       01:08:42.2  -0.6 M  1.0  NSBMM
+    FAKI  IA    2.3  84  P       01:08:50.5  -0.8 M  1.0  FAKI 
+
+7 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    WSTMM IA    0.3 167  MLv     1.71 -0.76   0.430704      
+    SEMI  IA    0.3 337  MLv     2.32 -0.14    1.66288      
+    TMTMM IA    0.4 254  MLv     1.98 -0.48    0.33013      
+    BSMI  IA    0.6  82  MLv     2.95  0.49     1.3687      
+    SRMI  IA    0.8 288  MLv     2.15 -0.31   0.163796      
+    NSBMM IA    1.7 273  MLv     3.87  1.40    2.55895      
+    FAKI  IA    2.3  84  MLv     2.83  0.36   0.105999      
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ymam
+    Description
+      region name: Halmahera, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:44:22.9  +/-    0.6 s
+    Latitude                 2.82 deg  +/-    5 km
+    Longitude              128.06 deg  +/-    5 km
+    Depth                     117 km   +/-    7 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.98 s
+    Azimuthal gap             189 deg
+
+7 Network magnitudes:
+    mb        4.33 +/- 0.16   5            
+    mB        4.83            1            
+    Mw(mB)    4.10            1            
+    MLv       4.43 +/- 0.33  10            
+    Mwp       5.74            1            
+    Mw(Mwp)   5.60            1            
+    M         4.39           10 preferred  
+
+15 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    GLMI  IA    1.0 196  P       02:44:44.6  -0.4 M  1.0  GLMI 
+    GLMI  IA    1.0 196  S       02:45:01.9  -0.1 M  1.0  GLMI 
+    MGAI  IA    1.8 310  P       02:44:54.5   0.3 M  1.0  MGAI 
+    TNTI  IA    2.2 199  P       02:44:58.1  -0.2 M  1.0  TNTI 
+    TNTI  IA    2.2 199  S       02:45:26.2   0.5 M  1.0  TNTI 
+    LBMI  IA    3.5 189  P       02:45:16.3   0.7 M  1.0  LBMI 
+    TMSI  IA    3.5 244  P       02:45:15.7   0.1 M  1.0  TMSI 
+    MNI   IA    3.5 247  P       02:45:16.1   0.3 M  1.0  MNI  
+    RAPI  IA    4.2 139  P       02:45:24.5  -1.2 M  1.0  RAPI 
+    KMSI  IA    4.6 241  P       02:45:31.9   0.7 M  1.0  KMSI 
+    SANI  IA    5.3 203  P       02:45:36.7  -2.8 M  1.0  SANI 
+    SRMI  IA    5.8 169  P       02:45:48.8   1.6 M  1.0  SRMI 
+    SMSI  IA    6.0 252  P       02:45:48.6  -0.5 M  1.0  SMSI 
+    TMTMM IA    6.3 166  P       02:45:53.6   0.8 M  1.0  TMTMM
+    WSTMM IA    6.5 163  P       02:45:56.7   0.2 M  1.0  WSTMM
+
+19 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    GLMI  IA    1.0 196  MLv     4.24 -0.19    14.7887      
+    MGAI  IA    1.8 310  MLv     4.13 -0.30    4.09116      
+    TNTI  IA    2.2 199  MLv     3.64 -0.78   0.874095      
+    LBMI  IA    3.5 189  MLv     4.31 -0.12   0.729328      
+    MNI   IA    3.5 247  MLv     5.01  0.58    3.69481      
+    RAPI  IA    4.2 139  MLv     8.12  3.69    2868.05      
+    KMSI  IA    4.6 241  MLv     5.05  0.62    1.94374      
+    SANI  IA    5.3 203  MLv     4.19 -0.24   0.183857      
+    SANI  IA    5.3 203  mB      4.83  0.00    1235.01      
+    SANI  IA    5.3 203  mb      4.21 -0.11    19.0517 0.55 
+    SRMI  IA    5.8 169  MLv     4.06 -0.37   0.0984984      
+    SRMI  IA    5.8 169  mb      4.29 -0.04    25.4784 0.66 
+    SMSI  IA    6.0 252  MLv     4.30 -0.13   0.159604      
+    SMSI  IA    6.0 252  mb      4.39  0.06    29.3458 0.61 
+    TMTMM IA    6.3 166  MLv     4.58  0.15   0.256117      
+    TMTMM IA    6.3 166  mb      4.20 -0.13    35.9359 1.18 
+    WSTMM IA    6.5 163  MLv     4.54  0.12   0.200777      
+    WSTMM IA    6.5 163  Mwp     5.74  0.00    32881.2      
+    WSTMM IA    6.5 163  mb      4.68  0.36    60.2522 0.65 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ymbq
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   03:18:58.6  +/-    0.5 s
+    Latitude                -3.26 deg  +/-    6 km
+    Longitude              129.90 deg  +/-    5 km
+    Depth                      27 km   +/-    6 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.32 s
+    Azimuthal gap             111 deg
+
+2 Network magnitudes:
+    MLv       2.74 +/- 0.95   7            
+    M         2.74            7 preferred  
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    WSTMM IA    0.2 154  P       03:19:05.7  -0.3 M  1.0  WSTMM
+    SEMI  IA    0.4 346  P       03:19:07.7  -0.3 M  1.0  SEMI 
+    TMTMM IA    0.4 265  P       03:19:08.6   0.3 M  1.0  TMTMM
+    BSMI  IA    0.6  75  P       03:19:12.1   0.6 M  1.0  BSMI 
+    SRMI  IA    0.8 294  P       03:19:13.9  -0.0 M  1.0  SRMI 
+    FAKI  IA    2.4  82  P       03:19:35.7  -0.2 M  1.0  FAKI 
+    RAPI  IA    3.0  18  P       03:19:44.0  -0.1 M  1.0  RAPI 
+
+7 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    WSTMM IA    0.2 154  MLv     1.69 -1.05   0.644787      
+    SEMI  IA    0.4 346  MLv     2.78  0.04    3.07222      
+    TMTMM IA    0.4 265  MLv     2.09 -0.65   0.558586      
+    BSMI  IA    0.6  75  MLv     3.09  0.35    1.80566      
+    SRMI  IA    0.8 294  MLv     2.31 -0.43   0.234312      
+    FAKI  IA    2.4  82  MLv     2.95  0.21   0.134088      
+    RAPI  IA    3.0  18  MLv     7.60  4.86    2694.08      
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ymbr
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   03:20:21.8  +/-    0.5 s
+    Latitude                -3.08 deg  +/-    4 km
+    Longitude              129.83 deg  +/-    5 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.72 s
+    Azimuthal gap             120 deg
+
+2 Network magnitudes:
+    MLv       2.56 +/- 0.47   4            
+    M         2.56            4 preferred  
+
+4 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SEMI  IA    0.2 355  P       03:20:25.3  -1.1 M  1.0  SEMI 
+    TMTMM IA    0.4 235  P       03:20:31.5   1.4 M  1.0  TMTMM
+    WSTMM IA    0.4 157  P       03:20:28.4  -2.2 M  1.0  WSTMM
+    BSMI  IA    0.7  92  P       03:20:36.9   1.9 M  1.0  BSMI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SEMI  IA    0.2 355  MLv     2.40 -0.17    4.35802      
+    TMTMM IA    0.4 235  MLv     2.28 -0.29   0.861978      
+    WSTMM IA    0.4 157  MLv     2.45 -0.11    1.05984      
+    BSMI  IA    0.7  92  MLv     3.41  0.85    3.51333      
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ymfh
+    Description
+      region name: Ceram Sea
+Origin:
+    Date                   2021-12-15
+    Time                   05:09:57.5  +/-    0.4 s
+    Latitude                -3.00 deg  +/-    4 km
+    Longitude              127.83 deg  +/-    3 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.50 s
+    Azimuthal gap              94 deg
+
+2 Network magnitudes:
+    MLv       2.62 +/- 0.15   7            
+    M         2.62            7 preferred  
+
+9 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    NSBMM IA    0.4 103  P       05:10:05.2  -0.7 M  1.0  NSBMM
+    KRAI  IA    0.6 120  P       05:10:09.2  -1.2 M  1.0  KRAI 
+    TAMI  IA    0.7 158  P       05:10:11.2  -0.7 M  1.0  TAMI 
+    NLAI  IA    0.8 252  P       05:10:13.3   0.6 M  1.0  NLAI 
+    AAII  IA    0.8 152  P       05:10:12.0  -0.7 M  1.0  AAII 
+    SRMI  IA    1.3  88  P       05:10:25.2   3.3 M  1.0  SRMI 
+    NBMI  IA    1.4 233  P       05:10:24.5   1.7 M  1.0  NBMI 
+    OBMI  IA    1.7 353  P       05:10:25.9  -0.5 M  1.0  OBMI 
+    SANI  IA    2.1 297  P       05:10:30.6  -1.7 M  1.0  SANI 
+
+9 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    NSBMM IA    0.4 103  MLv     2.86  0.24    3.10514      
+    KRAI  IA    0.6 120  MLv     2.64  0.02   0.597492      
+    TAMI  IA    0.7 158  MLv     3.15  0.53    1.74168      
+    NLAI  IA    0.8 252  MLv     2.79  0.17   0.719358      
+    AAII  IA    0.8 152  MLv     1.62 -1.00   0.0483029      
+    SRMI  IA    1.3  88  MLv     2.54 -0.07    0.19682      
+    NBMI  IA    1.4 233  MLv     2.47 -0.15   0.152711      
+    OBMI  IA    1.7 353  MLv     2.56 -0.06   0.136154      
+    SANI  IA    2.1 297  MLv     2.47 -0.15   0.0656536      
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ymjq
+    Description
+      region name: Banda Sea
+Origin:
+    Date                   2021-12-15
+    Time                   07:21:28.8  +/-    0.5 s
+    Latitude                -7.01 deg  +/-    4 km
+    Longitude              129.86 deg  +/-    4 km
+    Depth                     154 km   +/-   12 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.09 s
+    Azimuthal gap              93 deg
+
+7 Network magnitudes:
+    mBc       6.02            2            
+    Mw(mBc)   5.23            2            
+    mb        4.91            3            
+    mB        5.15            2            
+    Mw(mB)    4.51            2            
+    MLv       4.61 +/- 0.21   8 preferred  
+    M         5.07            8            
+
+11 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SAUI  IA    1.7 124  P       07:22:01.1  -0.1 M  1.0  SAUI 
+    KTMI  IA    1.8 111  P       07:22:02.2  -0.1 M  1.0  KTMI 
+    BNDI  IA    2.5   1  P       07:22:08.0  -1.8 M  1.0  BNDI 
+    KKMI  IA    3.1  65  P       07:22:18.5   0.6 M  1.0  KKMI 
+    TLE2  IA    3.1  66  P       07:22:19.3   1.1 M  1.0  TLE2 
+    WSTMM IA    3.5   2  P       07:22:21.9  -1.3 M  1.0  WSTMM
+    TMTMM IA    3.7 355  P       07:22:24.7  -0.6 M  1.0  TMTMM
+    SRMI  IA    4.1 351  P       07:22:32.7   2.3 M  1.0  SRMI 
+    ALKI  IA    5.3 257  P       07:22:47.3   0.5 M  1.0  ALKI 
+    SOEI  IA    6.2 243  P       07:22:58.1   0.3 M  1.0  SOEI 
+    WRAB  II   13.6 162  P       07:24:34.3  -0.9 M  1.0  WRAB 
+
+17 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SAUI  IA    1.7 124  MLv     4.55 -0.05    12.3496      
+    KTMI  IA    1.8 111  MLv     4.46 -0.15    8.77727      
+    BNDI  IA    2.5   1  MLv     4.30 -0.30    2.63823      
+    KKMI  IA    3.1  65  MLv     4.84  0.23    3.98141      
+    TLE2  IA    3.1  66  MLv     4.48 -0.13    1.68907      
+    WSTMM IA    3.5   2  MLv     4.61  0.01     1.3655      
+    TMTMM IA    3.7 355  MLv     4.17 -0.44   0.435261      
+    SRMI  IA    4.1 351  MLv     4.63  0.03    1.00814      
+    ALKI  IA    5.3 257  MLv     5.03  0.42    1.24268      
+    ALKI  IA    5.3 257  mB      5.19  0.05    3101.51      
+    ALKI  IA    5.3 257  mBc     6.04  0.02        N/A  N/A 
+    ALKI  IA    5.3 257  mb      5.39  0.48    308.128 0.55 
+    SOEI  IA    6.2 243  MLv     5.00  0.39   0.716359      
+    SOEI  IA    6.2 243  mB      5.10 -0.05    2353.99      
+    SOEI  IA    6.2 243  mBc     5.99 -0.02        N/A  N/A 
+    SOEI  IA    6.2 243  mb      5.18  0.27    187.067 0.57 
+    WRAB  II   13.6 162  mb      4.15 -0.75     11.823 0.74 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ymvz
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   13:36:23.1  +/-    0.5 s
+    Latitude                -3.21 deg  +/-    6 km
+    Longitude              129.91 deg  +/-    4 km
+    Depth                      21 km   +/-    6 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.66 s
+    Azimuthal gap              98 deg
+
+5 Network magnitudes:
+    Mjma      2.90 +/- 0.49   4            
+    ML        2.71 +/- 0.34   5            
+    MLv       2.49 +/- 0.46   5 preferred  
+    Ms(BB)    3.04            1            
+    M         2.73            5            
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    WSTMM IA    0.3 162  P       13:36:30.8   0.3 M  1.0  WSTMM
+    SEMI  IA    0.3 342  P       13:36:31.0  -0.3 M  1.0  SEMI 
+    TMTMM IA    0.4 257  P       13:36:31.8  -0.8 M  1.0  TMTMM
+    BSMI  IA    0.6  80  P       13:36:36.1   0.6 M  1.0  BSMI 
+    SRMI  IA    0.8 290  P       13:36:39.4   1.0 M  1.0  SRMI 
+    FAKI  IA    2.4  83  P       13:37:00.1  -0.7 M  1.0  FAKI 
+
+15 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    WSTMM IA    0.3 162  ML      2.04 -0.67    1.06376      
+    WSTMM IA    0.3 162  MLv     1.62 -0.87   0.404351      
+    TMTMM IA    0.4 257  ML      2.56 -0.15    1.48357      
+    TMTMM IA    0.4 257  MLv     2.19 -0.30   0.622677      
+    TMTMM IA    0.4 257  Mjma    2.35 -0.56        N/A  N/A 
+    BSMI  IA    0.6  80  ML      3.18  0.47     2.2641      
+    BSMI  IA    0.6  80  MLv     3.03  0.54    1.59369      
+    BSMI  IA    0.6  80  Mjma    2.85 -0.05        N/A  N/A 
+    SRMI  IA    0.8 290  ML      2.91  0.20   0.945929      
+    SRMI  IA    0.8 290  MLv     2.61  0.12   0.475676      
+    SRMI  IA    0.8 290  Mjma    2.84 -0.07        N/A  N/A 
+    FAKI  IA    2.4  83  ML      2.74  0.03   0.083763      
+    FAKI  IA    2.4  83  MLv     2.78  0.30   0.0932649      
+    FAKI  IA    2.4  83  Mjma    3.70  0.80        N/A  N/A 
+    FAKI  IA    2.4  83  Ms(BB)  3.04  0.00   8.34466e-07 6.58 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ynax
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   16:05:10.3  +/-    0.5 s
+    Latitude                -3.55 deg  +/-    5 km
+    Longitude              127.27 deg  +/-    3 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.61 s
+    Azimuthal gap             144 deg
+
+5 Network magnitudes:
+    Mjma      2.56 +/- 0.37   7            
+    ML        2.87 +/- 0.31   7            
+    MLv       2.63 +/- 0.26   7 preferred  
+    Ms(BB)    2.78            1            
+    M         2.69            7            
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    NLAI  IA    0.4 330  P       16:05:17.3  -0.8 M  1.0  NLAI 
+    NBMI  IA    0.6 242  P       16:05:23.5   0.2 M  1.0  NBMI 
+    TAMI  IA    0.8  99  P       16:05:26.1  -0.6 M  1.0  TAMI 
+    AAII  IA    0.9  99  P       16:05:28.4   0.3 M  1.0  AAII 
+    NSBMM IA    1.0  64  P       16:05:30.6   0.6 M  1.0  NSBMM
+    KRAI  IA    1.1  78  P       16:05:30.9  -0.6 M  1.0  KRAI 
+    OBMI  IA    2.2  10  P       16:05:48.0   0.8 M  1.0  OBMI 
+
+22 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    NLAI  IA    0.4 330  ML      2.82 -0.05    3.40271      
+    NLAI  IA    0.4 330  MLv     2.51 -0.12    1.64611      
+    NLAI  IA    0.4 330  Mjma    2.16 -0.39        N/A  N/A 
+    NBMI  IA    0.6 242  ML      2.56 -0.31   0.498959      
+    NBMI  IA    0.6 242  MLv     2.78  0.15   0.821463      
+    NBMI  IA    0.6 242  Mjma    2.45 -0.10        N/A  N/A 
+    TAMI  IA    0.8  99  ML      3.38  0.51    2.58895      
+    TAMI  IA    0.8  99  MLv     2.81  0.19   0.699788      
+    TAMI  IA    0.8  99  Mjma    2.56  0.00        N/A  N/A 
+    AAII  IA    0.9  99  ML      1.60 -1.27   0.0380884      
+    AAII  IA    0.9  99  MLv     1.38 -1.25   0.0230085      
+    AAII  IA    0.9  99  Mjma    1.39 -1.17        N/A  N/A 
+    NSBMM IA    1.0  64  ML      3.05  0.18   0.934447      
+    NSBMM IA    1.0  64  MLv     2.67  0.05   0.393054      
+    NSBMM IA    1.0  64  Mjma    2.77  0.21        N/A  N/A 
+    KRAI  IA    1.1  78  ML      3.07  0.20   0.859029      
+    KRAI  IA    1.1  78  MLv     2.52 -0.10   0.245144      
+    KRAI  IA    1.1  78  Mjma    2.88  0.32        N/A  N/A 
+    OBMI  IA    2.2  10  ML      2.95  0.08   0.160935      
+    OBMI  IA    2.2  10  MLv     2.80  0.17   0.113319      
+    OBMI  IA    2.2  10  Mjma    3.41  0.85        N/A  N/A 
+    OBMI  IA    2.2  10  Ms(BB)  2.78  0.00   5.00679e-07 1.69 
+
+Regional10Ambon
+Event:
+    Public ID              bmkg2021ynkn
+    Description
+      region name: Seram, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   20:56:24.0  +/-    0.8 s
+    Latitude                -3.05 deg  +/-    8 km
+    Longitude              130.97 deg  +/-    4 km
+    Depth                      24 km   +/-    8 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.47 s
+    Azimuthal gap             148 deg
+
+5 Network magnitudes:
+    Mjma      3.40 +/- 0.10   7            
+    ML        3.42 +/- 0.26   7            
+    MLv       3.21 +/- 0.22   7 preferred  
+    Ms(BB)    3.12            1            
+    M         3.27            7            
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    BSMI  IA    0.5 263  P       20:56:35.2   0.2 M  1.0  BSMI 
+    SSMI  IA    0.7 192  P       20:56:37.7  -0.5 M  1.0  SSMI 
+    WSTMM IA    1.1 247  P       20:56:43.1  -0.0 M  1.0  WSTMM
+    FAKI  IA    1.3  84  P       20:56:46.9   0.2 M  1.0  FAKI 
+    TMTMM IA    1.5 260  P       20:56:49.4   0.5 M  1.0  TMTMM
+    SRMI  IA    1.8 273  P       20:56:53.8   0.4 M  1.0  SRMI 
+    OBMI  IA    3.7 297  P       20:57:19.2  -0.9 M  1.0  OBMI 
+
+22 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    BSMI  IA    0.5 263  ML      3.36 -0.06    5.44994      
+    BSMI  IA    0.5 263  MLv     3.17 -0.04    3.47006      
+    BSMI  IA    0.5 263  Mjma    3.27 -0.13        N/A  N/A 
+    SSMI  IA    0.7 192  ML      3.82  0.40    8.56486      
+    SSMI  IA    0.7 192  MLv     3.52  0.31    4.26447      
+    SSMI  IA    0.7 192  Mjma    3.38 -0.02        N/A  N/A 
+    WSTMM IA    1.1 247  ML      3.11 -0.31    1.06245      
+    WSTMM IA    1.1 247  MLv     2.93 -0.28   0.701276      
+    WSTMM IA    1.1 247  Mjma    3.35 -0.05        N/A  N/A 
+    FAKI  IA    1.3  84  ML      3.44  0.02    1.66268      
+    FAKI  IA    1.3  84  MLv     3.29  0.08    1.17582      
+    FAKI  IA    1.3  84  Mjma    3.29 -0.10        N/A  N/A 
+    TMTMM IA    1.5 260  ML      3.17 -0.25   0.726615      
+    TMTMM IA    1.5 260  MLv     3.00 -0.21   0.492806      
+    TMTMM IA    1.5 260  Mjma    3.43  0.03        N/A  N/A 
+    SRMI  IA    1.8 273  ML      3.29 -0.13   0.621763      
+    SRMI  IA    1.8 273  MLv     3.05 -0.16   0.356576      
+    SRMI  IA    1.8 273  Mjma    3.53  0.13        N/A  N/A 
+    OBMI  IA    3.7 297  ML      3.86  0.44   0.210444      
+    OBMI  IA    3.7 297  MLv     3.59  0.38   0.113666      
+    OBMI  IA    3.7 297  Mjma    3.65  0.26        N/A  N/A 
+    OBMI  IA    3.7 297  Ms(BB)  3.12  0.00   4.62929e-07 2.15 
+
+Regional10Ambon

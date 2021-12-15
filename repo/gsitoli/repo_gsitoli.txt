@@ -1,0 +1,162 @@
+Event:
+    Public ID              bmkg2021yivi
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   08:43:21.5  +/-    0.3 s
+    Latitude                 1.06 deg  +/-      2 km
+    Longitude               98.77 deg  +/-      2 km
+    Depth                      39 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.32 s
+    Azimuthal gap              74 deg
+
+2 Network magnitudes:
+    MLv       3.44 +/- 0.31  10            
+    M         3.44           10 preferred  
+
+23 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    LTSM  IA    0.5  19  P       08:43:33.6   0.2 M  1.0  LTSM 
+    LTSM  IA    0.5  19  S       08:43:42.3  -0.1 M  1.0  LTSM 
+    TTSM  IA    0.6  88  P       08:43:35.0  -0.1 M  1.0  TTSM 
+    TTSM  IA    0.6  88  S       08:43:44.9  -0.4 M  1.0  TTSM 
+    SBSI  IA    0.7  63  P       08:43:35.9  -0.3 M  1.0  SBSI 
+    SBSI  IA    0.7  63  S       08:43:47.5   0.1 M  1.0  SBSI 
+    MNSI  IA    0.9 108  P       08:43:37.8   0.4 M  1.0  MNSI 
+    MNSI  IA    0.9 108  S       08:43:49.7   0.1 M  1.0  MNSI 
+    TRSI  IA    1.0  11  P       08:43:39.5   0.6 M  1.0  TRSI 
+    TRSI  IA    1.0  11  S       08:43:51.9  -0.3 M  1.0  TRSI 
+    MTSI  IA    1.2 335  P       08:43:42.2   0.3 M  1.0  MTSI 
+    MTSI  IA    1.2 335  S       08:43:57.4  -0.1 M  1.0  MTSI 
+    PBSI  IA    1.2 204  P       08:43:42.4   0.5 M  1.0  PBSI 
+    PBSI  IA    1.2 204  S       08:43:57.8   0.1 M  1.0  PBSI 
+    GSI   IA    1.2 282  P       08:43:42.4   0.3 M  1.0  GSI  
+    GSI   IA    1.2 282  S       08:43:58.0   0.1 M  1.0  GSI  
+    SNBI  IA    1.3 266  P       08:43:43.6  -0.2 M  1.0  SNBI 
+    SNBI  IA    1.3 266  S       08:44:00.2  -0.8 M  1.0  SNBI 
+    PABI  IA    1.4 130  P       08:43:45.1  -0.1 M  1.0  PABI 
+    PABI  IA    1.4 130  S       08:44:03.2  -0.3 M  1.0  PABI 
+    PSI   IA    1.6   5  P       08:43:47.7  -0.1 M  1.0  PSI  
+    PSI   IA    1.6   5  S       08:44:06.8  -1.4 MX 0.0  PSI  
+    KCSI  IA    2.6 338  P       08:44:01.8   0.1 M  1.0  KCSI 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    LTSM  IA    0.5  19  MLv     3.71  0.27    10.5895     
+    TTSM  IA    0.6  88  MLv     3.40 -0.04    3.50285     
+    SBSI  IA    0.7  63  MLv     3.61  0.16    4.92669     
+    MNSI  IA    0.9 108  MLv     3.46  0.01    3.02749     
+    TRSI  IA    1.0  11  MLv     3.70  0.26    4.52421     
+    PBSI  IA    1.2 204  MLv     3.20 -0.25    1.05054     
+    SNBI  IA    1.3 266  MLv     3.83  0.38    3.79944     
+    PABI  IA    1.4 130  MLv     3.53  0.09    1.70077     
+    PSI   IA    1.6   5  MLv     2.58 -0.86   0.146088     
+    KCSI  IA    2.6 338  MLv     3.18 -0.27   0.158619     
+
+stageofgunungsitoli
+Event:
+    Public ID              bmkg2021yjlo
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   16:54:45.9  +/-    0.4 s
+    Latitude                -0.25 deg  +/-      3 km
+    Longitude               98.99 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.23 s
+    Azimuthal gap             111 deg
+
+3 Network magnitudes:
+    ML        3.09 +/- 0.15   9            
+    MLv       3.03 +/- 0.15   9            
+    M         3.05            9 preferred  
+
+16 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PBSI  IA    0.7 286  P       16:54:57.7  -2.8 M  1.0  PBSI 
+    PBSI  IA    0.7 286  S       16:55:06.4  -4.6 MX 0.0  PBSI 
+    PABI  IA    1.0  67  P       16:55:04.3  -0.1 M  1.0  PABI 
+    PABI  IA    1.0  67  S       16:55:16.1  -1.7 M  1.0  PABI 
+    SISI  IA    1.1 174  P       16:55:06.1  -0.0 M  1.0  SISI 
+    TASI  IA    1.1  94  P       16:55:07.0   0.5 M  1.0  TASI 
+    MNSI  IA    1.2  30  P       16:55:09.6   1.4 M  1.0  MNSI 
+    TTSM  IA    1.4  18  P       16:55:11.6   0.5 M  1.0  TTSM 
+    PDSI  IA    1.6 114  P       16:55:13.7  -0.5 M  1.0  PDSI 
+    PDSI  IA    1.6 114  S       16:55:36.2   0.5 M  1.0  PDSI 
+    SBSI  IA    1.7  15  P       16:55:16.1   0.6 M  1.0  SBSI 
+    SBSI  IA    1.7  15  S       16:55:38.6   0.7 M  1.0  SBSI 
+    LTSM  IA    1.8 358  P       16:55:15.3  -1.3 M  1.0  LTSM 
+    LTSM  IA    1.8 358  S       16:55:38.9  -1.0 M  1.0  LTSM 
+    SNBI  IA    2.0 308  P       16:55:21.7   2.3 M  1.0  SNBI 
+    GSI   IA    2.1 318  P       16:55:21.9   0.8 M  1.0  GSI  
+
+18 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PBSI  IA    0.7 286  ML      3.02 -0.07    1.29812     
+    PBSI  IA    0.7 286  MLv     3.03 -0.00    1.31893     
+    PABI  IA    1.0  67  ML      3.26  0.17     1.6747     
+    PABI  IA    1.0  67  MLv     3.07  0.04    1.07812     
+    SISI  IA    1.1 174  ML      2.69 -0.40   0.387576     
+    SISI  IA    1.1 174  MLv     2.58 -0.45     0.3013     
+    TASI  IA    1.1  94  ML      3.06 -0.03   0.890689     
+    TASI  IA    1.1  94  MLv     2.98 -0.04   0.752778     
+    MNSI  IA    1.2  30  ML      3.11  0.02   0.866241     
+    MNSI  IA    1.2  30  MLv     3.04  0.01   0.739412     
+    TTSM  IA    1.4  18  ML      3.05 -0.04   0.592114     
+    TTSM  IA    1.4  18  MLv     3.08  0.05   0.633756     
+    PDSI  IA    1.6 114  ML      3.07 -0.02   0.473253     
+    PDSI  IA    1.6 114  MLv     3.11  0.08   0.513337     
+    SBSI  IA    1.7  15  ML      3.22  0.13   0.589025     
+    SBSI  IA    1.7  15  MLv     3.21  0.18   0.574035     
+    LTSM  IA    1.8 358  ML      3.24  0.15   0.556284     
+    LTSM  IA    1.8 358  MLv     3.06  0.03   0.372081     
+
+stageofgunungsitoli
+Event:
+    Public ID              bmkg2021ymqs
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   10:55:42.2  +/-    0.7 s
+    Latitude                 3.23 deg  +/-      3 km
+    Longitude               96.18 deg  +/-      4 km
+    Depth                      46 km   +/-   20 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.42 s
+    Azimuthal gap             167 deg
+
+2 Network magnitudes:
+    MLv       3.44 +/- 0.10   3            
+    M         3.44            3            
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    SNSI  IA    0.8 170  P       10:55:57.9  -0.1 M  1.0  SNSI 
+    SNSI  IA    0.8 170  S       10:56:10.1   0.1 M  1.0  SNSI 
+    MLSI  IA    1.1  12  P       10:56:00.3  -0.3 M  1.0  MLSI 
+    MLSI  IA    1.1  12  S       10:56:14.1  -0.6 M  1.0  MLSI 
+    CASI  IA    1.5 337  P       10:56:07.0   0.1 M  1.0  CASI 
+    CASI  IA    1.5 337  S       10:56:26.3   0.3 M  1.0  CASI 
+    KCSI  IA    1.6  79  P       10:56:09.1   0.9 M  1.0  KCSI 
+    KCSI  IA    1.6  79  S       10:56:28.7   0.3 M  1.0  KCSI 
+    GSI   IA    2.4 144  S       10:56:46.6  -0.2 M  1.0  GSI  
+    LTSM  IA    3.2 121  S       10:57:07.6  -0.5 M  1.0  LTSM 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    SNSI  IA    0.8 170  MLv     3.43 -0.01    2.94698     
+    CASI  IA    1.5 337  MLv     3.54  0.11    1.58029     
+    KCSI  IA    1.6  79  MLv     3.34 -0.10   0.879337     
+
+stageofgunungsitoli

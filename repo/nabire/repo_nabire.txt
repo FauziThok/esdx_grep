@@ -1,0 +1,108 @@
+Event:
+    Public ID              bmkg2021yeqk
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-11
+    Time                   01:41:24.0  +/-    1.2 s
+    Latitude                -1.53 deg  +/-    6 km
+    Longitude              134.49 deg  +/-    5 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.94 s
+    Azimuthal gap             264 deg
+
+2 Network magnitudes:
+    MLv       2.63            2            
+    M         2.63            2 preferred  
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    RKPI  IA    0.3 274  P       01:41:31.8   0.5 M  1.0  RKPI 
+    RKPI  IA    0.3 274  S       01:41:35.7  -0.9 M  1.0  RKPI 
+    MBPI  IA    0.9 237  P       01:41:40.8  -0.8 M  1.0  MBPI 
+    MBPI  IA    0.9 237  S       01:41:55.5   1.2 M  1.0  MBPI 
+    IWPI  IA    1.3 178  P       01:41:48.6   1.1 M  1.0  IWPI 
+    IWPI  IA    1.3 178  S       01:42:04.0  -1.1 M  1.0  IWPI 
+
+2 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    RKPI  IA    0.3 274  MLv     2.76  0.14    3.83612      
+    MBPI  IA    0.9 237  MLv     2.49 -0.14   0.305078      
+
+stageof_nabire
+Event:
+    Public ID              bmkg2021ylcx
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   14:49:40.8  +/-    1.1 s
+    Latitude                -1.71 deg  +/-    7 km
+    Longitude              133.87 deg  +/-   17 km
+    Depth                      12 km   +/-    6 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.66 s
+    Azimuthal gap             191 deg
+
+2 Network magnitudes:
+    MLv       2.69 +/- 0.13   4            
+    M         2.69            4 preferred  
+
+6 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MBPI  IA    0.3 203  P       14:49:49.2   0.4 M  1.0  MBPI 
+    MBPI  IA    0.3 203  S       14:49:54.4  -0.2 M  1.0  MBPI 
+    MWPI  IA    0.8  13  P       14:49:57.0   0.5 M  1.0  MWPI 
+    SWPM  IA    0.9 343  P       14:49:58.6  -0.3 M  1.0  SWPM 
+    FAKI  IA    2.0 233  P       14:50:13.2  -1.2 M  1.0  FAKI 
+    FAKI  IA    2.0 233  S       14:50:41.1   0.8 M  1.0  FAKI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MBPI  IA    0.3 203  MLv     2.80  0.11    3.36141      
+    MWPI  IA    0.8  13  MLv     2.77  0.08   0.662631      
+    SWPM  IA    0.9 343  MLv     2.50 -0.20   0.293977      
+    FAKI  IA    2.0 233  MLv     2.66 -0.03   0.110996      
+
+stageof_nabire
+Event:
+    Public ID              bmkg2021ylje
+    Description
+      region name: Irian Jaya Region, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   17:59:44.6  +/-    0.6 s
+    Latitude                -3.01 deg  +/-    9 km
+    Longitude              135.00 deg  +/-    6 km
+    Depth                      10 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.42 s
+    Azimuthal gap             178 deg
+
+2 Network magnitudes:
+    MLv       2.88 +/- 0.12   4            
+    M         2.88            4 preferred  
+
+5 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    IWPI  IA    0.5 291  P       17:59:56.8   1.8 M  1.0  IWPI 
+    IWPI  IA    0.5 291  S       18:00:00.5  -2.2 M  1.0  IWPI 
+    NBPI  IA    0.6 126  P       17:59:55.8  -1.0 M  1.0  NBPI 
+    KMPI  IA    1.5 243  P       18:00:11.2   0.7 M  1.0  KMPI 
+    MBPI  IA    1.6 307  P       18:00:13.3   0.7 M  1.0  MBPI 
+
+4 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    IWPI  IA    0.5 291  MLv     3.04  0.16    2.23209      
+    NBPI  IA    0.6 126  MLv     2.94  0.06    1.25992      
+    KMPI  IA    1.5 243  MLv     2.76 -0.12   0.283306      
+    MBPI  IA    1.6 307  MLv     2.80 -0.08   0.257959      
+
+stageof_nabire

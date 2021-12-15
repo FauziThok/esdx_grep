@@ -1,0 +1,54 @@
+Event:
+    Public ID              BMKG2021ynhy
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   19:38:09.6  +/-    1.0 s
+    Latitude                 4.52 deg  +/-    3 km
+    Longitude               96.42 deg  +/-    2 km
+    Depth                      16 km   +/-    9 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.57 s
+    Azimuthal gap             123 deg
+
+4 Network magnitudes:
+    Mjma      2.19 +/- 0.35   4            
+    ML        2.85 +/- 0.71   5            
+    MLv       2.23 +/- 0.14   5            
+    M         2.37            5 preferred  
+
+11 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MLSI  IA    0.2 184  P       19:38:16.1  -0.3 M  1.0  MLSI 
+    MLSI  IA    0.2 184  S       19:38:20.7  -0.7 M  1.0  MLSI 
+    SISM  IA    0.3  73  P       19:38:16.3  -1.2 M  1.0  SISM 
+    SISM  IA    0.3  73  S       19:38:20.8  -2.5 MX 0.0  SISM 
+    LISM  IA    0.4  96  P       19:38:18.9   0.6 M  1.0  LISM 
+    LISM  IA    0.4  96  S       19:38:25.1   0.5 M  1.0  LISM 
+    BESM  IA    0.4 195  P       19:38:18.5   0.1 M  1.0  BESM 
+    BESM  IA    0.4 195  S       19:38:25.6   0.7 M  1.0  BESM 
+    BESI  IA    0.4  74  S       19:38:26.6   0.1 M  1.0  BESI 
+    GESM  IA    0.4 318  P       19:38:19.4  -0.1 M  1.0  GESM 
+    GESM  IA    0.4 318  S       19:38:26.9   0.2 M  1.0  GESM 
+
+14 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MLSI  IA    0.2 184  ML      4.61  1.76    405.168      
+    MLSI  IA    0.2 184  MLv     2.28  0.05    1.91672      
+    SISM  IA    0.3  73  ML      2.36 -0.49    1.49539      
+    SISM  IA    0.3  73  MLv     2.03 -0.20   0.706005      
+    SISM  IA    0.3  73  Mjma    1.81 -0.38        N/A  N/A 
+    LISM  IA    0.4  96  ML      2.49 -0.35     1.5066      
+    LISM  IA    0.4  96  MLv     2.11 -0.12   0.625514      
+    LISM  IA    0.4  96  Mjma    2.04 -0.15        N/A  N/A 
+    BESM  IA    0.4 195  ML      2.70 -0.15    2.23516      
+    BESM  IA    0.4 195  MLv     2.29  0.06   0.872673      
+    BESM  IA    0.4 195  Mjma    2.73  0.54        N/A  N/A 
+    GESM  IA    0.4 318  ML      2.87  0.02    2.25306      
+    GESM  IA    0.4 318  MLv     2.45  0.22   0.858486      
+    GESM  IA    0.4 318  Mjma    2.26  0.07        N/A  N/A 
+
+stageoftapaktuan

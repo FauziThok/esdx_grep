@@ -1,0 +1,65 @@
+Event:
+    Public ID              bmkg2021yndi
+    Description
+      region name: Minahassa Peninsula, Sulawesi
+Origin:
+    Date                   2021-12-15
+    Time                   17:18:03.5  +/-    0.4 s
+    Latitude                -0.22 deg  +/-      2 km
+    Longitude              122.98 deg  +/-      2 km
+    Depth                      68 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.11 s
+    Azimuthal gap              47 deg
+
+2 Network magnitudes:
+    MLv       3.37 +/- 0.21  13            
+    M         3.37           13 preferred  
+
+27 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    TGCM  IA    0.7   8  P       17:18:17.8  -1.9 M  1.0  TGCM 
+    TGCM  IA    0.7   8  S       17:18:29.8  -2.3 M  1.0  TGCM 
+    BGCI  IA    0.8 148  P       17:18:20.0  -0.0 M  1.0  BGCI 
+    BGCI  IA    0.8 148  S       17:18:34.7   2.1 M  1.0  BGCI 
+    LUWI  IA    0.8 194  P       17:18:19.8  -0.8 M  1.0  LUWI 
+    LUWI  IA    0.8 194  S       17:18:34.1   0.4 M  1.0  LUWI 
+    KGCM  IA    0.9 351  P       17:18:20.0  -0.8 M  1.0  KGCM 
+    KGCM  IA    0.9 351  S       17:18:34.6   0.7 M  1.0  KGCM 
+    MRSI  IA    1.2 304  P       17:18:24.5  -0.7 M  1.0  MRSI 
+    MRSI  IA    1.2 304  S       17:18:41.0  -0.9 M  1.0  MRSI 
+    KMSI  IA    1.3  52  P       17:18:25.8   0.3 M  1.0  KMSI 
+    KMSI  IA    1.3  52  S       17:18:43.1   0.6 M  1.0  KMSI 
+    SMSI  IA    1.3 333  P       17:18:26.2  -0.3 M  1.0  SMSI 
+    SMSI  IA    1.3 333  S       17:18:44.5   0.2 M  1.0  SMSI 
+    APSI  IA    1.5 243  P       17:18:28.5  -0.0 M  1.0  APSI 
+    APSI  IA    1.5 243  S       17:18:48.3   0.5 M  1.0  APSI 
+    TBMCM IA    1.9  60  P       17:18:33.8   0.6 M  1.0  TBMCM
+    TBMCM IA    1.9  60  S       17:18:58.4   2.1 M  1.0  TBMCM
+    TPCI  IA    2.0 290  P       17:18:35.9   0.8 M  1.0  TPCI 
+    TPCI  IA    2.0 290  S       17:19:00.7   0.9 M  1.0  TPCI 
+    TOLI2 IA    2.6 301  P       17:18:44.0   1.2 M  1.0  TOLI2
+    TOLI2 IA    2.6 301  S       17:19:14.2   0.6 M  1.0  TOLI2
+    POCI  IA    2.6 243  P       17:18:44.1   0.7 M  1.0  POCI 
+    POCI  IA    2.6 243  S       17:19:13.8  -0.9 M  1.0  POCI 
+    SANI  IA    3.5 121  P       17:18:53.3  -2.5 M  1.0  SANI 
+    MMCI  IA    4.5 233  P       17:19:09.6   0.1 M  1.0  MMCI 
+    OBMI  IA    4.8 103  P       17:19:12.5  -0.8 M  1.0  OBMI 
+
+11 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    TGCM  IA    0.7   8  MLv     3.16 -0.22    1.75369     
+    KGCM  IA    0.9 351  MLv     3.38  0.01    2.52484     
+    MRSI  IA    1.2 304  MLv     3.10 -0.27   0.810864     
+    KMSI  IA    1.3  52  MLv     3.07 -0.30   0.726563     
+    APSI  IA    1.5 243  MLv     3.32 -0.05   0.972465     
+    TBMCM IA    1.9  60  MLv     3.48  0.10   0.881108     
+    TPCI  IA    2.0 290  MLv     3.51  0.13   0.783843     
+    POCI  IA    2.6 243  MLv     3.74  0.37   0.621985     
+    SANI  IA    3.5 121  MLv     3.42  0.05   0.0922547     
+    MMCI  IA    4.5 233  MLv     3.35 -0.03   0.0412933     
+    OBMI  IA    4.8 103  MLv     3.58  0.20   0.0600227     
+
+Regional_8_Manado

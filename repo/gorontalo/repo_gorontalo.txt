@@ -1,0 +1,315 @@
+Event:
+    Public ID              bmkg2021yggr
+    Description
+      region name: Talaud Islands, Indonesia
+Origin:
+    Date                   2021-12-11
+    Time                   23:02:44.2  +/-  0.4 s
+    Latitude                 3.09 deg  +/-    3 km
+    Longitude              126.69 deg  +/-    3 km
+    Depth                      10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.62 s
+    Azimuthal gap             140 deg
+
+4 Network magnitudes:
+    MLv       3.57 +/- 0.28   6            
+    M         3.67            6 preferred  
+    Mjma      3.71 +/- 0.15   6            
+    ML        3.84 +/- 0.36   5            
+
+9 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MGAI  IA    0.9 359  P       23:02:59.7  -2.0 M  1.0  MGAI 
+    MGAI  IA    0.9 359  S       23:03:17.0   2.5 M  1.0  MGAI 
+    SGSI  IA    1.3 297  P       23:03:07.2  -0.7 M  1.0  SGSI 
+    SGSI  IA    1.3 297  S       23:03:24.2  -1.3 M  1.0  SGSI 
+    PSSI  IA    1.3 255  P       23:03:08.6   0.2 M  1.0  PSSI 
+    PSSI  IA    1.3 255  S       23:03:26.6   0.1 M  1.0  PSSI 
+    GLMI  IA    1.7 139  P       23:03:11.0  -2.2 M  1.0  GLMI 
+    TNTI  IA    2.4 164  P       23:03:25.1   1.4 M  1.0  TNTI 
+    TMSI  IA    2.5 225  P       23:03:27.2   2.0 M  1.0  TMSI 
+
+17 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MGAI  IA    0.9 359  MLv     3.46 -0.11    2.81381      
+    MGAI  IA    0.9 359  Mjma    3.67 -0.04        N/A  N/A 
+    SGSI  IA    1.3 297  ML      4.45  0.61    16.8459      
+    SGSI  IA    1.3 297  MLv     4.24  0.67    10.3618      
+    SGSI  IA    1.3 297  Mjma    4.03  0.32        N/A  N/A 
+    PSSI  IA    1.3 255  ML      3.63 -0.21    2.44751      
+    PSSI  IA    1.3 255  MLv     3.52 -0.05    1.88897      
+    PSSI  IA    1.3 255  Mjma    3.71  0.00        N/A  N/A 
+    GLMI  IA    1.7 139  ML      3.61 -0.23    1.53837      
+    GLMI  IA    1.7 139  MLv     3.38 -0.19   0.893629      
+    GLMI  IA    1.7 139  Mjma    3.57 -0.14        N/A  N/A 
+    TNTI  IA    2.4 164  ML      3.55 -0.29   0.521414      
+    TNTI  IA    2.4 164  MLv     3.17 -0.40   0.209895      
+    TNTI  IA    2.4 164  Mjma    3.50 -0.21        N/A  N/A 
+    TMSI  IA    2.5 225  ML      4.15  0.31    1.79012      
+    TMSI  IA    2.5 225  MLv     3.85  0.28   0.884071      
+    TMSI  IA    2.5 225  Mjma    3.87  0.15        N/A  N/A 
+
+stageofgorontalo
+Event:
+    Public ID              bmkg2021ylht
+    Description
+      region name: Minahassa Peninsula, Sulawesi
+Origin:
+    Date                   2021-12-14
+    Time                   17:16:12.2  +/-  0.5 s
+    Latitude                -0.13 deg  +/-    3 km
+    Longitude              123.08 deg  +/-    3 km
+    Depth                      83 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.19 s
+    Azimuthal gap              75 deg
+
+2 Network magnitudes:
+    MLv       3.19 +/- 0.25   7            
+    M         3.19            7 preferred  
+
+18 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    TGCM  IA    0.6 360  P       17:16:27.4  -1.4 M  1.0  TGCM 
+    TGCM  IA    0.6 360  S       17:16:38.9  -2.6 M  1.0  TGCM 
+    KGCM  IA    0.7 354  P       17:16:29.2   0.2 M  1.0  KGCM 
+    KGCM  IA    0.7 354  S       17:16:43.1   1.2 M  1.0  KGCM 
+    LUWI  IA    1.0 199  P       17:16:32.0   0.9 M  1.0  LUWI 
+    LUWI  IA    1.0 199  S       17:16:47.1   1.4 M  1.0  LUWI 
+    KMSI  IA    1.1  52  P       17:16:33.2   0.0 M  1.0  KMSI 
+    KMSI  IA    1.1  52  S       17:16:51.0   1.6 M  1.0  KMSI 
+    MRSI  IA    1.3 298  P       17:16:34.4  -0.7 M  1.0  MRSI 
+    MRSI  IA    1.3 298  S       17:16:51.3  -1.3 M  1.0  MRSI 
+    SMSI  IA    1.3 327  P       17:16:35.6   0.2 M  1.0  SMSI 
+    SMSI  IA    1.3 327  S       17:16:53.6   0.2 M  1.0  SMSI 
+    TPCI  IA    2.1 287  P       17:16:46.6   1.5 M  1.0  TPCI 
+    TPCI  IA    2.1 287  S       17:17:11.6   0.9 M  1.0  TPCI 
+    TOLI2 IA    2.6 298  P       17:16:52.5   0.2 M  1.0  TOLI2
+    SRSI  IA    3.2 223  P       17:17:01.4   0.5 M  1.0  SRSI 
+    SRSI  IA    3.2 223  S       17:17:38.1  -1.1 M  1.0  SRSI 
+    SANI  IA    3.5 123  P       17:17:02.3  -1.8 M  1.0  SANI 
+
+9 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    TGCM  IA    0.6 360  MLv     3.49  0.29    4.21978      
+    KGCM  IA    0.7 354  MLv     3.43  0.24    3.03791      
+    LUWI  IA    1.0 199  MLv     3.27  0.08    1.73177      
+    KMSI  IA    1.1  52  MLv     3.00 -0.19   0.733407      
+    MRSI  IA    1.3 298  MLv     2.73 -0.46   0.326219      
+    SMSI  IA    1.3 327  MLv     3.18 -0.01   0.883926      
+    TPCI  IA    2.1 287  MLv     3.58  0.39   0.851913      
+    TOLI2 IA    2.6 298  MLv     2.74 -0.45   0.0617931      
+    SANI  IA    3.5 123  MLv     3.21  0.02   0.0587218      
+
+stageofgorontalo
+Event:
+    Public ID              bmkg2021ylko
+    Description
+      region name: Philippine Islands Region
+Origin:
+    Date                   2021-12-14
+    Time                   18:41:36.2  +/-  1.1 s
+    Latitude                 5.59 deg  +/-   14 km
+    Longitude              127.11 deg  +/-    9 km
+    Depth                      13 km   +/-   20 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.45 s
+    Azimuthal gap             302 deg
+
+5 Network magnitudes:
+    mb        5.33 +/- 0.22  11            
+    mB        5.42 +/- 0.10   9            
+    Mw(mB)    4.87 +/- 0.40   9            
+    MLv       5.22 +/- 0.30  12            
+    M         5.08           12 preferred  
+
+20 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    MGAI  IA    1.6 196  P       18:42:04.4  -0.1 M  1.0  MGAI 
+    SGSI  IA    2.5 220  P       18:42:15.0  -1.0 M  1.0  SGSI 
+    SGSI  IA    2.5 220  S       18:42:45.8  -1.1 M  1.0  SGSI 
+    PSSI  IA    3.3 211  P       18:42:27.7   0.0 M  1.0  PSSI 
+    PSSI  IA    3.3 211  S       18:43:08.9   1.1 M  1.0  PSSI 
+    TNTI  IA    4.8 177  P       18:42:49.2   1.0 M  1.0  TNTI 
+    TMSI  IA    4.8 207  P       18:42:47.8  -0.4 M  1.0  TMSI 
+    KMSI  IA    5.9 212  P       18:43:04.9   1.8 M  1.0  KMSI 
+    LBMI  IA    6.2 176  P       18:43:08.9   1.5 M  1.0  LBMI 
+    TGCM  IA    6.4 219  P       18:43:10.1  -0.8 M  1.0  TGCM 
+    KGCM  IA    6.5 219  P       18:43:10.6  -0.6 M  1.0  KGCM 
+    SMSI  IA    6.6 226  P       18:43:10.9  -1.8 M  1.0  SMSI 
+    MRSI  IA    7.2 226  P       18:43:21.7  -0.1 M  1.0  MRSI 
+    SANI  IA    7.7 188  P       18:43:24.6  -3.1 M  1.0  SANI 
+    TPCI  IA    7.9 230  P       18:43:30.6   0.2 M  1.0  TPCI 
+    LUWI  IA    7.9 213  P       18:43:34.3   3.6 M  1.0  LUWI 
+    NLAI  IA    8.8 180  P       18:43:41.5  -1.3 M  1.0  NLAI 
+    MPSI  IA    8.9 234  P       18:43:44.1  -0.4 M  1.0  MPSI 
+    BGCM  IA    9.2 232  P       18:43:50.0   1.6 M  1.0  BGCM 
+    SRSI  IA   10.2 218  P       18:44:02.1  -0.1 M  1.0  SRSI 
+
+38 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    MGAI  IA    1.6 196  MLv     4.52 -0.70    12.8548      
+    SGSI  IA    2.5 220  MLv     5.62  0.40    55.4705      
+    PSSI  IA    3.3 211  MLv     5.01 -0.22    4.55693      
+    TNTI  IA    4.8 177  MLv     4.64 -0.58   0.682306      
+    TMSI  IA    4.8 207  MLv     5.10 -0.12    1.96208      
+    KMSI  IA    5.9 212  MLv     5.51  0.29    2.70321      
+    KMSI  IA    5.9 212  mB      5.63  0.21       5155      
+    KMSI  IA    5.9 212  mb      5.42  0.09    300.795 0.82 
+    LBMI  IA    6.2 176  MLv     5.24  0.02    1.20565      
+    LBMI  IA    6.2 176  mB      5.36 -0.06    2612.67      
+    LBMI  IA    6.2 176  mb      5.42  0.09    315.935 0.91 
+    TGCM  IA    6.4 219  MLv     5.25  0.02    1.06443      
+    TGCM  IA    6.4 219  mB      5.54  0.12    3810.92      
+    TGCM  IA    6.4 219  mb      5.47  0.14    255.627 0.68 
+    KGCM  IA    6.5 219  MLv     5.74  0.52     3.2459      
+    KGCM  IA    6.5 219  mB      6.30  0.88    21760.1      
+    KGCM  IA    6.5 219  mb      5.83  0.50    817.296 0.97 
+    SMSI  IA    6.6 226  MLv     4.71 -0.51   0.290591      
+    SMSI  IA    6.6 226  mB      4.89 -0.53    830.491      
+    SMSI  IA    6.6 226  mb      5.02 -0.30    84.7247 0.65 
+    MRSI  IA    7.2 226  MLv     5.30  0.08   0.759652      
+    MRSI  IA    7.2 226  mB      5.42 -0.00    2527.24      
+    MRSI  IA    7.2 226  mb      5.52  0.19        222 0.60 
+    SANI  IA    7.7 188  MLv     5.00 -0.22   0.293439      
+    SANI  IA    7.7 188  mB      5.29 -0.13    1759.53      
+    SANI  IA    7.7 188  mb      5.01 -0.31    68.5694 0.64 
+    TPCI  IA    7.9 230  MLv     5.79  0.56    1.63253      
+    TPCI  IA    7.9 230  mB      5.39 -0.03    2158.01      
+    TPCI  IA    7.9 230  mb      5.44  0.11    199.708 0.71 
+    LUWI  IA    7.9 213  MLv     5.50  0.28   0.829488      
+    LUWI  IA    7.9 213  mB      5.45  0.02    2450.95      
+    LUWI  IA    7.9 213  mb      5.53  0.20    288.651 0.84 
+    NLAI  IA    8.8 180  mB      5.46  0.04    2091.74      
+    NLAI  IA    8.8 180  mb      5.37  0.05    136.232 0.69 
+    MPSI  IA    8.9 234  mb      4.73 -0.60    37.4845 0.85 
+    BGCM  IA    9.2 232  mB      5.29 -0.14    1311.25      
+    BGCM  IA    9.2 232  mb      5.42  0.09    165.086 0.81 
+    SRSI  IA   10.2 218  mb      4.58 -0.75    28.9275 1.11 
+
+stageofgorontalo
+Event:
+    Public ID              bmkg2021ymam
+    Description
+      region name: Halmahera, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:44:22.7  +/-  0.7 s
+    Latitude                 2.80 deg  +/-    3 km
+    Longitude              128.07 deg  +/-    4 km
+    Depth                     125 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.83 s
+    Azimuthal gap             239 deg
+
+5 Network magnitudes:
+    mb        4.80 +/- 0.59   4            
+    mB        5.02            3            
+    Mw(mB)    4.35            3            
+    MLv       4.53 +/- 0.38   9            
+    M         4.62            9 preferred  
+
+21 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    GLMI  IA    1.0 196  P       02:44:44.6  -0.7 M  1.0  GLMI 
+    GLMI  IA    1.0 196  S       02:45:02.0  -0.7 M  1.0  GLMI 
+    MGAI  IA    1.8 311  P       02:44:54.4  -0.2 M  1.0  MGAI 
+    MGAI  IA    1.8 311  S       02:45:20.1   0.7 M  1.0  MGAI 
+    TNTI  IA    2.1 199  P       02:44:58.2  -0.0 M  1.0  TNTI 
+    TNTI  IA    2.1 199  S       02:45:26.4   0.6 M  1.0  TNTI 
+    PSSI  IA    2.7 269  P       02:45:04.7  -0.3 M  1.0  PSSI 
+    PSSI  IA    2.7 269  S       02:45:37.0  -0.8 M  1.0  PSSI 
+    SGSI  IA    2.7 289  P       02:45:05.3   0.1 M  1.0  SGSI 
+    SGSI  IA    2.7 289  S       02:45:38.0  -0.3 M  1.0  SGSI 
+    LBMI  IA    3.5 189  P       02:45:16.4   1.1 M  1.0  LBMI 
+    LBMI  IA    3.5 189  S       02:46:01.0   4.5 M  1.0  LBMI 
+    TMSI  IA    3.5 245  P       02:45:15.6  -0.1 M  1.0  TMSI 
+    TMSI  IA    3.5 245  S       02:45:56.4  -0.6 M  1.0  TMSI 
+    KMSI  IA    4.6 242  P       02:45:31.4   0.3 M  1.0  KMSI 
+    KMSI  IA    4.6 242  S       02:46:27.4   2.6 M  1.0  KMSI 
+    SANI  IA    5.2 203  P       02:45:37.4  -1.8 M  1.0  SANI 
+    SANI  IA    5.2 203  S       02:46:33.6  -5.6 M  1.0  SANI 
+    TGCM  IA    5.5 246  P       02:45:42.9   0.7 M  1.0  TGCM 
+    SMSI  IA    6.0 253  P       02:45:48.0  -1.0 M  1.0  SMSI 
+    MRSI  IA    6.5 249  P       02:45:58.3   1.6 M  1.0  MRSI 
+
+18 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    GLMI  IA    1.0 196  MLv     4.23 -0.30    14.7887      
+    MGAI  IA    1.8 311  MLv     4.14 -0.39    4.09116      
+    TNTI  IA    2.1 199  MLv     3.63 -0.89   0.874095      
+    PSSI  IA    2.7 269  MLv     4.58  0.05    3.98733      
+    SGSI  IA    2.7 289  MLv     5.22  0.69    17.0263      
+    LBMI  IA    3.5 189  MLv     4.30 -0.23   0.729328      
+    KMSI  IA    4.6 242  MLv     5.05  0.52     1.9447      
+    SANI  IA    5.2 203  MLv     4.18 -0.35   0.183653      
+    SANI  IA    5.2 203  mB      4.82 -0.20    1233.42      
+    SANI  IA    5.2 203  mb      4.21 -0.59    19.0279 0.55 
+    TGCM  IA    5.5 246  MLv     4.96  0.43   0.963352      
+    TGCM  IA    5.5 246  mB      5.21  0.18    2917.94      
+    TGCM  IA    5.5 246  mb      5.27  0.47      327.9 0.83 
+    SMSI  IA    6.0 253  MLv     4.30 -0.23   0.159289      
+    SMSI  IA    6.0 253  mb      4.38 -0.42    29.2109 0.61 
+    MRSI  IA    6.5 249  MLv     5.10  0.57   0.722075      
+    MRSI  IA    6.5 249  mB      5.04  0.02    1871.59      
+    MRSI  IA    6.5 249  mb      5.29  0.49    242.483 0.64 
+
+stageofgorontalo
+Event:
+    Public ID              bmkg2021ymec
+    Description
+      region name: Minahassa Peninsula, Sulawesi
+Origin:
+    Date                   2021-12-15
+    Time                   04:34:05.0  +/-  1.2 s
+    Latitude                 1.62 deg  +/-    7 km
+    Longitude              122.35 deg  +/-    4 km
+    Depth                      30 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.72 s
+    Azimuthal gap             255 deg
+
+4 Network magnitudes:
+    MLv       2.44 +/- 0.14   4            
+    M         2.58            4 preferred  
+    Mjma      2.77 +/- 0.37   4            
+    ML        2.67 +/- 0.11   4            
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SMSI  IA    0.6 179  P       04:34:17.8  -0.4 M  1.0  SMSI 
+    SMSI  IA    0.6 179  S       04:34:27.5  -0.7 M  1.0  SMSI 
+    MRSI  IA    1.2 200  P       04:34:30.1   4.2 M  1.0  MRSI 
+    MRSI  IA    1.2 200  S       04:34:42.4   0.5 M  1.0  MRSI 
+    TGCM  IA    1.3 147  P       04:34:27.1  -0.3 M  1.0  TGCM 
+    TGCM  IA    1.3 147  S       04:34:43.1  -1.3 M  1.0  TGCM 
+    TOLI2 IA    1.7 252  P       04:34:31.7  -0.3 M  1.0  TOLI2
+    TOLI2 IA    1.7 252  S       04:34:51.1  -1.7 M  1.0  TOLI2
+
+12 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SMSI  IA    0.6 179  ML      2.57 -0.10   0.522323      
+    SMSI  IA    0.6 179  MLv     2.22 -0.22   0.233268      
+    SMSI  IA    0.6 179  Mjma    2.11 -0.67        N/A  N/A 
+    MRSI  IA    1.2 200  ML      2.75  0.07   0.373832      
+    MRSI  IA    1.2 200  MLv     2.41 -0.02   0.172534      
+    MRSI  IA    1.2 200  Mjma    2.85  0.08        N/A  N/A 
+    TGCM  IA    1.3 147  ML      2.79  0.11    0.35978      
+    TGCM  IA    1.3 147  MLv     2.58  0.14    0.22066      
+    TGCM  IA    1.3 147  Mjma    2.95  0.17        N/A  N/A 
+    TOLI2 IA    1.7 252  ML      2.59 -0.08   0.149611      
+    TOLI2 IA    1.7 252  MLv     2.50  0.06   0.120925      
+    TOLI2 IA    1.7 252  Mjma    2.94  0.17        N/A  N/A 
+
+stageofgorontalo

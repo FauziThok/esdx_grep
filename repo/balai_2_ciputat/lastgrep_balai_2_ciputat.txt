@@ -1,0 +1,40 @@
+Event:
+    Public ID              bmkg2021ymag
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:36:36.0  +/-    1.4 s
+    Latitude                -7.70 deg  +/-   10 km
+    Longitude              106.47 deg  +/-    6 km
+    Depth                      19 km   +/-    8 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.17 s
+    Azimuthal gap             308 deg
+
+2 Network magnitudes:
+    MLv       2.64 +/- 0.30   5            
+    M         2.64            5 preferred  
+
+8 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    CSJI  IA    0.4   8  P       02:36:44.9  -0.1 M  1.0  CSJI 
+    CSJI  IA    0.4   8  S       02:36:51.8   0.2 M  1.0  CSJI 
+    SKJI  IA    0.7   7  P       02:36:49.8  -0.3 M  1.0  SKJI 
+    CNJI  IA    0.8  59  P       02:36:51.1   0.0 M  1.0  CNJI 
+    CNJI  IA    0.8  59  S       02:37:02.1  -0.1 M  1.0  CNJI 
+    CCJM  IA    1.0  44  P       02:36:54.0  -0.0 M  1.0  CCJM 
+    CCJM  IA    1.0  44  S       02:37:07.3  -0.1 M  1.0  CCJM 
+    CBJM  IA    1.2  49  P       02:36:57.5   0.3 M  1.0  CBJM 
+
+5 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    CSJI  IA    0.4   8  MLv     2.59 -0.05    1.77085      
+    SKJI  IA    0.7   7  MLv     2.74  0.10   0.707882      
+    CNJI  IA    0.8  59  MLv     2.46 -0.19   0.341728      
+    CCJM  IA    1.0  44  MLv     3.31  0.67    1.91653      
+    CBJM  IA    1.2  49  MLv     2.34 -0.30   0.156799      
+
+Balai2Ciputat

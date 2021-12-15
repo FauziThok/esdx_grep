@@ -1,0 +1,46 @@
+Event:
+    Public ID              bmkg2021ylzy
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:28:07.9  +/-    0.9 s
+    Latitude                -0.24 deg  +/-      5 km
+    Longitude               98.66 deg  +/-      7 km
+    Depth                      42 km   +/-   18 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.73 s
+    Azimuthal gap             137 deg
+
+2 Network magnitudes:
+    MLv       3.58 +/- 0.31   7            
+    M         3.58            7 preferred  
+
+12 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PBSI  IA    0.4 295  P       02:28:19.1  -0.0 M  1.0  PBSI 
+    PBSI  IA    0.4 295  S       02:28:27.8   0.1 M  1.0  PBSI 
+    SISI  IA    1.2 158  P       02:28:27.5  -0.2 M  1.0  SISI 
+    PABI  IA    1.3  73  P       02:28:28.0  -1.1 M  1.0  PABI 
+    MNSI  IA    1.4  42  P       02:28:30.7   0.0 M  1.0  MNSI 
+    SMSM  IA    1.5  81  P       02:28:32.8   0.1 M  1.0  SMSM 
+    SMSM  IA    1.5  81  S       02:28:51.4  -0.5 M  1.0  SMSM 
+    MPSM  IA    1.7  61  P       02:28:34.9  -0.0 M  1.0  MPSM 
+    PPI   IA    1.7  97  P       02:28:36.4   0.7 M  1.0  PPI  
+    PLSI  IA    2.0  76  P       02:28:38.8   0.3 M  1.0  PLSI 
+    JPSI  IA    2.2 120  P       02:28:43.9   1.7 M  1.0  JPSI 
+    PPSI  IA    2.9 152  P       02:28:49.7  -1.2 M  1.0  PPSI 
+
+7 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PBSI  IA    0.4 295  MLv     3.33 -0.25    7.11725     
+    PABI  IA    1.3  73  MLv     3.47 -0.10    1.87742     
+    MNSI  IA    1.4  42  MLv     3.88  0.30    4.08948     
+    SMSM  IA    1.5  81  MLv     3.67  0.09    2.09014     
+    PPI   IA    1.7  97  MLv     3.17 -0.41   0.498143     
+    PLSI  IA    2.0  76  MLv     3.47 -0.11   0.765149     
+    PPSI  IA    2.9 152  MLv     4.08  0.50    0.98395     
+
+stageofkepahiang

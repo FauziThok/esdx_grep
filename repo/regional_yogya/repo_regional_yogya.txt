@@ -1,0 +1,590 @@
+Event:
+    Public ID              bmkg2021yipn
+    Description
+      region name: South of Java, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   05:46:57.4  +/-    0.5 s
+    Latitude                -9.70 deg  +/-      5 km
+    Longitude              113.62 deg  +/-      2 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.82 s
+    Azimuthal gap             204 deg
+
+5 Network magnitudes:
+    mb        5.40 +/- 0.33   7            
+    mB        5.66 +/- 0.29   5            
+    Mw(mB)    5.18 +/- 0.40   5            
+    MLv       5.37 +/- 0.27  24 preferred  
+    M         5.33           24            
+
+38 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    JAGI  IA    1.3  23  P       05:47:21.0  -0.5 M  1.0  JAGI 
+    GMJI  IA    1.4 353  P       05:47:22.0  -1.0 M  1.0  GMJI 
+    GEJI  IA    1.6 323  P       05:47:23.9  -1.6 M  1.0  GEJI 
+    IGBI  IA    1.7  60  P       05:47:26.8  -0.7 M  1.0  IGBI 
+    RTBI  IA    1.8  47  P       05:47:29.0   0.7 M  1.0  RTBI 
+    RTBI  IA    1.8  47  S       05:47:51.1  -0.7 M  1.0  RTBI 
+    DNP   IA    1.9  57  P       05:47:30.1   0.8 M  1.0  DNP  
+    BLJI  IA    1.9 359  P       05:47:31.1   0.6 M  1.0  BLJI 
+    ABJI  IA    2.0  18  P       05:47:31.1   0.0 M  1.0  ABJI 
+    ABJI  IA    2.0  18  S       05:47:56.8  -0.1 M  1.0  ABJI 
+    SRBI  IA    2.2  44  P       05:47:34.8   0.1 M  1.0  SRBI 
+    KMMI  IA    2.7   6  P       05:47:40.0  -0.3 M  1.0  KMMI 
+    SWJI  IA    2.7 317  P       05:47:39.6  -1.0 M  1.0  SWJI 
+    PCJI  IA    2.8 302  P       05:47:42.9   0.0 M  1.0  PCJI 
+    GRJI  IA    3.0 338  P       05:47:45.2   0.3 M  1.0  GRJI 
+    NGJI  IA    3.2 317  P       05:47:48.3   1.2 M  1.0  NGJI 
+    PRJI  IA    3.2 300  P       05:47:47.9  -0.3 M  1.0  PRJI 
+    WOJI  IA    3.2 305  P       05:47:47.6  -0.9 M  1.0  WOJI 
+    GKJM  IA    3.5 301  P       05:47:51.8  -0.4 M  1.0  GKJM 
+    KBJM  IA    3.5 318  P       05:47:58.2   5.7 AX 0.0  KBJM 
+    UGM   IA    3.5 300  P       05:47:52.2  -0.3 M  1.0  UGM  
+    DWIKO IA    3.6 298  P       05:47:53.6   0.4 M  1.0  DWIKO
+    BOJI  IA    3.6 306  P       05:47:53.5   0.3 A  1.0  BOJI 
+    SBJM  IA    3.7 297  P       05:47:57.1   1.9 A  1.0  SBJM 
+    JWJM  IA    3.8 311  P       05:47:55.9   0.0 A  1.0  JWJM 
+    SMRI  IA    4.1 310  P       05:48:00.1  -0.2 A  1.0  SMRI 
+    KWJI  IA    4.3 302  P       05:48:02.4  -0.3 A  1.0  KWJI 
+    BPJI  IA    4.4 306  P       05:48:00.0  -4.7 AX 0.0  BPJI 
+    SCJI  IA    4.8 294  P       05:48:10.4   0.0 M  1.0  SCJI 
+    SCJI  IA    4.8 294  S       05:48:59.5  -8.1 MX 0.0  SCJI 
+    CTJI  IA    5.1 301  P       05:48:16.7   2.1 A  1.0  CTJI 
+    CMJI  IA    5.5 290  P       05:48:18.2  -0.7 A  1.0  CMJI 
+    CNJI  IA    6.8 290  P       05:48:38.2   0.2 A  1.0  CNJI 
+    CBJI  IA    7.3 294  P       05:48:46.3   2.6 AX 0.0  CBJI 
+    KAPI  II    7.7  53  P       05:48:49.4   0.3 A  1.0  KAPI 
+    XMI   AU    7.9 264  P       05:48:50.3  -1.4 A  1.0  XMI  
+    PMSI  IA    8.1  41  P       05:48:55.1  -0.0 A  1.0  PMSI 
+    STKI  IA    9.9 347  P       05:49:21.8   1.4 A  1.0  STKI 
+
+30 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    JAGI  IA    1.3  23  MLv     5.11 -0.26    73.5106     
+    GMJI  IA    1.4 353  MLv     5.16 -0.21    72.3397     
+    GEJI  IA    1.6 323  MLv     4.98 -0.38    38.6997     
+    IGBI  IA    1.7  60  MLv     5.22 -0.15    55.9125     
+    RTBI  IA    1.8  47  MLv     5.49  0.12    97.7522     
+    DNP   IA    1.9  57  MLv     5.80  0.43    180.901     
+    BLJI  IA    1.9 359  MLv     5.04 -0.32    28.7411     
+    ABJI  IA    2.0  18  MLv     5.00 -0.37      24.57     
+    SRBI  IA    2.2  44  MLv     5.31 -0.06    36.1456     
+    PCJI  IA    2.8 302  MLv     5.62  0.26     34.671     
+    NGJI  IA    3.2 317  MLv     5.53  0.16    18.6316     
+    WOJI  IA    3.2 305  MLv     5.62  0.26    20.6027     
+    UGM   IA    3.5 300  MLv     5.67  0.30    15.7056     
+    BOJI  IA    3.6 306  MLv     5.25 -0.12    5.56306     
+    SBJM  IA    3.7 297  MLv     5.73  0.36     15.511     
+    JWJM  IA    3.8 311  MLv     5.13 -0.23    3.84922     
+    SMRI  IA    4.1 310  MLv     5.18 -0.19    3.54728     
+    KWJI  IA    4.3 302  MLv     5.40  0.04    5.38398     
+    CTJI  IA    5.1 301  mB      5.39 -0.27     3609.5     
+    CTJI  IA    5.1 301  mb      5.26 -0.14    245.241 0.81
+    CMJI  IA    5.5 290  MLv     5.45  0.09    3.07907     
+    CMJI  IA    5.5 290  mB      5.88  0.22    10241.7     
+    CMJI  IA    5.5 290  mb      5.57  0.17    387.012 0.67
+    CNJI  IA    6.8 290  MLv     5.56  0.19    1.75516     
+    CNJI  IA    6.8 290  mb      5.46  0.06    257.429 0.77
+    KAPI  II    7.7  53  MLv     5.04 -0.33   0.330928     
+    XMI   AU    7.9 264  mb      5.77  0.37    420.246 0.70
+    PMSI  IA    8.1  41  MLv     5.76  0.40    1.34998     
+    PMSI  IA    8.1  41  mB      5.74  0.08    4646.14     
+    STKI  IA    9.9 347  mb      4.95 -0.45    53.5664 0.84
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021yjnp
+    Description
+      region name: South of Java, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   17:57:24.7  +/-    0.8 s
+    Latitude                -9.01 deg  +/-      3 km
+    Longitude              110.39 deg  +/-      4 km
+    Depth                       8 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.46 s
+    Azimuthal gap             171 deg
+
+2 Network magnitudes:
+    MLv       3.11 +/- 0.33   9 preferred  
+    M         3.11            9            
+
+17 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    DWIKO IA    1.0   1  P       17:57:43.5  -0.3 M  1.0  DWIKO
+    DWIKO IA    1.0   1  S       17:57:59.0   1.2 M  1.0  DWIKO
+    PRJI  IA    1.0  23  P       17:57:43.6  -0.5 M  1.0  PRJI 
+    UGM   IA    1.1   7  P       17:57:45.8   0.4 M  1.0  UGM  
+    UGM   IA    1.1   7  S       17:58:00.0  -0.7 M  1.0  UGM  
+    PCJI  IA    1.1  44  P       17:57:45.6  -0.2 M  1.0  PCJI 
+    PCJI  IA    1.1  44  S       17:58:01.5   0.3 M  1.0  PCJI 
+    GKJM  IA    1.2  10  P       17:57:46.7   0.0 M  1.0  GKJM 
+    GKJM  IA    1.2  10  S       17:58:02.3  -0.6 M  1.0  GKJM 
+    YOGI  IA    1.2 355  P       17:57:46.6  -0.2 M  1.0  YOGI 
+    WOJI  IA    1.3  24  P       17:57:48.3   0.1 M  1.0  WOJI 
+    BOJI  IA    1.5  12  P       17:57:51.2   0.2 M  1.0  BOJI 
+    BOJI  IA    1.5  12  S       17:58:10.5  -0.2 M  1.0  BOJI 
+    SWJI  IA    1.9  47  P       17:57:57.2   0.5 M  1.0  SWJI 
+    CMJI  IA    2.3 302  P       17:57:55.5  -7.1 MX 0.0  CMJI 
+    JAGI  IA    3.8  82  P       17:58:22.8  -0.1 M  1.0  JAGI 
+    XMI   AU    4.9 253  P       17:58:38.1   0.1 M  1.0  XMI  
+
+9 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PRJI  IA    1.0  23  MLv     2.96 -0.15   0.775367     
+    UGM   IA    1.1   7  MLv     3.01 -0.11   0.775425     
+    PCJI  IA    1.1  44  MLv     2.90 -0.21   0.588271     
+    GKJM  IA    1.2  10  MLv     2.83 -0.28   0.472129     
+    YOGI  IA    1.2 355  MLv     3.09 -0.02   0.844686     
+    WOJI  IA    1.3  24  MLv     2.80 -0.31   0.387313     
+    BOJI  IA    1.5  12  MLv     3.10 -0.01   0.610028     
+    SWJI  IA    1.9  47  MLv     3.68  0.57    1.40534     
+    JAGI  IA    3.8  82  MLv     3.74  0.63   0.157682     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ykbm
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   00:58:18.6  +/-    0.8 s
+    Latitude                -7.94 deg  +/-      3 km
+    Longitude              110.46 deg  +/-      3 km
+    Depth                      18 km   +/-    5 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.49 s
+    Azimuthal gap             107 deg
+
+2 Network magnitudes:
+    MLv       1.85 +/- 0.68   3 preferred  
+    M         1.85            3            
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    UGM   IA    0.1  67  P       00:58:23.6   0.9 M  1.0  UGM  
+    DWIKO IA    0.1 213  P       00:58:23.4   0.4 M  1.0  DWIKO
+    DWIKO IA    0.1 213  S       00:58:26.1  -0.1 M  1.0  DWIKO
+    GKJM  IA    0.2  53  P       00:58:24.6   0.3 M  1.0  GKJM 
+    GKJM  IA    0.2  53  S       00:58:28.0  -0.4 M  1.0  GKJM 
+    SBJM  IA    0.2 261  S       00:58:29.1  -0.2 M  1.0  SBJM 
+    YOGI  IA    0.2 307  S       00:58:29.2  -0.4 M  1.0  YOGI 
+    PRJI  IA    0.4 112  P       00:58:32.8   5.6 MX 0.0  PRJI 
+    PCJI  IA    0.8 110  P       00:58:33.8   0.2 M  1.0  PCJI 
+    PCJI  IA    0.8 110  S       00:58:43.7  -0.8 M  1.0  PCJI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    UGM   IA    0.1  67  MLv     1.52 -0.33    1.07118     
+    DWIKO IA    0.1 213  MLv     1.39 -0.46   0.717343     
+    PCJI  IA    0.8 110  MLv     2.63  0.79   0.516916     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ykuz
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   10:49:32.9  +/-    0.6 s
+    Latitude                -8.57 deg  +/-     11 km
+    Longitude              111.50 deg  +/-      3 km
+    Depth                      81 km   +/-    8 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.59 s
+    Azimuthal gap             214 deg
+
+2 Network magnitudes:
+    MLv       3.21 +/- 0.21  10 preferred  
+    M         3.21           10            
+
+24 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PCJI  IA    0.5 320  P       10:49:47.4  -0.7 M  1.0  PCJI 
+    PCJI  IA    0.5 320  S       10:50:00.0   0.2 M  1.0  PCJI 
+    PRJI  IA    0.9 305  P       10:49:50.6  -0.3 M  1.0  PRJI 
+    PRJI  IA    0.9 305  S       10:50:05.3   0.5 M  1.0  PRJI 
+    SWJI  IA    0.9  18  P       10:49:51.9   0.9 M  1.0  SWJI 
+    SWJI  IA    0.9  18  S       10:50:05.1   0.2 M  1.0  SWJI 
+    WOJI  IA    0.9 322  P       10:49:51.7   0.2 M  1.0  WOJI 
+    WOJI  IA    0.9 322  S       10:50:06.3   0.6 M  1.0  WOJI 
+    GEJI  IA    1.1  82  P       10:49:54.3   0.5 M  1.0  GEJI 
+    GEJI  IA    1.1  82  S       10:50:09.2  -0.8 M  1.0  GEJI 
+    GKJM  IA    1.2 309  P       10:49:54.3   0.3 M  1.0  GKJM 
+    GKJM  IA    1.2 309  S       10:50:09.0  -1.1 M  1.0  GKJM 
+    UGM   IA    1.2 304  P       10:49:53.5  -0.6 M  1.0  UGM  
+    UGM   IA    1.2 304  S       10:50:10.2  -0.2 M  1.0  UGM  
+    DWIKO IA    1.2 297  P       10:49:54.1  -0.5 M  1.0  DWIKO
+    DWIKO IA    1.2 297  S       10:50:11.3  -0.1 M  1.0  DWIKO
+    BOJI  IA    1.3 321  P       10:49:56.5   1.0 M  1.0  BOJI 
+    MKJM  IA    1.4 312  P       10:49:55.7  -0.7 M  1.0  MKJM 
+    SBJM  IA    1.4 296  P       10:49:57.5   1.0 M  1.0  SBJM 
+    SBJM  IA    1.4 296  S       10:50:14.8   0.0 M  1.0  SBJM 
+    YOGI  IA    1.4 302  P       10:50:01.3   4.1 MX 0.0  YOGI 
+    YOGI  IA    1.4 302  S       10:50:15.1  -0.9 MX 0.0  YOGI 
+    GMJI  IA    1.9  81  P       10:50:03.8  -0.3 M  1.0  GMJI 
+    GMJI  IA    1.9  81  S       10:50:28.4  -0.0 M  1.0  GMJI 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PRJI  IA    0.9 305  MLv     3.48  0.27    3.18035     
+    SWJI  IA    0.9  18  MLv     3.64  0.44      4.532     
+    WOJI  IA    0.9 322  MLv     2.85 -0.36   0.677051     
+    GEJI  IA    1.1  82  MLv     3.41  0.20     1.8676     
+    GKJM  IA    1.2 309  MLv     2.94 -0.27   0.630369     
+    UGM   IA    1.2 304  MLv     3.19 -0.02    1.09349     
+    DWIKO IA    1.2 297  MLv     3.14 -0.07   0.921603     
+    BOJI  IA    1.3 321  MLv     3.13 -0.08   0.823772     
+    MKJM  IA    1.4 312  MLv     3.16 -0.05   0.800321     
+    GMJI  IA    1.9  81  MLv     3.19 -0.02   0.402914     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ylav
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   13:46:28.6  +/-    1.4 s
+    Latitude                -7.96 deg  +/-      3 km
+    Longitude              110.48 deg  +/-      3 km
+    Depth                      12 km   +/-    7 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.45 s
+    Azimuthal gap             167 deg
+
+2 Network magnitudes:
+    MLv       1.42 +/- 0.38   4 preferred  
+    M         1.42            4            
+
+8 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    UGM   IA    0.1  41  P       13:46:32.1   0.2 M  1.0  UGM  
+    UGM   IA    0.1  41  S       13:46:34.8   0.7 M  1.0  UGM  
+    DWIKO IA    0.1 234  P       13:46:32.0  -0.0 M  1.0  DWIKO
+    DWIKO IA    0.1 234  S       13:46:34.5  -0.0 M  1.0  DWIKO
+    GKJM  IA    0.2  43  P       13:46:32.9  -0.6 M  1.0  GKJM 
+    GKJM  IA    0.2  43  S       13:46:36.5  -0.6 M  1.0  GKJM 
+    PRJI  IA    0.3 109  P       13:46:36.9   0.6 M  1.0  PRJI 
+    PRJI  IA    0.3 109  S       13:46:41.5  -0.3 M  1.0  PRJI 
+
+4 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    UGM   IA    0.1  41  MLv     1.50  0.07    1.02442     
+    DWIKO IA    0.1 234  MLv     1.17 -0.25   0.448989     
+    GKJM  IA    0.2  43  MLv     1.16 -0.26   0.252828     
+    PRJI  IA    0.3 109  MLv     2.04  0.62   0.675129     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ylhp
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   17:11:04.8  +/-    0.6 s
+    Latitude                -8.16 deg  +/-      9 km
+    Longitude              112.05 deg  +/-      2 km
+    Depth                     131 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.38 s
+    Azimuthal gap             155 deg
+
+2 Network magnitudes:
+    MLv       3.00 +/- 0.11  10 preferred  
+    M         3.00           10            
+
+21 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    SWJI  IA    0.5 326  P       17:11:24.6  -0.7 M  1.0  SWJI 
+    SWJI  IA    0.5 326  S       17:11:41.4   0.2 M  1.0  SWJI 
+    GEJI  IA    0.6 113  P       17:11:25.6  -0.3 M  1.0  GEJI 
+    GEJI  IA    0.6 113  S       17:11:42.3   0.0 M  1.0  GEJI 
+    PCJI  IA    0.9 268  P       17:11:27.8   0.6 M  1.0  PCJI 
+    PCJI  IA    0.9 268  S       17:11:44.4  -0.1 M  1.0  PCJI 
+    NGJI  IA    1.0 323  P       17:11:28.5   0.7 M  1.0  NGJI 
+    PRJI  IA    1.3 274  P       17:11:30.9   0.4 M  1.0  PRJI 
+    PRJI  IA    1.3 274  S       17:11:50.4  -0.0 M  1.0  PRJI 
+    GMJI  IA    1.4  95  P       17:11:32.6   0.7 M  1.0  GMJI 
+    GMJI  IA    1.4  95  S       17:11:53.2   0.2 M  1.0  GMJI 
+    GKJM  IA    1.5 282  P       17:11:32.7  -0.3 M  1.0  GKJM 
+    GKJM  IA    1.5 282  S       17:11:54.7  -0.2 M  1.0  GKJM 
+    UGM   IA    1.5 279  P       17:11:33.6   0.0 M  1.0  UGM  
+    UGM   IA    1.5 279  S       17:11:55.8  -0.1 M  1.0  UGM  
+    BLJI  IA    1.6  75  P       17:11:34.4   0.2 M  1.0  BLJI 
+    DWIKO IA    1.6 275  P       17:11:34.5  -0.1 M  1.0  DWIKO
+    DWIKO IA    1.6 275  S       17:11:57.5  -0.3 M  1.0  DWIKO
+    JAGI  IA    2.1  99  P       17:11:40.0  -0.1 M  1.0  JAGI 
+    JAGI  IA    2.1  99  S       17:12:07.1  -0.6 M  1.0  JAGI 
+    KMMI  IA    2.2  59  P       17:11:40.5  -0.4 M  1.0  KMMI 
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    SWJI  IA    0.5 326  MLv     2.95 -0.05    1.69811     
+    PCJI  IA    0.9 268  MLv     3.05  0.05    1.17502     
+    NGJI  IA    1.0 323  MLv     2.86 -0.14   0.649265     
+    PRJI  IA    1.3 274  MLv     3.07  0.07   0.746826     
+    GMJI  IA    1.4  95  MLv     2.87 -0.13   0.398589     
+    GKJM  IA    1.5 282  MLv     2.89 -0.11   0.372572     
+    UGM   IA    1.5 279  MLv     3.17  0.17   0.656947     
+    BLJI  IA    1.6  75  MLv     2.94 -0.06   0.362201     
+    DWIKO IA    1.6 275  MLv     3.14  0.14   0.547708     
+    KMMI  IA    2.2  59  MLv     3.07  0.07   0.232317     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ylnj
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   20:06:30.8  +/-    0.5 s
+    Latitude                -8.94 deg  +/-      5 km
+    Longitude              112.47 deg  +/-      2 km
+    Depth                      68 km   +/-    8 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.58 s
+    Azimuthal gap             220 deg
+
+2 Network magnitudes:
+    MLv       3.32 +/- 0.18  10 preferred  
+    M         3.32           10            
+
+21 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    GEJI  IA    0.6  18  P       20:06:45.5   0.1 M  1.0  GEJI 
+    GEJI  IA    0.6  18  S       20:06:56.9   0.4 M  1.0  GEJI 
+    GMJI  IA    1.2  55  P       20:06:51.3  -0.1 M  1.0  GMJI 
+    GMJI  IA    1.2  55  S       20:07:07.4   0.1 M  1.0  GMJI 
+    SWJI  IA    1.4 330  P       20:06:55.5   1.2 M  1.0  SWJI 
+    PCJI  IA    1.5 300  P       20:06:55.6   0.1 M  1.0  PCJI 
+    PCJI  IA    1.5 300  S       20:07:14.1  -0.5 M  1.0  PCJI 
+    BLJI  IA    1.6  43  P       20:06:57.4  -0.1 M  1.0  BLJI 
+    BLJI  IA    1.6  43  S       20:07:18.1  -0.0 M  1.0  BLJI 
+    JAGI  IA    1.7  74  P       20:06:58.3  -0.4 M  1.0  JAGI 
+    JAGI  IA    1.7  74  S       20:07:18.9  -1.5 M  1.0  JAGI 
+    PRJI  IA    1.9 297  P       20:07:01.0   0.2 M  1.0  PRJI 
+    PRJI  IA    1.9 297  S       20:07:23.8  -0.2 M  1.0  PRJI 
+    BYJI  IA    2.0  69  P       20:07:03.7   1.3 M  1.0  BYJI 
+    GRJI  IA    2.0   0  P       20:07:02.5  -0.1 M  1.0  GRJI 
+    GRJI  IA    2.0   0  S       20:07:27.3  -0.1 M  1.0  GRJI 
+    ABJI  IA    2.1  57  S       20:07:29.4   0.3 M  1.0  ABJI 
+    GKJM  IA    2.2 300  P       20:07:04.9   0.3 M  1.0  GKJM 
+    UGM   IA    2.2 298  P       20:07:04.6  -0.3 M  1.0  UGM  
+    UGM   IA    2.2 298  S       20:07:30.7  -0.8 M  1.0  UGM  
+    DWIKO IA    2.2 294  P       20:07:05.9   0.3 M  1.0  DWIKO
+
+10 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    GEJI  IA    0.6  18  MLv     3.20 -0.12    2.46376     
+    GMJI  IA    1.2  55  MLv     3.01 -0.31   0.723183     
+    PCJI  IA    1.5 300  MLv     3.13 -0.19   0.637743     
+    BLJI  IA    1.6  43  MLv     3.29 -0.03   0.764883     
+    PRJI  IA    1.9 297  MLv     3.54  0.22    1.00057     
+    BYJI  IA    2.0  69  MLv     3.38  0.07   0.592622     
+    GRJI  IA    2.0   0  MLv     3.29 -0.03   0.458615     
+    GKJM  IA    2.2 300  MLv     3.18 -0.14   0.301919     
+    UGM   IA    2.2 298  MLv     3.69  0.37   0.949739     
+    DWIKO IA    2.2 294  MLv     3.49  0.17   0.559831     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021yltl
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   23:10:48.0  +/-    0.6 s
+    Latitude                -7.95 deg  +/-      3 km
+    Longitude              110.47 deg  +/-      2 km
+    Depth                      18 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.54 s
+    Azimuthal gap             112 deg
+
+2 Network magnitudes:
+    MLv       1.81 +/- 0.41   7 preferred  
+    M         1.81            7            
+
+13 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    UGM   IA    0.1  55  P       23:10:52.9   0.8 M  1.0  UGM  
+    UGM   IA    0.1  55  S       23:10:55.4   0.3 M  1.0  UGM  
+    DWIKO IA    0.1 223  P       23:10:52.8   0.3 M  1.0  DWIKO
+    DWIKO IA    0.1 223  S       23:10:55.3  -0.5 M  1.0  DWIKO
+    GKJM  IA    0.2  48  P       23:10:54.0   0.3 M  1.0  GKJM 
+    GKJM  IA    0.2  48  S       23:10:57.3  -0.4 M  1.0  GKJM 
+    YOGI  IA    0.2 307  P       23:10:55.2   0.6 M  1.0  YOGI 
+    YOGI  IA    0.2 307  S       23:10:59.1  -0.4 M  1.0  YOGI 
+    PRJI  IA    0.3 111  P       23:10:57.0   0.5 M  1.0  PRJI 
+    PRJI  IA    0.3 111  S       23:11:02.5  -0.2 M  1.0  PRJI 
+    BOJI  IA    0.4  30  P       23:10:56.9  -1.1 M  1.0  BOJI 
+    PCJI  IA    0.7 109  P       23:11:03.1   0.3 M  1.0  PCJI 
+    PCJI  IA    0.7 109  S       23:11:13.0  -0.6 M  1.0  PCJI 
+
+5 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    UGM   IA    0.1  55  MLv     1.36 -0.45   0.770386     
+    GKJM  IA    0.2  48  MLv     1.50 -0.31   0.565452     
+    YOGI  IA    0.2 307  MLv     1.91  0.11    1.00942     
+    PRJI  IA    0.3 111  MLv     1.94  0.14   0.500161     
+    BOJI  IA    0.4  30  MLv     2.29  0.48     0.5955     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ylty
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   23:26:01.6  +/-    0.7 s
+    Latitude                -7.93 deg  +/-      4 km
+    Longitude              110.46 deg  +/-      3 km
+    Depth                      20 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.68 s
+    Azimuthal gap             111 deg
+
+2 Network magnitudes:
+    MLv       1.54 +/- 0.54   5            
+    M         1.54            5 preferred  
+
+9 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    UGM   IA    0.1  73  P       23:26:06.9   0.8 M  1.0  UGM  
+    UGM   IA    0.1  73  S       23:26:09.4   0.1 M  1.0  UGM  
+    DWIKO IA    0.1 210  P       23:26:07.2   0.7 M  1.0  DWIKO
+    DWIKO IA    0.1 210  S       23:26:09.6  -0.4 M  1.0  DWIKO
+    GKJM  IA    0.2  55  P       23:26:08.1   0.6 M  1.0  GKJM 
+    GKJM  IA    0.2  55  S       23:26:11.2  -0.6 M  1.0  GKJM 
+    YOGI  IA    0.2 305  P       23:26:07.3  -0.8 M  1.0  YOGI 
+    PCJI  IA    0.8 110  P       23:26:17.2   0.6 M  1.0  PCJI 
+    PCJI  IA    0.8 110  S       23:26:26.5  -1.1 M  1.0  PCJI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    UGM   IA    0.1  73  MLv     1.33 -0.22   0.704653     
+    GKJM  IA    0.2  55  MLv     1.19 -0.35   0.282025     
+    YOGI  IA    0.2 305  MLv     1.81  0.26   0.897148     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ylty
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   23:26:33.0  +/-    0.7 s
+    Latitude                -7.94 deg  +/-      3 km
+    Longitude              110.47 deg  +/-      2 km
+    Depth                      18 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.43 s
+    Azimuthal gap             107 deg
+
+2 Network magnitudes:
+    MLv       1.54 +/- 0.55   5 preferred  
+    M         1.54            5            
+
+10 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    UGM   IA    0.1  64  P       23:26:37.9   0.7 M  1.0  UGM  
+    UGM   IA    0.1  64  S       23:26:40.4   0.2 M  1.0  UGM  
+    DWIKO IA    0.1 217  P       23:26:38.0   0.4 M  1.0  DWIKO
+    DWIKO IA    0.1 217  S       23:26:40.6  -0.2 M  1.0  DWIKO
+    GKJM  IA    0.2  52  P       23:26:38.8   0.1 M  1.0  GKJM 
+    GKJM  IA    0.2  52  S       23:26:42.3  -0.5 M  1.0  GKJM 
+    YOGI  IA    0.2 306  P       23:26:39.8   0.3 M  1.0  YOGI 
+    YOGI  IA    0.2 306  S       23:26:43.6  -0.5 M  1.0  YOGI 
+    PCJI  IA    0.7 110  P       23:26:47.9   0.1 M  1.0  PCJI 
+    PCJI  IA    0.7 110  S       23:26:58.2  -0.6 M  1.0  PCJI 
+
+3 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    UGM   IA    0.1  64  MLv     1.27 -0.27   0.620987     
+    DWIKO IA    0.1 217  MLv     1.20 -0.34   0.453424     
+    YOGI  IA    0.2 306  MLv     1.84  0.31   0.916788     
+
+Balai7Yogyakarta
+Event:
+    Public ID              bmkg2021ymem
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   04:45:50.4  +/-    0.3 s
+    Latitude                -7.05 deg  +/-      3 km
+    Longitude              111.89 deg  +/-      2 km
+    Depth                      13 km   +/-    4 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.33 s
+    Azimuthal gap              89 deg
+
+2 Network magnitudes:
+    MLv       3.25 +/- 0.24  13 preferred  
+    M         3.25           13            
+
+21 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    NGJI  IA    0.5 233  P       04:46:01.7   0.2 M  1.0  NGJI 
+    GRJI  IA    0.6  77  P       04:46:02.8   0.0 M  1.0  GRJI 
+    GGJM  IA    0.7 260  P       04:46:04.1  -0.2 M  1.0  GGJM 
+    SWJI  IA    0.7 190  P       04:46:04.2  -0.1 M  1.0  SWJI 
+    UWJI  IA    1.1 304  P       04:46:10.6  -0.7 M  1.0  UWJI 
+    UWJI  IA    1.1 304  S       04:46:26.9   0.1 M  1.0  UWJI 
+    JWJM  IA    1.2 262  P       04:46:12.0   0.2 M  1.0  JWJM 
+    JWJM  IA    1.2 262  S       04:46:27.8   0.1 M  1.0  JWJM 
+    BOJI  IA    1.3 247  P       04:46:14.2   0.3 M  1.0  BOJI 
+    PCJI  IA    1.3 212  P       04:46:13.8  -0.6 M  1.0  PCJI 
+    PCJI  IA    1.3 212  S       04:46:32.6   0.1 M  1.0  PCJI 
+    BWJI  IA    1.4  33  P       04:46:15.8   0.3 M  1.0  BWJI 
+    PRJI  IA    1.5 227  P       04:46:16.8   0.2 M  1.0  PRJI 
+    GKJM  IA    1.5 238  P       04:46:17.1   0.2 M  1.0  GKJM 
+    GKJM  IA    1.5 238  S       04:46:36.4  -0.5 M  1.0  GKJM 
+    GEJI  IA    1.5 151  P       04:46:17.5   0.1 M  1.0  GEJI 
+    UGM   IA    1.6 238  P       04:46:18.9   0.7 M  1.0  UGM  
+    DWIKO IA    1.7 237  P       04:46:20.4   0.1 M  1.0  DWIKO
+    BLJI  IA    1.8 112  P       04:46:21.4  -0.1 M  1.0  BLJI 
+    ABJI  IA    2.4 108  P       04:46:29.8  -0.2 M  1.0  ABJI 
+    XMI   AU    7.0 241  P       04:47:19.8 -12.9 MX 0.0  XMI  
+
+11 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    NGJI  IA    0.5 233  MLv     3.13 -0.11     2.2941     
+    SWJI  IA    0.7 190  MLv     3.60  0.35    5.15166     
+    UWJI  IA    1.1 304  MLv     3.04 -0.20   0.826196     
+    BOJI  IA    1.3 247  MLv     3.23 -0.02    1.01088     
+    PCJI  IA    1.3 212  MLv     3.10 -0.14   0.716667     
+    PRJI  IA    1.5 227  MLv     3.28  0.03   0.892729     
+    GKJM  IA    1.5 238  MLv     3.03 -0.22   0.491656     
+    GEJI  IA    1.5 151  MLv     3.72  0.47    2.25915     
+    UGM   IA    1.6 238  MLv     3.33  0.08   0.865145     
+    DWIKO IA    1.7 237  MLv     3.12 -0.12   0.449213     
+    ABJI  IA    2.4 108  MLv     3.10 -0.15   0.175578     
+
+Balai7Yogyakarta

@@ -1,0 +1,64 @@
+Event:
+    Public ID              bmkg2021ymag
+    Description
+      region name: Java, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:36:35.9  +/-  1.0 s
+    Latitude                -7.71 deg  +/-    5 km
+    Longitude              106.50 deg  +/-    5 km
+    Depth                      20 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.39 s
+    Azimuthal gap             286 deg
+
+4 Network magnitudes:
+    MLv       2.55 +/- 0.21   7            
+    M         2.65            7 preferred  
+    ML        2.82 +/- 0.33   7            
+    Mjma      2.69 +/- 0.17   7            
+
+14 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    CSJI  IA    0.4   3  P       02:36:45.1  -0.1 M  1.0  CSJI 
+    CSJI  IA    0.4   3  S       02:36:52.0   0.0 M  1.0  CSJI 
+    SKJI  IA    0.7   5  P       02:36:50.8   0.7 M  1.0  SKJI 
+    SKJI  IA    0.7   5  S       02:37:00.2  -0.4 M  1.0  SKJI 
+    PSJM  IA    0.7   5  P       02:36:50.2  -0.3 M  1.0  PSJM 
+    PSJM  IA    0.7   5  S       02:37:00.8  -0.3 M  1.0  PSJM 
+    CNJI  IA    0.7  57  P       02:36:51.1   0.4 M  1.0  CNJI 
+    CNJI  IA    0.7  57  S       02:37:01.7   0.1 M  1.0  CNJI 
+    CCJM  IA    0.9  43  P       02:36:53.5  -0.2 M  1.0  CCJM 
+    CCJM  IA    0.9  43  S       02:37:07.1   0.2 M  1.0  CCJM 
+    CBJM  IA    1.1  48  P       02:36:56.7  -0.0 M  1.0  CBJM 
+    CBJM  IA    1.1  48  S       02:37:12.8   0.6 M  1.0  CBJM 
+    BBJI  IA    1.2  78  P       02:36:57.0  -0.0 M  1.0  BBJI 
+    BBJI  IA    1.2  78  S       02:37:12.0  -0.8 M  1.0  BBJI 
+
+21 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    CSJI  IA    0.4   3  ML      3.27  0.45    8.15011      
+    CSJI  IA    0.4   3  MLv     2.61  0.07    1.77232      
+    CSJI  IA    0.4   3  Mjma    2.38 -0.32        N/A  N/A 
+    SKJI  IA    0.7   5  ML      2.98  0.16    1.21368      
+    SKJI  IA    0.7   5  MLv     2.76  0.22   0.741696      
+    SKJI  IA    0.7   5  Mjma    2.81  0.12        N/A  N/A 
+    PSJM  IA    0.7   5  ML      2.60 -0.21   0.502692      
+    PSJM  IA    0.7   5  MLv     2.51 -0.04   0.401818      
+    PSJM  IA    0.7   5  Mjma    2.74  0.05        N/A  N/A 
+    CNJI  IA    0.7  57  ML      2.44 -0.38   0.332873      
+    CNJI  IA    0.7  57  MLv     2.45 -0.10   0.341728      
+    CNJI  IA    0.7  57  Mjma    2.46 -0.23        N/A  N/A 
+    CCJM  IA    0.9  43  ML      3.57  0.75    3.48929      
+    CCJM  IA    0.9  43  MLv     3.31  0.76    1.91574      
+    CCJM  IA    0.9  43  Mjma    3.01  0.32        N/A  N/A 
+    CBJM  IA    1.1  48  ML      2.55 -0.27   0.257914      
+    CBJM  IA    1.1  48  MLv     2.33 -0.21   0.156618      
+    CBJM  IA    1.1  48  Mjma    2.82  0.13        N/A  N/A 
+    BBJI  IA    1.2  78  ML      2.64 -0.18   0.310501      
+    BBJI  IA    1.2  78  MLv     2.33 -0.22   0.149824      
+    BBJI  IA    1.2  78  Mjma    2.62 -0.07        N/A  N/A 
+
+stageofbandung

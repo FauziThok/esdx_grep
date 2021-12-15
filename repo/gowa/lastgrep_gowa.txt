@@ -1,0 +1,80 @@
+Event:
+    Public ID              bmkg2021ynnk
+    Description
+      region name: Flores Sea
+Origin:
+    Date                   2021-12-15
+    Time                   22:24:00.9  +/-    0.7 s
+    Latitude                -7.56 deg  +/-      6 km
+    Longitude              120.89 deg  +/-      7 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.91 s
+    Azimuthal gap             200 deg
+
+5 Network magnitudes:
+    MLv       4.75 +/- 0.28  13            
+    mB        5.24 +/- 0.14   5            
+    Mw(mB)    4.63 +/- 0.40   5            
+    mb        5.23 +/- 0.15   6            
+    M         4.84           13 preferred  
+
+30 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    BSSI  IA    1.5 344  P       22:24:24.1  -2.8 A  1.0  BSSI 
+    MMRI  IA    1.7 129  P       22:24:31.6   1.0 A  1.0  MMRI 
+    LRTI  IA    2.2 109  P       22:24:36.5  -1.1 A  1.0  LRTI 
+    BKSI  IA    2.3 341  P       22:24:36.7  -2.9 A  1.0  BKSI 
+    BBSI  IA    2.6  39  P       22:24:41.9  -1.7 A  1.0  BBSI 
+    TBCM  IA    2.7 347  P       22:24:42.0  -2.4 A  1.0  TBCM 
+    MKS   IA    2.7 329  P       22:24:45.8   1.2 A  1.0  MKS  
+    KAPI  II    2.8 336  P       22:24:44.5  -0.8 A  1.0  KAPI 
+    LSCM  IA    3.3 343  P       22:24:53.8   0.9 A  1.0  LSCM 
+    SWCM  IA    3.4 345  P       22:24:59.1   4.6 AX 0.0  SWCM 
+    KKSI  IA    3.4  13  P       22:24:52.1  -2.5 A  1.0  KKSI 
+    PPCM  IA    4.0 343  P       22:25:05.6   3.6 AX 0.0  PPCM 
+    LKCI  IA    4.0 360  P       22:25:15.8  13.0 AX 0.0  LKCI 
+    TWSI  IA    4.1 253  P       22:25:12.1   7.9 AX 0.0  TWSI 
+    LPCM  IA    4.2 341  P       22:25:11.2   5.5 AX 0.0  LPCM 
+    PMSI  IA    4.5 334  P       22:25:22.6  13.7 AX 0.0  PMSI 
+    MMCI  IA    4.8 342  P       22:25:15.2   1.6 A  1.0  MMCI 
+    SRSI  IA    5.0 360  P       22:25:18.0   2.1 A  1.0  SRSI 
+    MSCM  IA    5.0 353  P       22:25:18.0   1.6 A  1.0  MSCM 
+    BTCM  IA    5.2  12  P       22:25:17.2  -1.0 A  1.0  BTCM 
+    MMSI  IA    5.2 338  P       22:25:22.5   3.4 AX 0.0  MMSI 
+    WMCM  IA    5.4   8  P       22:25:25.1   4.1 AX 0.0  WMCM 
+    LUCM  IA    6.1 355  P       22:25:37.7   6.3 AX 0.0  LUCM 
+    ABJI  IA    6.6 268  P       22:25:48.3  10.3 AX 0.0  ABJI 
+    APSI  IA    6.6   7  P       22:25:42.0   3.3 A  1.0  APSI 
+    PCI   IA    6.7 351  P       22:25:46.6   7.3 AX 0.0  PCI  
+    LUWI  IA    6.7  16  P       22:25:40.5   0.5 A  1.0  LUWI 
+    MPSI  IA    7.9 353  P       22:26:01.1   5.1 AX 0.0  MPSI 
+    MRSI  IA    8.0   8  P       22:25:58.1   0.1 A  1.0  MRSI 
+    SMSI  IA    8.6  10  P       22:26:08.5   2.7 A  1.0  SMSI 
+
+20 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    BSSI  IA    1.5 344  MLv     5.01  0.26    49.8855     
+    BKSI  IA    2.3 341  MLv     4.52 -0.22    5.19526     
+    BBSI  IA    2.6  39  MLv     4.62 -0.13    4.39811     
+    TBCM  IA    2.7 347  MLv     4.61 -0.13    4.12655     
+    MKS   IA    2.7 329  MLv     4.77  0.03    5.79577     
+    KAPI  II    2.8 336  MLv     4.54 -0.20    3.18061     
+    LSCM  IA    3.3 343  MLv     4.81  0.07    2.91669     
+    MMCI  IA    4.8 342  MLv     4.53 -0.21   0.536836     
+    SRSI  IA    5.0 360  MLv     4.38 -0.36   0.341843     
+    MSCM  IA    5.0 353  MLv     4.44 -0.30   0.383511     
+    BTCM  IA    5.2  12  MLv     5.15  0.40     1.8105     
+    APSI  IA    6.6   7  MLv     5.10  0.35   0.688763     
+    APSI  IA    6.6   7  mB      5.29  0.05    2070.27     
+    APSI  IA    6.6   7  mb      5.27  0.04    159.665 0.70
+    LUWI  IA    6.7  16  MLv     5.21  0.47   0.850175     
+    LUWI  IA    6.7  16  mb      5.29  0.06    272.998 1.17
+    MRSI  IA    8.0   8  mB      5.17 -0.07    1276.02     
+    MRSI  IA    8.0   8  mb      5.13 -0.11    143.806 1.09
+    SMSI  IA    8.6  10  mB      5.20 -0.04    1207.33     
+    SMSI  IA    8.6  10  mb      5.30  0.07    171.905 0.99
+
+stageofgowa

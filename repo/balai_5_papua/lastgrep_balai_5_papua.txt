@@ -1,0 +1,39 @@
+Event:
+    Public ID              bmg2021yktw
+    Description
+      region name: Near North Coast of Irian Jaya
+Origin:
+    Date                   2021-12-14
+    Time                   10:16:51.6  +/-  0.7 s
+    Latitude                -2.07 deg  +/-    8 km
+    Longitude              139.15 deg  +/-    5 km
+    Depth                      29 km   +/-    9 km
+    Agency                 bmkg
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              1.13 s
+    Azimuthal gap             180 deg
+
+2 Network magnitudes:
+    MLv       3.81 +/- 0.43   5            
+    M         3.81            5 preferred  
+
+7 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    SMPI  IA    0.4 281  P       10:17:02.4   0.0 M  1.0  SMPI 
+    GENI  IA    1.1 117  P       10:17:11.7   0.1 M  1.0  GENI 
+    LJPI  IA    1.3 143  P       10:17:13.3  -0.7 M  1.0  LJPI 
+    JAY   IA    1.6 106  P       10:17:18.1  -0.0 M  1.0  JAY  
+    WAMI  IA    2.0 186  P       10:17:22.0  -1.8 M  1.0  WAMI 
+    DYPI  IA    2.8 173  P       10:17:36.6   2.3 M  1.0  DYPI 
+    BAKI  IA    3.2 286  P       10:17:39.5   0.1 M  1.0  BAKI 
+
+5 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    SMPI  IA    0.4 281  MLv     3.48 -0.33    8.59424      
+    GENI  IA    1.1 117  MLv     3.82  0.01    4.84969      
+    JAY   IA    1.6 106  MLv     3.22 -0.59   0.662486      
+    WAMI  IA    2.0 186  MLv     4.54  0.73    8.19397      
+    BAKI  IA    3.2 286  MLv     4.08  0.27   0.665207      
+
+Balai5Papua

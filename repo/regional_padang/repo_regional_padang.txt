@@ -1,0 +1,363 @@
+Event:
+    Public ID              bmkg2021yhoc
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-12
+    Time                   15:56:37.9  +/-    0.7 s
+    Latitude                -0.06 deg  +/-      2 km
+    Longitude              100.17 deg  +/-      2 km
+    Depth                      10 km   +/-    5 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.70 s
+    Azimuthal gap             102 deg
+
+4 Network magnitudes:
+    Mjma      1.99 +/- 0.09   5            
+    ML        1.92 +/- 0.22   7            
+    MLv       1.86 +/- 0.19   7            
+    M         1.91            7 preferred  
+
+13 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    SMSM  IA    0.1 360  P       15:56:41.1   0.6 M  1.0  SMSM 
+    SMSM  IA    0.1 360  S       15:56:43.1   0.6 M  1.0  SMSM 
+    TASI  IA    0.3 199  P       15:56:46.2   1.7 M  1.0  TASI 
+    TASI  IA    0.3 199  S       15:56:48.3  -1.1 M  1.0  TASI 
+    SASI  IA    0.3 301  P       15:56:45.7  -0.0 M  1.0  SASI 
+    PABI  IA    0.3 301  P       15:56:45.6  -0.1 M  1.0  PABI 
+    PABI  IA    0.3 301  S       15:56:51.1  -0.3 M  1.0  PABI 
+    PPI   IA    0.5 150  P       15:56:47.8   0.2 M  1.0  PPI  
+    PPI   IA    0.5 150  S       15:56:54.2  -0.5 M  1.0  PPI  
+    PLSI  IA    0.5  53  P       15:56:48.3   0.3 M  1.0  PLSI 
+    PLSI  IA    0.5  53  S       15:56:55.0  -0.4 M  1.0  PLSI 
+    MPSM  IA    0.6 357  P       15:56:50.8  -0.0 M  1.0  MPSM 
+    MPSM  IA    0.6 357  S       15:56:59.4  -0.9 M  1.0  MPSM 
+
+13 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    SMSM  IA    0.1 360  ML      1.71 -0.21    1.84456     
+    SMSM  IA    0.1 360  MLv     1.72 -0.14    1.86951     
+    TASI  IA    0.3 199  ML      2.19  0.26    1.27231     
+    TASI  IA    0.3 199  MLv     2.06  0.21   0.958843     
+    SASI  IA    0.3 301  ML      1.98  0.05   0.517796     
+    SASI  IA    0.3 301  MLv     2.04  0.18   0.588753     
+    PABI  IA    0.3 301  ML      1.73 -0.19   0.289884     
+    PABI  IA    0.3 301  Mjma    1.90 -0.09   0.342758     
+    PPI   IA    0.5 150  MLv     1.72 -0.14   0.140278     
+    PLSI  IA    0.5  53  ML      1.97  0.04   0.211122     
+    PLSI  IA    0.5  53  MLv     1.75 -0.11   0.127527     
+    PLSI  IA    0.5  53  Mjma    2.01  0.02   0.255908     
+    MPSM  IA    0.6 357  Mjma    2.07  0.08   0.175787     
+
+Regional6Padang
+Event:
+    Public ID              bmkg2021yjlo
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-13
+    Time                   16:54:42.4  +/-    1.0 s
+    Latitude                -0.35 deg  +/-      6 km
+    Longitude               98.51 deg  +/-      5 km
+    Depth                      78 km   +/-   11 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.29 s
+    Azimuthal gap             172 deg
+
+2 Network magnitudes:
+    MLv       3.09 +/- 0.27   8            
+    M         3.09            8 preferred  
+
+14 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PBSI  IA    0.4 321  P       16:54:56.7   0.3 M  1.0  PBSI 
+    PBSI  IA    0.4 321  S       16:55:06.8  -0.2 M  1.0  PBSI 
+    SISI  IA    1.1 149  P       16:55:03.1   0.2 M  1.0  SISI 
+    PABI  IA    1.4  71  P       16:55:06.7  -0.2 M  1.0  PABI 
+    TASI  IA    1.6  89  P       16:55:08.7   0.2 M  1.0  TASI 
+    TASI  IA    1.6  89  S       16:55:29.1   0.3 M  1.0  TASI 
+    SMSM  IA    1.7  78  P       16:55:10.2   0.1 M  1.0  SMSM 
+    MPSM  IA    1.9  60  P       16:55:12.9   0.4 M  1.0  MPSM 
+    MPSM  IA    1.9  60  S       16:55:36.0  -0.0 M  1.0  MPSM 
+    PPI   IA    1.9  93  P       16:55:12.0  -0.7 M  1.0  PPI  
+    PDSI  IA    2.0 106  P       16:55:14.2  -0.4 M  1.0  PDSI 
+    PLSI  IA    2.1  74  P       16:55:15.9   0.1 M  1.0  PLSI 
+    PLSI  IA    2.1  74  S       16:55:41.8  -0.1 M  1.0  PLSI 
+    BPSM  IA    2.2 112  P       16:55:17.6   0.1 M  1.0  BPSM 
+
+8 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    SISI  IA    1.1 149  MLv     2.62 -0.47   0.305324     
+    PABI  IA    1.4  71  MLv     3.33  0.24    1.07851     
+    TASI  IA    1.6  89  MLv     3.25  0.16   0.752286     
+    SMSM  IA    1.7  78  MLv     3.28  0.19   0.689923     
+    MPSM  IA    1.9  60  MLv     2.77 -0.32   0.169713     
+    PPI   IA    1.9  93  MLv     2.87 -0.21   0.211715     
+    PDSI  IA    2.0 106  MLv     3.23  0.14   0.401307     
+    PLSI  IA    2.1  74  MLv     3.30  0.21   0.415863     
+
+Regional6Padang
+Event:
+    Public ID              bmkg2021yjqn
+    Description
+      region name: Off West Coast of Northern Sumatra
+Origin:
+    Date                   2021-12-13
+    Time                   19:26:06.9  +/-    0.5 s
+    Latitude                 0.40 deg  +/-      3 km
+    Longitude               96.74 deg  +/-      4 km
+    Depth                      10 km   (fixed)
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.69 s
+    Azimuthal gap             233 deg
+
+10 Network magnitudes:
+    mBc       6.65 +/- 0.02   3            
+    Mw(mBc)   6.01 +/- 0.40   3            
+    mb        4.96 +/- 0.14   6            
+    mB        5.18 +/- 0.19   3            
+    Mw(mB)    4.56 +/- 0.40   3            
+    Mjma      4.03 +/- 0.19  18            
+    ML        4.42 +/- 0.40  17            
+    MLv       4.40 +/- 0.31  18            
+    Ms(BB)    3.92 +/- 0.24  16            
+    M         4.84           18 preferred  
+
+29 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    GSI   IA    1.2  43  P       19:26:30.1   0.6 M  1.0  GSI  
+    PBSI  IA    1.6 106  P       19:26:34.8  -0.3 M  1.0  PBSI 
+    PBSI  IA    1.6 106  S       19:26:55.0  -1.5 M  1.0  PBSI 
+    SBSM  IA    2.6  94  P       19:26:49.0  -0.7 M  1.0  SBSM 
+    TRSI  IA    2.7  54  P       19:26:51.6   0.6 M  1.0  TRSI 
+    MNSI  IA    2.9  82  P       19:26:52.6  -0.2 M  1.0  MNSI 
+    MNSI  IA    2.9  82  S       19:27:27.5  -0.7 M  1.0  MNSI 
+    TPTI  IA    2.9   9  P       19:26:51.8  -1.0 M  1.0  TPTI 
+    SISI  IA    2.9 126  P       19:26:52.1  -1.3 M  1.0  SISI 
+    PABI  IA    3.1  95  P       19:26:56.7   0.1 M  1.0  PABI 
+    PSI   IA    3.2  44  P       19:26:57.3   0.6 M  1.0  PSI  
+    KCSI  IA    3.3  18  P       19:26:57.8  -0.4 M  1.0  KCSI 
+    KCSI  IA    3.3  18  S       19:27:37.9  -0.2 M  1.0  KCSI 
+    MPSM  IA    3.4  87  P       19:27:00.1   0.0 M  1.0  MPSM 
+    MPSM  IA    3.4  87  S       19:27:41.4  -0.1 M  1.0  MPSM 
+    TASI  IA    3.4 102  P       19:27:01.9   1.6 M  1.0  TASI 
+    TASI  IA    3.4 102  S       19:27:43.1   1.2 M  1.0  TASI 
+    SMSM  IA    3.5  97  P       19:27:01.2   0.3 M  1.0  SMSM 
+    PLSI  IA    3.8  92  P       19:27:06.0   0.2 M  1.0  PLSI 
+    PDSI  IA    3.9 109  P       19:27:07.7   0.1 M  1.0  PDSI 
+    BPSM  IA    4.2 112  P       19:27:10.3  -0.3 M  1.0  BPSM 
+    SDSI  IA    4.9 106  P       19:27:20.8   0.4 M  1.0  SDSI 
+    SSSM  IA    4.9 113  P       19:27:21.2   0.4 M  1.0  SSSM 
+    JASI  IA    5.1 111  P       19:27:23.1   0.2 M  1.0  JASI 
+    SKSM  IA    5.2 117  P       19:27:24.5   0.2 M  1.0  SKSM 
+    MKBI  IA    5.3 122  P       19:27:27.1   0.7 M  1.0  MKBI 
+    KRJI  IA    5.3 118  P       19:27:26.6  -0.1 M  1.0  KRJI 
+    MASI  IA    6.5 123  P       19:27:43.6   0.5 M  1.0  MASI 
+    EGSI  IA    8.0 136  P       19:28:01.7  -1.0 M  1.0  EGSI 
+
+73 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PBSI  IA    1.6 106  ML      3.82 -0.60    2.64005     
+    PBSI  IA    1.6 106  MLv     4.11 -0.29     5.1874     
+    PBSI  IA    1.6 106  Mjma    4.37  0.34    7.23931     
+    TRSI  IA    2.7  54  ML      4.57  0.16    3.51746     
+    TRSI  IA    2.7  54  MLv     4.47  0.07    2.77421     
+    TRSI  IA    2.7  54  Mjma    4.12  0.09    1.62553     
+    TRSI  IA    2.7  54  Ms(BB)  4.13  0.21   7.97047e-06 0.58
+    MNSI  IA    2.9  82  ML      4.73  0.31    4.34895     
+    MNSI  IA    2.9  82  MLv     4.61  0.21    3.30199     
+    MNSI  IA    2.9  82  Mjma    4.12  0.09    1.50712     
+    MNSI  IA    2.9  82  Ms(BB)  4.35  0.43   1.2379e-05 0.28
+    TPTI  IA    2.9   9  Ms(BB)  3.41 -0.51   1.39403e-06 0.34
+    SISI  IA    2.9 126  ML      3.86 -0.56    0.54592     
+    SISI  IA    2.9 126  MLv     3.92 -0.48   0.634711     
+    SISI  IA    2.9 126  Mjma    4.03 -0.00    1.18247     
+    SISI  IA    2.9 126  Ms(BB)  3.57 -0.36   1.95463e-06 1.04
+    KCSI  IA    3.3  18  ML      3.79 -0.63   0.289878     
+    KCSI  IA    3.3  18  MLv     3.99 -0.41   0.466366     
+    KCSI  IA    3.3  18  Mjma    3.70 -0.33   0.453879     
+    KCSI  IA    3.3  18  Ms(BB)  3.53 -0.39   1.46667e-06 0.41
+    MPSM  IA    3.4  87  MLv     3.89 -0.51   0.317041     
+    MPSM  IA    3.4  87  Mjma    3.78 -0.25   0.507126     
+    TASI  IA    3.4 102  ML      4.69  0.27    1.92761     
+    TASI  IA    3.4 102  MLv     4.46  0.06    1.15764     
+    TASI  IA    3.4 102  Mjma    3.97 -0.06   0.788738     
+    TASI  IA    3.4 102  Ms(BB)  3.94  0.02   3.53223e-06 0.37
+    SMSM  IA    3.5  97  ML      4.42 -0.00   0.995269     
+    SMSM  IA    3.5  97  MLv     4.61  0.21    1.56033     
+    SMSM  IA    3.5  97  Mjma    4.25  0.22    1.47932     
+    SMSM  IA    3.5  97  Ms(BB)  3.94  0.02   3.47232e-06 0.74
+    PLSI  IA    3.8  92  ML      4.52  0.10   0.924443     
+    PLSI  IA    3.8  92  MLv     4.69  0.29    1.36487     
+    PLSI  IA    3.8  92  Mjma    4.17  0.14    1.02637     
+    PLSI  IA    3.8  92  Ms(BB)  4.08  0.16   4.08014e-06 0.12
+    PDSI  IA    3.9 109  ML      4.58  0.16   0.974568     
+    PDSI  IA    3.9 109  MLv     4.51  0.11   0.841468     
+    PDSI  IA    3.9 109  Mjma    3.91 -0.12   0.534112     
+    PDSI  IA    3.9 109  Ms(BB)  3.93  0.01   2.72957e-06 0.44
+    BPSM  IA    4.2 112  Mjma    4.20  0.17   0.940891     
+    SDSI  IA    4.9 106  ML      3.94 -0.48   0.131353     
+    SDSI  IA    4.9 106  MLv     4.13 -0.27   0.205945     
+    SDSI  IA    4.9 106  Mjma    3.85 -0.18    0.32303     
+    SDSI  IA    4.9 106  Ms(BB)  3.64 -0.28   9.97924e-07 0.13
+    SSSM  IA    4.9 113  ML      4.74  0.32   0.823389     
+    SSSM  IA    4.9 113  MLv     4.65  0.25   0.661789     
+    SSSM  IA    4.9 113  Mjma    3.93 -0.10   0.381412     
+    SSSM  IA    4.9 113  Ms(BB)  4.00  0.08   2.24738e-06 0.41
+    JASI  IA    5.1 111  ML      4.60  0.18   0.543214     
+    JASI  IA    5.1 111  MLv     4.47  0.07   0.401951     
+    JASI  IA    5.1 111  Mjma    3.90 -0.13   0.340376     
+    JASI  IA    5.1 111  Ms(BB)  3.93  0.01   1.80245e-06 0.12
+    JASI  IA    5.1 111  mb      4.90 -0.06     86.992 0.64
+    SKSM  IA    5.2 117  ML      4.79  0.37   0.792018     
+    SKSM  IA    5.2 117  MLv     4.60  0.20   0.509111     
+    SKSM  IA    5.2 117  Mjma    4.09  0.06   0.510858     
+    SKSM  IA    5.2 117  Ms(BB)  4.26  0.34   3.7578e-06 0.14
+    SKSM  IA    5.2 117  mB      5.33  0.15    3110.48     
+    SKSM  IA    5.2 117  mBc     6.64 -0.02    62481.8     
+    MKBI  IA    5.3 122  ML      4.48  0.06   0.354933     
+    MKBI  IA    5.3 122  MLv     4.52  0.12   0.386426     
+    MKBI  IA    5.3 122  Mjma    4.10  0.07   0.494172     
+    MKBI  IA    5.3 122  Ms(BB)  3.84 -0.08   1.34201e-06 0.10
+    MKBI  IA    5.3 122  mB      4.97 -0.22    1296.46     
+    MKBI  IA    5.3 122  mBc     6.66  0.01    63645.5     
+    MKBI  IA    5.3 122  mb      4.90 -0.05    92.2344 0.71
+    KRJI  IA    5.3 118  Ms(BB)  4.10  0.18   2.47906e-06 0.34
+    KRJI  IA    5.3 118  mB      5.25  0.07    2479.06     
+    KRJI  IA    5.3 118  mBc     6.66  0.01    63882.9     
+    MASI  IA    6.5 123  ML      4.82  0.40   0.381501     
+    MASI  IA    6.5 123  MLv     4.83  0.43   0.396483     
+    MASI  IA    6.5 123  Ms(BB)  4.05  0.13   1.56134e-06 3.87
+    MASI  IA    6.5 123  mb      4.86 -0.09    57.6487 0.64
+    EGSI  IA    8.0 136  mb      5.12  0.17    72.5375 0.55
+
+Regional6Padang
+Event:
+    Public ID              bmkg2021ykib
+    Description
+      region name: Northern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-14
+    Time                   04:17:39.4  +/-    0.6 s
+    Latitude                 0.02 deg  +/-      5 km
+    Longitude               99.40 deg  +/-      4 km
+    Depth                      77 km   +/-    6 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             1.02 s
+    Azimuthal gap             101 deg
+
+2 Network magnitudes:
+    MLv       3.22 +/- 0.27   7            
+    M         3.22            7 preferred  
+
+18 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    SBSM  IA    0.2 352  P       04:17:50.3  -1.4 M  1.0  SBSM 
+    SBSM  IA    0.2 352  S       04:18:01.7   0.6 M  1.0  SBSM 
+    PABI  IA    0.5  78  P       04:17:54.1   0.0 M  1.0  PABI 
+    PABI  IA    0.5  78  S       04:18:05.6   0.2 M  1.0  PABI 
+    SASI  IA    0.5  78  P       04:17:54.2   0.0 M  1.0  SASI 
+    SASI  IA    0.5  78  S       04:18:05.9   0.5 M  1.0  SASI 
+    TASI  IA    0.8 117  P       04:18:00.5   4.2 MX 0.0  TASI 
+    TASI  IA    0.8 117  S       04:18:02.9  -6.5 MX 0.0  TASI 
+    SMSM  IA    0.8  92  P       04:17:57.8   1.4 M  1.0  SMSM 
+    MPSM  IA    0.9  53  P       04:17:56.6  -1.0 M  1.0  MPSM 
+    MPSM  IA    0.9  53  S       04:18:10.0  -1.7 M  1.0  MPSM 
+    PPI   IA    1.1 116  P       04:18:03.4   3.9 MX 0.0  PPI  
+    PBSI  IA    1.1 266  P       04:18:01.1   1.2 M  1.0  PBSI 
+    PLSI  IA    1.2  80  P       04:18:01.7   1.3 M  1.0  PLSI 
+    SBSI  IA    1.4   1  P       04:18:03.2   0.2 M  1.0  SBSI 
+    SISI  IA    1.4 193  P       04:18:01.8  -1.3 M  1.0  SISI 
+    BPSM  IA    1.7 136  P       04:18:09.9   2.7 MX 0.0  BPSM 
+    SDSI  IA    2.2 115  P       04:18:12.0  -2.4 MX 0.0  SDSI 
+
+7 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PABI  IA    0.5  78  MLv     3.24  0.02    4.04714     
+    SASI  IA    0.5  78  MLv     3.66  0.44    10.4214     
+    SMSM  IA    0.8  92  MLv     3.03 -0.18    1.28153     
+    MPSM  IA    0.9  53  MLv     2.75 -0.47   0.537637     
+    PBSI  IA    1.1 266  MLv     3.21 -0.00    1.22531     
+    PLSI  IA    1.2  80  MLv     3.22  0.00    1.17564     
+    SBSI  IA    1.4   1  MLv     3.40  0.18    1.36615     
+
+Regional6Padang
+Event:
+    Public ID              bmkg2021ylzy
+    Description
+      region name: Southern Sumatra, Indonesia
+Origin:
+    Date                   2021-12-15
+    Time                   02:28:08.1  +/-    0.7 s
+    Latitude                -0.26 deg  +/-      5 km
+    Longitude               98.72 deg  +/-      6 km
+    Depth                      27 km   +/-   11 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS             0.34 s
+    Azimuthal gap             133 deg
+
+5 Network magnitudes:
+    Mjma      3.30 +/- 0.20   9            
+    ML        3.53 +/- 0.32   9            
+    MLv       3.46 +/- 0.30   9            
+    Ms(BB)    3.92 +/- 0.00   1            
+    M         3.54            9 preferred  
+
+12 Phase arrivals:
+    sta   net  dist azi  phase   time         res     wt  sta  
+    PBSI  IA    0.5 294  P       02:28:19.4   0.1 M  1.0  PBSI 
+    SISI  IA    1.1 161  P       02:28:27.9  -0.2 M  1.0  SISI 
+    PABI  IA    1.2  72  P       02:28:28.7  -0.6 M  1.0  PABI 
+    MNSI  IA    1.4  39  P       02:28:31.0  -0.2 M  1.0  MNSI 
+    SMSM  IA    1.5  80  P       02:28:32.8  -0.1 M  1.0  SMSM 
+    MPSM  IA    1.6  59  P       02:28:35.1  -0.2 M  1.0  MPSM 
+    PPI   IA    1.7  97  P       02:28:36.6   0.8 M  1.0  PPI  
+    SBSI  IA    1.8  23  P       02:28:37.3   0.0 M  1.0  SBSI 
+    PDSI  IA    1.9 111  P       02:28:38.2  -0.0 M  1.0  PDSI 
+    PLSI  IA    1.9  75  P       02:28:39.3   0.5 M  1.0  PLSI 
+    GSI   IA    1.9 324  P       02:28:39.2   0.0 M  1.0  GSI  
+    BPSM  IA    2.1 116  P       02:28:41.1  -0.2 M  1.0  BPSM 
+
+28 Station magnitudes:
+    sta   net  dist azi  type   value   res        amp  per
+    PBSI  IA    0.5 294  ML      3.68  0.16    10.8615     
+    PBSI  IA    0.5 294  MLv     3.50  0.03    7.11768     
+    PBSI  IA    0.5 294  Mjma    3.27 -0.03    4.64955     
+    SISI  IA    1.1 161  ML      2.90 -0.62   0.592864     
+    SISI  IA    1.1 161  MLv     2.80 -0.66   0.468453     
+    SISI  IA    1.1 161  Mjma    3.10 -0.20   0.722248     
+    PABI  IA    1.2  72  ML      3.53  0.01    2.29545     
+    PABI  IA    1.2  72  MLv     3.45 -0.02    1.87731     
+    PABI  IA    1.2  72  Mjma    3.17 -0.13   0.757463     
+    MNSI  IA    1.4  39  MLv     3.87  0.40    4.08948     
+    MNSI  IA    1.4  39  Mjma    3.56  0.26    1.52207     
+    SMSM  IA    1.5  80  ML      3.77  0.25    2.86527     
+    SMSM  IA    1.5  80  MLv     3.64  0.17    2.09014     
+    SMSM  IA    1.5  80  Mjma    3.55  0.25    1.29152     
+    PPI   IA    1.7  97  ML      3.17 -0.36    0.53672     
+    PPI   IA    1.7  97  MLv     3.14 -0.33   0.497979     
+    SBSI  IA    1.8  23  ML      3.92  0.40    2.65431     
+    PDSI  IA    1.9 111  ML      3.47 -0.06   0.858486     
+    PDSI  IA    1.9 111  MLv     3.42 -0.05   0.763275     
+    PDSI  IA    1.9 111  Mjma    3.12 -0.18   0.321477     
+    PLSI  IA    1.9  75  ML      3.31 -0.21   0.572061     
+    PLSI  IA    1.9  75  MLv     3.44 -0.03   0.765736     
+    PLSI  IA    1.9  75  Mjma    3.40  0.10   0.594048     
+    GSI   IA    1.9 324  Mjma    3.03 -0.27   0.244913     
+    BPSM  IA    2.1 116  ML      3.88  0.36    1.66967     
+    BPSM  IA    2.1 116  MLv     3.84  0.38    1.51447     
+    BPSM  IA    2.1 116  Mjma    3.50  0.20   0.628392     
+    BPSM  IA    2.1 116  Ms(BB)  3.92  0.00   7.7015e-06 0.19
+
+Regional6Padang
